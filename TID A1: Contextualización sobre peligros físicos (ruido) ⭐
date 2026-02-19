@@ -1,0 +1,314 @@
+<div
+  style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 1.7; background: linear-gradient(180deg, #f9fbfd 0%, #eef3f8 100%); padding: 24px; border: 1px solid #cfd8e3; border-left: 6px solid #1f4e79; border-radius: 6px;">
+  <h2>⭐ Gestión del Peligro Físico: Ruido Ocupacional</h2>
+  <hr><!-- ESTUDIO DE CASO -->
+  <details open="">
+    <summary style="font-size: 18px; cursor: pointer;"><strong>🏭 Estudio de
+        Caso</strong></summary>
+    <p>La empresa MetalMecánica Andina S.A.cuenta con un área de producción
+      donde un trabajador desarrolla actividades operativas durante una jornada
+      laboral de 8 horas diarias.</p>
+    <p>El área presenta las siguientes condiciones:</p>
+    <ul>
+      <li>Equipos generadores de ruido: esmeril, compresor, prensa hidráulica y
+        martillo neumático.</li>
+      <li>Trabajador operativo del área de producción metalmecánica, encargado
+        de labores de corte, desbaste, ajuste y conformado de piezas metálicas,
+        con exposición continua a fuentes generadoras de ruido durante una
+        jornada laboral de 8 horas diarias.</li>
+      <li>Actividades realizadas de forma alternada durante la jornada.</li>
+      <li>Paredes rígidas de concreto, sin recubrimientos acústicos.</li>
+      <li>No existen controles en la fuente (equipos sin encapsulamiento ni
+        control acústico).</li>
+      <li>No existen controles en el medio (ausencia de paneles absorbentes o
+        barreras).</li>
+      <li>Uso de protectores auditivos genéricos, sin información clara de
+        atenuación.</li>
+    </ul>
+    <p>Para evaluar la exposición, se realizó una medición con un
+      <strong>dosímetro de ruido personal</strong>, obteniéndose el siguiente
+      resultado:</p>
+    <p><strong>LAeq,d = 92 dB(A)</strong></p>
+  </details>
+  <hr><!-- ESCENARIO -->
+  <details>
+    <summary style="font-size: 18px; cursor: pointer;"><strong>🖼️ ESCENARIO –
+        Recreación del entorno de trabajo</strong></summary>
+    <p>El equipo deberá recrear visualmente el escenario laboral descrito en el
+      estudio de caso utilizando herramientas de generación de imágenes con
+      Inteligencia Artificial (por ejemplo: ImageFX, Leonardo AI, o Meta AI).
+    </p>
+    <p>La imagen generada debe representar:</p>
+    <ul>
+      <li>Área industrial metalmecánica.</li>
+      <li>Trabajador operativo en jornada laboral.</li>
+      <li>Presencia de esmeril, compresor, prensa hidráulica y martillo
+        neumático.</li>
+      <li>Paredes rígidas de concreto sin tratamiento acústico.</li>
+      <li>Ausencia de controles en la fuente y en el medio.</li>
+      <li>Uso de protectores auditivos genéricos.</li>
+      <li>Ambiente cerrado con posible reverberación sonora.</li>
+    </ul>
+    <p><strong>Requisitos:</strong></p>
+    <ul>
+      <li>Incluir la imagen o el link en el producto final.</li>
+    </ul>
+  </details>
+  <hr><!-- OBJETIVO -->
+  <details>
+    <summary style="font-size: 18px; cursor: pointer;"><strong>🎯 Objetivo de la
+        Actividad</strong></summary>
+    <p>Aplicar un modelo de gestión del peligro físico (ruido), identificando el
+      peligro, evaluando el nivel de riesgo y diseñando un <strong>Plan de
+        Intervención</strong>, con base en un estudio de caso realista.</p>
+  </details>
+  <hr><!-- FASE 1 -->
+  <details>
+    <summary style="font-size: 18px; cursor: pointer;"><strong>🔎 FASE 1 –
+        Identificación del Peligro</strong></summary>
+    <p><strong>Parte A – Análisis técnico:</strong></p>
+    <ul>
+      <li>Identificar el peligro físico presente.</li>
+      <li>Reconocer las fuentes generadoras de ruido.</li>
+      <li>Identificar al trabajador expuesto y la duración de la jornada.</li>
+      <li>Clasificar el tipo de ruido (ruido continuo).</li>
+      <li>Relacionar los conceptos: sonido, ruido, onda sonora, amplitud y
+        decibeles, respondiendo:
+        <ul>
+          <li>¿Qué es el sonido dentro del caso?</li>
+          <li>¿Cuándo ese sonido se convierte en ruido?</li>
+          <li>¿Cómo se representa físicamente ese ruido?</li>
+          <li>¿Qué papel juega la amplitud?</li>
+          <li>¿Por qué el LAeq resume la exposición diaria?</li>
+          <li>¿En qué unidad se expresa y qué tipo de unidad es?</li>
+        </ul>
+      </li>
+    </ul>
+    <hr>
+    <p><strong>Parte B – Matriz de Identificación del Peligro (sin
+        diligenciar):</strong></p>
+    <table style="border-collapse: collapse; background-color: #ffffff;"
+      width="100%" cellpadding="8">
+      <thead>
+        <tr
+          style="background-color: #1f4e79; color: #ffffff; text-align: center;">
+          <th style="border: 1px solid #b4c6e7;">Proceso / Actividad</th>
+          <th style="border: 1px solid #b4c6e7;">Peligro Identificado</th>
+          <th style="border: 1px solid #b4c6e7;">Fuente Generadora</th>
+          <th style="border: 1px solid #b4c6e7;">Trabajador Expuesto</th>
+          <th style="border: 1px solid #b4c6e7;">Tipo de Ruido</th>
+          <th style="border: 1px solid #b4c6e7;">Tiempo de Exposición</th>
+          <th style="border: 1px solid #b4c6e7;">LAeq,d</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="background-color: #f2f6fc;">
+          <td style="border: 1px solid #b4c6e7;"> </td>
+          <td style="border: 1px solid #b4c6e7;"> </td>
+          <td style="border: 1px solid #b4c6e7;"> </td>
+          <td style="border: 1px solid #b4c6e7;"> </td>
+          <td style="border: 1px solid #b4c6e7;"> </td>
+          <td style="border: 1px solid #b4c6e7;"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p><strong>Nota:</strong> En esta fase no se evalúa el riesgo ni se proponen
+      controles. El objetivo es reconocer e identificar el peligro.</p>
+  </details>
+  <hr><!-- FASE 2 -->
+  <details>
+    <summary style="font-size: 18px; cursor: pointer;"><strong>📐 FASE 2 –
+        Evaluación de la Exposición y Nivel de Riesgo</strong></summary>
+    <p>El <strong>nivel de riesgo</strong> se define como el resultado de
+      combinar la probabilidad de exposición al ruido y la severidad del daño
+      sobre la salud del trabajador.</p>
+    <p>Con base en el resultado <strong>LAeq,d = 92 dB(A)</strong>, el equipo
+      deberá:</p>
+    <ul>
+      <li>Justificar el uso de un dosímetro de ruido en lugar de un sonometro.
+      </li>
+      <li>Interpretar el concepto de LAeq,d para una jornada de 8 horas.</li>
+      <li>Comparar el resultado con el límite permisible de 85 dB(A).</li>
+      <li>Determinar el nivel de riesgo asociado (Es un riesgo BAJO o ALTO?).
+      </li>
+      <li>Analizar cómo influyen:
+        <ul>
+          <li>La ausencia de controles en la fuente.</li>
+          <li>La ausencia de controles en el medio.</li>
+          <li>El tipo de pared y la reverberación.</li>
+          <li>El uso de EPP auditivo con atenuación insuficiente.</li>
+        </ul>
+      </li>
+      <li>Explicar por qué, aunque existan varias fuentes, se obtiene un solo
+        LAeq diario.</li>
+    </ul>
+  </details>
+  <hr><!-- FASE 3 -->
+  <details>
+    <summary style="font-size: 18px; cursor: pointer;"><strong>🛠 FASE 3 – Plan
+        de Intervención</strong></summary>
+    <div style="padding: 15px; background-color: #ffffff;">
+      <p>Con base en el <strong>nivel de riesgo identificado</strong> y el valor
+        de <strong>LAeq diario obtenido</strong>, el equipo deberá proponer un
+        <strong>Plan de Intervención</strong>, priorizando la jerarquía de
+        controles.</p>
+      <p>Las medidas deben estar <strong>técnicamente justificadas</strong> en
+        función de la exposición ocupacional al ruido.</p>
+      <hr>
+      <h4>Lineamientos para la intervención</h4>
+      <ul>
+        <li><strong>Controles en la fuente:</strong> modificación,
+          mantenimiento, sustitución o encapsulamiento de equipos.</li>
+        <li><strong>Controles en el medio:</strong> tratamiento acústico de
+          paredes, reducción de reverberación, barreras acústicas.</li>
+        <li><strong>Controles sobre el trabajador:</strong> selección adecuada
+          de EPP auditivo, capacitación y rotación del personal.</li>
+      </ul>
+      <hr>
+      <h4>Tabla – Plan de Intervención</h4>
+      <table
+        style="width: 100%; border-collapse: collapse; text-align: center;">
+        <tbody>
+          <tr style="background-color: #d9d2f0;">
+            <th style="border: 1px solid #999;">Tipo de control</th>
+            <th style="border: 1px solid #999;">Medida propuesta</th>
+            <th style="border: 1px solid #999;">Justificación
+              técnica<br>(relación con LAeq)</th>
+            <th style="border: 1px solid #999;">Responsable</th>
+            <th style="border: 1px solid #999;">Prioridad</th>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #999;">Fuente</td>
+            <td style="border: 1px solid #999;"> </td>
+            <td style="border: 1px solid #999;"> </td>
+            <td style="border: 1px solid #999;"> </td>
+            <td style="border: 1px solid #999;"> </td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #999;">Medio</td>
+            <td style="border: 1px solid #999;"> </td>
+            <td style="border: 1px solid #999;"> </td>
+            <td style="border: 1px solid #999;"> </td>
+            <td style="border: 1px solid #999;"> </td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #999;">Trabajador</td>
+            <td style="border: 1px solid #999;"> </td>
+            <td style="border: 1px solid #999;"> </td>
+            <td style="border: 1px solid #999;"> </td>
+            <td style="border: 1px solid #999;"> </td>
+          </tr>
+        </tbody>
+      </table>
+      <p style="font-style: italic; margin-top: 10px;">Nota: la selección de
+        medidas debe evidenciar coherencia entre el valor de LAeq, el nivel de
+        riesgo y la jerarquía de controles. Pueden usar Google Gemini para crear
+        el plan de intervención</p>
+    </div>
+  </details>
+  <hr><!-- PRODUCTO FINAL -->
+  <details>
+    <summary style="font-size: 18px; cursor: pointer;"><strong>📦 Producto Final
+        y Entrega</strong></summary>
+    <ul>
+      <li><strong>Escenario recreado en imagen</strong></li>
+      <li><strong>Matriz de identificación</strong></li>
+      <li><strong>Plan de Intervención</strong></li>
+      <li><strong>Mapa conceptual</strong> de los conceptos técnicos.</li>
+    </ul>
+    <p>Entrega en un solo PDF todo el desarrollo de la actividad.</p>
+    <p><strong>Importante:</strong> Se evalúa la aplicación técnica, no la
+      definición aislada.</p>
+  </details>
+</div>
+<hr>
+<details>
+  <summary
+    style="font-size: 18px; cursor: pointer; background-color: #e6edf5; padding: 10px;">
+    <strong>📊 RÚBRICA DE EVALUACIÓN</strong></summary>
+  <div style="padding: 15px; background-color: #ffffff;">
+    <p>La evaluación se realizará con base en los siguientes criterios:</p>
+    <table style="width: 100%; border-collapse: collapse; text-align: center;">
+      <tbody>
+        <tr style="background-color: #1f4e79; color: #ffffff;">
+          <th style="border: 1px solid #b4c6e7;">Criterio</th>
+          <th style="border: 1px solid #b4c6e7;">Excelente (4.5 – 5.0)</th>
+          <th style="border: 1px solid #b4c6e7;">Bueno (4.0 – 4.4)</th>
+          <th style="border: 1px solid #b4c6e7;">Aceptable (3.0 – 3.9)</th>
+          <th style="border: 1px solid #b4c6e7;">Insuficiente (&lt; 3.0)</th>
+        </tr>
+        <tr>
+          <td style="border: 1px solid #b4c6e7;"><strong>Identificación del
+              peligro</strong></td>
+          <td style="border: 1px solid #b4c6e7;">Reconoce correctamente el
+            peligro, fuentes, trabajador expuesto y tipo de ruido.</td>
+          <td style="border: 1px solid #b4c6e7;">Identifica la mayoría de
+            elementos con leves omisiones.</td>
+          <td style="border: 1px solid #b4c6e7;">Identificación parcial o poco
+            clara.</td>
+          <td style="border: 1px solid #b4c6e7;">Errores conceptuales
+            importantes.</td>
+        </tr>
+        <tr style="background-color: #f2f6fc;">
+          <td style="border: 1px solid #b4c6e7;"><strong>Relación de conceptos
+              técnicos</strong></td>
+          <td style="border: 1px solid #b4c6e7;">Explica y relaciona
+            adecuadamente sonido, ruido, onda sonora, amplitud y decibeles.</td>
+          <td style="border: 1px solid #b4c6e7;">Relación adecuada con pequeñas
+            imprecisiones.</td>
+          <td style="border: 1px solid #b4c6e7;">Explicación superficial.</td>
+          <td style="border: 1px solid #b4c6e7;">No demuestra comprensión
+            conceptual.</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid #b4c6e7;"><strong>Evaluación del riesgo
+              (LAeq)</strong></td>
+          <td style="border: 1px solid #b4c6e7;">Interpreta correctamente el
+            LAeq = 92 dB(A), compara con 85 dB(A) y determina el nivel de riesgo
+            de forma técnica.</td>
+          <td style="border: 1px solid #b4c6e7;">Interpretación adecuada con
+            leves fallas.</td>
+          <td style="border: 1px solid #b4c6e7;">Análisis incompleto.</td>
+          <td style="border: 1px solid #b4c6e7;">Interpretación incorrecta del
+            resultado.</td>
+        </tr>
+        <tr style="background-color: #f2f6fc;">
+          <td style="border: 1px solid #b4c6e7;"><strong>Plan de
+              intervención</strong></td>
+          <td style="border: 1px solid #b4c6e7;">Propone controles en fuente,
+            medio y trabajador con justificación técnica coherente con el LAeq.
+          </td>
+          <td style="border: 1px solid #b4c6e7;">Propone controles adecuados
+            pero con justificación limitada.</td>
+          <td style="border: 1px solid #b4c6e7;">Controles generales sin
+            suficiente sustento técnico.</td>
+          <td style="border: 1px solid #b4c6e7;">No aplica la jerarquía de
+            controles correctamente.</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid #b4c6e7;"><strong>Uso de IA
+              (Escenario)</strong></td>
+          <td style="border: 1px solid #b4c6e7;">La imagen recrea fielmente el
+            caso y evidencia comprensión técnica del entorno.</td>
+          <td style="border: 1px solid #b4c6e7;">Representación adecuada con
+            algunos detalles omitidos.</td>
+          <td style="border: 1px solid #b4c6e7;">Imagen poco relacionada con el
+            caso.</td>
+          <td style="border: 1px solid #b4c6e7;">No presenta escenario o no
+            corresponde al caso.</td>
+        </tr>
+        <tr style="background-color: #f2f6fc;">
+          <td style="border: 1px solid #b4c6e7;"><strong>Presentación y
+              coherencia</strong></td>
+          <td style="border: 1px solid #b4c6e7;">Documento organizado, claro,
+            técnico y bien estructurado.</td>
+          <td style="border: 1px solid #b4c6e7;">Presentación adecuada con leves
+            fallas.</td>
+          <td style="border: 1px solid #b4c6e7;">Organización limitada.</td>
+          <td style="border: 1px solid #b4c6e7;">Desorganizado o incompleto.
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</details>
