@@ -1,0 +1,37 @@
+<p></p>
+<div class="card mx-auto"
+  style="max-width: 850px; border: 1px solid #dcdcdc; border-radius: 6px;">
+  <h5 class="card-header"
+    style="background-color: #1f3a5f; color: #ffffff; text-align: center;"><i
+      class="fa fa-upload"></i> ENTREGA FORMAL DE LA ACTIVIDAD</h5>
+  <div class="card-body">
+    <h5 class="card-title" style="color: #1f3a5f;">Estudio de Caso – Evaluación
+      de Exposición a Ruido Ocupacional</h5>
+    <p style="text-align: justify; line-height: 1.6;">Una vez finalizado el
+      desarrollo integral del <em>Estudio de Caso</em>, cada estudiante deberá
+      consolidar y presentar el documento académico correspondiente, atendiendo
+      rigurosamente los lineamientos metodológicos y técnicos establecidos por
+      el tutor.</p>
+    <p style="text-align: justify; line-height: 1.6;">El documento deberá
+      evidenciar:</p>
+    <ul style="text-align: justify;">
+      <li>Matriz de identificación de datos correctamente diligenciada.</li>
+      <li>Cálculo del LAeq,d y análisis técnico de los resultados.</li>
+      <li>Valoración del nivel de riesgo con soporte normativo.</li>
+      <li>Plan de intervención estructurado conforme a la jerarquía de
+        controles.</li>
+      <li>Conclusiones técnicas fundamentadas.</li>
+    </ul>
+    <p style="text-align: justify; line-height: 1.6;">Aunque el análisis haya
+      sido desarrollado de manera grupal, <strong>la entrega en la plataforma se
+        recomienda que sea realizada de manera individual.</strong></p>
+    <p style="text-align: justify; line-height: 1.6;">Verifique que el archivo
+      cumpla con los criterios formales exigidos: formato PDF, redacción
+      técnica, coherencia metodológica y adecuada presentación.</p>
+    <div style="text-align: center; margin-top: 20px;"><a
+        class="btn btn-primary"
+        style="font-size: 18px; background-color: #1f3a5f; border-color: #1f3a5f; padding: 10px 25px;"
+        href="https://aulasvirtuales.unicamacho.edu.co/mod/assign/view.php?id=1415766">
+        <strong>Subir Actividad</strong> </a></div>
+  </div>
+</div>
