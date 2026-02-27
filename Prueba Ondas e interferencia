@@ -1,0 +1,54 @@
+<p dir="ltr" style="text-align: left;"></p>
+<div>
+  <section>
+    <div class="container-fluid">
+      <div class="row justify-content-center shadow">
+        <div class="col-12 rounded p-4" style="background-color: #ffffff;">
+          <h3 style="color: #1f4e79; text-align: center;"><strong>LIBRO DE
+              SIMULACIONES – PELIGROS FÍSICOS I</strong></h3>
+          <p style="text-align: center;"><strong>Simulación Computacional:
+              Propagación e Interferencia de ondas</strong></p>
+          <hr>
+          <p>El presente espacio corresponde al <strong>Libro de
+              Simulaciones</strong>, destinado a la experimentación y análisis
+            conceptual del comportamiento físico de las ondas, como fundamento
+            para la comprensión del ruido como peligro físico en entornos
+            industriales.</p>
+          <p>A través de la siguiente simulación interactiva, el estudiante
+            deberá explorar las variables que influyen en la propagación del
+            sonido y analizar los fenómenos de interferencia.</p>
+          <div style="text-align: center; margin-top: 20px;"><iframe
+              src="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_es.html"
+              width="950" height="600" allowfullscreen="allowfullscreen">
+            </iframe></div>
+          <div class="container-fluid mt-4 p-4 border"
+            style="background-color: #f8f9fa;">
+            <h5 style="color: #1f4e79;"><strong>Lineamientos para la Exploración
+                Técnica</strong></h5>
+            <ol>
+              <li>Analice el tipo de propagación de la onda (frente plano o
+                fuente puntual) e identifique su comportamiento geométrico.</li>
+              <li>Modifique la frecuencia y establezca la relación entre
+                frecuencia, longitud de onda y velocidad de propagación.</li>
+              <li>Identifique las zonas de mayor y menor intensidad sonora y
+                explique técnicamente las condiciones que generan interferencia
+                constructiva.</li>
+              <li>Relacione lo observado con posibles aplicaciones en el control
+                del ruido industrial (pantallas acústicas, cabinas,
+                ventilaciones, encapsulamientos).</li>
+            </ol>
+          </div>
+          <div class="container-fluid mt-4 p-4 border">
+            <h6 style="color: #1f4e79;"><strong>Propósito Académico</strong>
+            </h6>
+            <p>Fortalecer la comprensión conceptual del comportamiento
+              ondulatorio del sonido como base técnica para el análisis del
+              riesgo por exposición a ruido, facilitando la interpretación de
+              fenómenos físicos que influyen en la atenuación, propagación y
+              redistribución de la intensidad sonora en ambientes laborales.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
