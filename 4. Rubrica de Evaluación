@@ -1,0 +1,91 @@
+<p></p>
+<section
+  style="background-color: #1f3a5f; padding: 20px; border-radius: 6px; color: white; text-align: center;">
+  <h3 style="margin: 0; font-weight: 600;">RÚBRICA DE EVALUACIÓN – ESTUDIO DE
+    CASO</h3>
+  <p
+    style="margin-top: 8px; max-width: 900px; margin-left: auto; margin-right: auto;">
+    La evaluación del trabajo se realizará considerando criterios técnicos,
+    metodológicos y normativos propios de la Higiene Industrial y la Seguridad y
+    Salud en el Trabajo.</p>
+</section>
+<p></p>
+<div style="overflow-x: auto;">
+  <table
+    style="width: 100%; border-collapse: collapse; font-size: 14px; text-align: center;"
+    border="1">
+    <tbody>
+      <tr style="background-color: #d9e2ef; font-weight: bold;">
+        <td style="width: 18%;">Criterio de Evaluación</td>
+        <td style="width: 22%;">Desempeño Superior (4.5 – 5.0)</td>
+        <td style="width: 20%;">Desempeño Alto (4.0 – 4.4)</td>
+        <td style="width: 20%;">Desempeño Básico (3.0 – 3.9)</td>
+        <td style="width: 15%;">Desempeño Bajo (&lt; 3.0)</td>
+        <td style="width: 5%;">Peso</td>
+      </tr>
+      <tr>
+        <td><strong>1. Matriz de Identificación de Datos</strong></td>
+        <td>Matriz completamente diligenciada con coherencia técnica, unidades
+          correctas y descripción precisa del proceso.</td>
+        <td>Matriz diligenciada con mínimos errores formales o descriptivos.
+        </td>
+        <td>Matriz incompleta o con inconsistencias técnicas.</td>
+        <td>Información insuficiente o incorrecta.</td>
+        <td>20%</td>
+      </tr>
+      <tr>
+        <td><strong>2. Cálculo del LAeq,d</strong></td>
+        <td>Procedimiento correctamente aplicado, resultados exactos y
+          claramente presentados.</td>
+        <td>Cálculo adecuado con leves imprecisiones numéricas.</td>
+        <td>Errores parciales en el procedimiento o resultado final.</td>
+        <td>Procedimiento incorrecto o ausencia de cálculo.</td>
+        <td>20%</td>
+      </tr>
+      <tr>
+        <td><strong>3. Valoración del Nivel de Riesgo</strong></td>
+        <td>Clasificación coherente con la escala establecida y sustentación
+          técnica fundamentada.</td>
+        <td>Clasificación correcta con justificación parcialmente desarrollada.
+        </td>
+        <td>Clasificación poco sustentada o con debilidades argumentativas.</td>
+        <td>Clasificación incorrecta o sin justificación técnica.</td>
+        <td>20%</td>
+      </tr>
+      <tr>
+        <td><strong>4. Plan de Intervención</strong></td>
+        <td>Medidas coherentes con la jerarquía de controles, técnicamente
+          viables y bien estructuradas.</td>
+        <td>Plan adecuado con leves debilidades en profundidad técnica.</td>
+        <td>Medidas generales con limitada articulación técnica.</td>
+        <td>Propuestas incoherentes o insuficientes.</td>
+        <td>25%</td>
+      </tr>
+      <tr>
+        <td><strong>5. Fundamentación Normativa y Técnica</strong></td>
+        <td>Argumentación sólida basada en criterios normativos y conceptos de
+          Higiene Industrial.</td>
+        <td>Referencia normativa adecuada pero poco desarrollada.</td>
+        <td>Mención normativa superficial.</td>
+        <td>Ausencia de fundamentación técnica.</td>
+        <td>10%</td>
+      </tr>
+      <tr>
+        <td><strong>6. Presentación y Redacción Técnica</strong></td>
+        <td>Documento estructurado, redacción técnica clara, formato adecuado y
+          coherencia metodológica.</td>
+        <td>Presentación adecuada con mínimos errores formales.</td>
+        <td>Deficiencias en redacción o estructura.</td>
+        <td>Presentación inadecuada o desorganizada.</td>
+        <td>5%</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<p></p>
+<section
+  style="background-color: #f4f6f9; padding: 12px; border-radius: 5px; font-size: 13px; text-align: justify;">
+  <strong>Nota Académica:</strong> La calificación final corresponderá a la
+  sumatoria ponderada de los criterios anteriores. Se valorará especialmente la
+  rigurosidad en el análisis, la coherencia en la clasificación del riesgo y la
+  aplicabilidad real del plan de intervención propuesto.</section>
