@@ -1,0 +1,222 @@
+<p></p>
+<section
+  style="background-color: #1f3a5f; padding: 25px; border-radius: 6px; color: white; text-align: center;">
+  <h2 style="font-weight: 600;"><i class="fa fa-book"></i> ESTUDIO DE CASO –
+    EVALUACIÓN DE EXPOSICIÓN A RUIDO</h2>
+  <p style="text-align: justify; max-width: 900px; margin: auto;">Desarrolle los
+    siguientes momentos aplicando fundamentos de Higiene Industrial, cálculo en
+    decibeles y criterios normativos en Seguridad y Salud en el Trabajo.</p>
+</section>
+<p></p>
+<div id="acordeonGeneral" class="accordion">
+  <!-- ================= MOMENTO 1 ================= -->
+  <div class="card">
+    <div class="card-header" style="background-color: #e9eef5;">
+      <h5 class="mb-0"><button class="btn btn-link" type="button"
+          data-toggle="collapse" data-target="#momento1"> <i
+            class="fa fa-table"></i> MOMENTO 1 – IDENTIFICACIÓN Y REGISTRO DE
+          DATOS </button></h5>
+    </div>
+    <div id="momento1" class="collapse show" data-parent="#acordeonGeneral">
+      <div class="card-body" style="text-align: justify;">Complete la siguiente
+        matriz técnica con la información del caso: <br><br>
+        <table
+          style="width: 100%; border-collapse: collapse; text-align: center;"
+          border="1">
+          <tbody>
+            <tr style="background-color: #d9e2ef; font-weight: bold;">
+              <td>Máquina</td>
+              <td>LAeq,T (dB)</td>
+              <td>Tiempo de Medición</td>
+              <td>Tiempo de Exposición</td>
+              <td>Descripción del Proceso</td>
+            </tr>
+            <tr>
+              <td>Máquina 1</td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td>Máquina 2</td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td>Máquina 3</td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td>Máquina 4</td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <!-- ================= MOMENTO 2 ================= -->
+  <div class="card">
+    <div class="card-header" style="background-color: #e9eef5;">
+      <h5 class="mb-0"><button class="btn btn-link collapsed" type="button"
+          data-toggle="collapse" data-target="#momento2"> <i
+            class="fa fa-calculator"></i> MOMENTO 2 – CÁLCULO Y VALORACIÓN DEL
+          RIESGO </button></h5>
+    </div>
+    <div id="momento2" class="collapse" data-parent="#acordeonGeneral">
+      <div class="card-body" style="text-align: justify;">
+        <p><i class="fa fa-chart-line"></i> Calcule el Nivel de Presión Sonora
+          Equivalente Diario (LAeq,d) considerando una jornada laboral de 8
+          horas.</p>
+        <p><i class="fa fa-balance-scale"></i> Compare el resultado con los
+          límites permisibles establecidos en la normativa vigente en Seguridad
+          y Salud en el Trabajo.</p>
+        <p><i class="fa fa-exclamation-triangle"></i> Clasifique el nivel de
+          riesgo y sustente técnicamente su análisis:</p>
+        <table
+          style="width: 100%; border-collapse: collapse; font-size: 14px; text-align: center;"
+          border="1">
+          <tbody>
+            <tr style="background-color: #d9e2ef; font-weight: bold;">
+              <td>LAeq,d Calculado (dB)</td>
+              <td>Límite Permisible (8 h)</td>
+              <td>Nivel de Riesgo (Alto – Medio – Bajo)</td>
+              <td>Justificación Técnica</td>
+            </tr>
+            <tr>
+              <td style="height: 45px;"> </td>
+              <td>85 dB(A)</td>
+              <td> </td>
+              <td style="text-align: justify;"> </td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+        <div
+          style="background-color: #f4f6f9; padding: 12px; border-radius: 5px; font-size: 13px; text-align: justify;">
+          <strong>Nota técnica – Escala de valoración:</strong><br>• Si el
+          LAeq,d es <strong>menor que 80 dB(A)</strong> → Riesgo
+          <strong>BAJO</strong>.<br>• Si el LAeq,d se encuentra <strong>entre 80
+            dB(A) y 85 dB(A)</strong> → Riesgo <strong>MEDIO</strong>.<br>• Si
+          el LAeq,d es <strong>mayor que 85 dB(A)</strong> → Riesgo
+          <strong>ALTO</strong>.</div>
+      </div>
+    </div>
+  </div>
+  <!-- ================= MOMENTO 3 ================= -->
+  <div class="card">
+    <div class="card-header" style="background-color: #e9eef5;">
+      <h5 class="mb-0"><button class="btn btn-link collapsed" type="button"
+          data-toggle="collapse" data-target="#momento3"> <i
+            class="fa fa-shield-alt"></i> MOMENTO 3 – PLAN DE INTERVENCIÓN
+        </button></h5>
+    </div>
+    <div id="momento3" class="collapse" data-parent="#acordeonGeneral">
+      <div class="card-body" style="text-align: justify;">Elabore el Plan de
+        Intervención aplicando la jerarquía de controles. <br><br>
+        <table style="width: 100%; border-collapse: collapse; font-size: 14px;"
+          border="1">
+          <tbody>
+            <tr
+              style="background-color: #d9e2ef; text-align: center; font-weight: bold;">
+              <td>Tipo de Control</td>
+              <td>Medida Propuesta</td>
+              <td>Descripción Técnica</td>
+              <td>Objetivo</td>
+              <td>Responsable</td>
+              <td>Recursos</td>
+              <td>Tiempo</td>
+              <td>Indicador</td>
+            </tr>
+            <tr>
+              <td><strong>Control en la Fuente</strong></td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td><strong>Control en el Medio</strong></td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td><strong>Control Administrativo</strong></td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td><strong>Elemento de Protección Personal</strong></td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+              <td> </td>
+            </tr>
+          </tbody>
+        </table>
+        <br><br><!-- IMAGEN JERARQUÍA DE CONTROLES -->
+        <p style="text-align: center; font-weight: bold; margin-bottom: 8px;">
+          Figura 1. Jerarquía de Control de Riesgos (ISO 45001)</p>
+        <div style="text-align: center;"><img class="img-fluid"
+            style="width: 70%; height: auto; border: 1px solid #ccc;"
+            src="https://aulasvirtuales.unicamacho.edu.co/draftfile.php/766258/user/draft/212056177/1603772199071%20%282%29.jpg"
+            alt="Jerarquía de Control de Riesgos ISO 45001"></div>
+        <p style="text-align: center; font-size: 13px; margin-top: 6px;">Fuente:
+          Twind. Jerarquía de control de riesgos – ISO 45001. Disponible en:
+          https://twind.io/es/jerarquia-de-control-de-riesgos-iso-45001/</p>
+        <br><!-- ENTREGA -->
+        <div
+          style="background-color: #ffffff; padding: 15px; border-radius: 5px; border: 1px solid #dcdcdc;">
+          <strong><i class="fa fa-upload"></i> Entrega:</strong>
+          <ul>
+            <li>Portada institucional</li>
+            <li>Matriz diligenciada completamente</li>
+            <li>Cálculos desarrollados</li>
+            <li>Valoración del riesgo</li>
+            <li>Plan de intervención coherente con el nivel de riesgo</li>
+            <li>Conclusiones técnicas</li>
+          </ul>
+        </div>
+        <br>
+        <div
+          style="background-color: #f4f6f9; padding: 12px; border-radius: 5px; font-size: 13px; text-align: justify;">
+          <strong>Nota:</strong> Para la elaboración del Plan de Intervención,
+          los estudiantes pueden utilizar herramientas de apoyo basadas en
+          inteligencia artificial como Google Gemini, siempre que el análisis,
+          adaptación técnica y responsabilidad académica del contenido sean
+          propios.</div>
+      </div>
+    </div>
+  </div>
+  <p></p>
+  <section
+    style="background-color: #1f3a5f; padding: 15px; border-radius: 6px; color: white; text-align: center;">
+    <strong> La rigurosidad técnica, coherencia normativa y claridad
+      metodológica serán criterios fundamentales de evaluación. </strong>
+  </section>
+</div>
