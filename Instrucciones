@@ -1,0 +1,25 @@
+<section>
+  <div class="container-fluid px-md-3 px-lg-3 py-4 py-md-4 py-lg-4"
+    style="background-color: #1f3a5f; border-radius: 6px;">
+    <div class="row flex-md-row justify-content-md-center">
+      <div class="col-md-8 col-12" style="width: 1000px;">
+        <div class="p-3 text-white text-center">
+          <h3 class="mb-2 pb-3"
+            style="font-weight: 600; letter-spacing: 0.5px;"><span
+              class="px-md-3"> Lea detenidamente las instrucciones de esta
+              actividad grupal (Máximo 3 personas) </span></h3>
+          <h5 class="text-justify"
+            style="font-weight: normal; line-height: 1.6;">Esta actividad
+            contiene un (1) estudio de caso relacionado con la exposición a
+            ruido ocupacional de un trabajador que labora en una empresa de
+            mecanizado de piezas. Responde lo indicado por el tutor DURANTE el
+            encuentro. Si requiere hacer cálculos, les recomendamos apoyarse del
+            tutorial incluido dentro la actividad. Sólo, al final de la
+            actividad, saldrá un mensaje para que entreguen el documento final
+            (En Entrega y Producto Final). ¡Muchos Éxitos en el desarrollo de la
+            actividad!</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
