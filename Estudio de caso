@@ -1,0 +1,50 @@
+<p></p>
+<section>
+  <div class="container-fluid py-4"><!-- Encabezado académico -->
+    <div class="row justify-content-center mb-4">
+      <div class="col-12 text-center">
+        <div
+          style="background-color: #1f3a5f; color: white; padding: 15px; border-radius: 6px;">
+          <h3 style="margin: 0; font-weight: 600;">Estudio de Caso – Exposición
+            a Ruido Ocupacional</h3>
+        </div>
+      </div>
+    </div>
+    <!-- Contextualización breve -->
+    <div class="row justify-content-center mb-3">
+      <div class="col-md-10 col-12">
+        <p style="text-align: justify; line-height: 1.6;">A continuación, se
+          presenta el estudio de caso interactivo. Analice cuidadosamente la
+          información suministrada y desarrolle las actividades y momentos
+          propuestos aplicando criterios técnicos relacionados con la evaluación
+          del riesgo por exposición a ruido en ambientes laborales.</p>
+      </div>
+    </div>
+    <!-- Recurso H5P incrustado (SIN MODIFICAR) -->
+    <div class="row justify-content-center">
+      <div class="col-12 text-center"><iframe title="Estudio de Caso 1"
+          src="https://aulasvirtuales.unicamacho.edu.co/mod/hvp/embed.php?id=1391129"
+          width="1187" height="700" frameborder="0"
+          allowfullscreen="allowfullscreen">
+        </iframe>
+        <script
+          src="https://aulasvirtuales.unicamacho.edu.co/mod/hvp/library/js/h5p-resizer.js"
+          charset="UTF-8">
+        </script>
+      </div>
+    </div>
+    <!-- Indicaciones finales -->
+    <div class="row justify-content-center mt-4">
+      <div class="col-md-10 col-12">
+        <div
+          style="background-color: #f4f6f9; padding: 15px; border-left: 5px solid #1f3a5f; border-radius: 4px;">
+          <p style="margin: 0; text-align: justify; line-height: 1.6;">Recuerde
+            realizar y registrar las actividades de este estudio de caso,
+            aplicando los fundamentos físicos del sonido, el análisis
+            logarítmico en decibeles y la normativa vigente en Seguridad y Salud
+            en el Trabajo.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
