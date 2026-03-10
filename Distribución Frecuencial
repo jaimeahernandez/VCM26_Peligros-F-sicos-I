@@ -1,0 +1,86 @@
+<section
+  style="background: linear-gradient(135deg, #f1f4f8, #e6edf5); padding: 40px; border-radius: 12px; font-family: Arial, sans-serif;">
+  <!-- ENCABEZADO -->
+  <div style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #1f3a5f; margin-bottom: 8px;">Composición del Ruido:
+      Frecuencias e Intensidades</h1>
+    <h3 style="color: #3c5a80; font-weight: normal;">Análisis práctico del
+      comportamiento espectral del sonido</h3>
+    <hr style="width: 50%; border: 1px solid #1f3a5f;">
+  </div>
+  <!-- MARCO TEÓRICO PRÁCTICO -->
+  <div
+    style="background: #ffffff; padding: 15px; border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.08); margin-bottom: 10px;">
+    <h4 style="color: #1f3a5f;">¿Qué es la frecuencia?</h4>
+    <p style="text-align: justify; line-height: 1.6;">La frecuencia es el número
+      de vibraciones que realiza una onda sonora en un segundo. Se mide en Hertz
+      (Hz). En términos prácticos:</p>
+    <ul style="line-height: 1.6;">
+      <li><strong>Frecuencias bajas:</strong> sonidos graves (ejemplo:
+        maquinaria pesada, motores grandes).</li>
+      <li><strong>Frecuencias medias:</strong> rango donde se encuentra
+        principalmente la voz humana.</li>
+      <li><strong>Frecuencias altas:</strong> sonidos agudos (ejemplo:
+        esmeriles, aire comprimido).</li>
+    </ul>
+    <p style="text-align: justify; line-height: 1.6;">En higiene industrial,
+      analizar la frecuencia es fundamental porque no todos los sonidos afectan
+      el oído de la misma manera.</p>
+    <hr style="margin: 25px 0;">
+    <h4 style="color: #1f3a5f;">¿Qué es la intensidad frecuencial?</h4>
+    <p style="text-align: justify; line-height: 1.6;">La intensidad frecuencial
+      indica cuánta energía sonora existe en cada frecuencia. Se expresa en
+      decibeles (dB) y muestra qué tan fuerte es cada componente del ruido.</p>
+    <p style="text-align: justify; line-height: 1.6;">En términos simples:</p>
+    <ul style="line-height: 1.6;">
+      <li>La frecuencia nos dice <strong>qué tipo de sonido es</strong> (grave o
+        agudo).</li>
+      <li>La intensidad nos dice <strong>qué tan fuerte es ese sonido</strong>.
+      </li>
+    </ul>
+    <p style="text-align: justify; line-height: 1.6;">Cuando analizamos la
+      distribución frecuencial, observamos cómo se reparte la energía del ruido
+      en diferentes bandas de frecuencia. Esto permite identificar si el riesgo
+      auditivo proviene de componentes graves, medios o agudos.</p>
+    <!-- EXPLICACIÓN APLICADA -->
+    <div
+      style="background: #f8fafc; padding: 22px; border-left: 6px solid #1f3a5f; border-radius: 8px; margin-top: 25px;">
+      <h4 style="color: #1f3a5f; margin-bottom: 2px;">Relación entre Vibración y
+        Múltiples Frecuencias</h4>
+      <p style="text-align: justify; line-height: 1.7; color: #333333;">Un motor
+        tiene varios componentes internos como el eje, los rodamientos, los
+        engranajes, el ventilador y la carcasa, y cada uno puede vibrar de
+        manera diferente mientras el equipo está en funcionamiento; además, no
+        solo existe la vibración principal asociada a la velocidad de rotación,
+        sino también vibraciones secundarias por fricción, desbalance, impactos
+        o resonancia estructural. Cada uno de estos movimientos vibratorios
+        genera ondas sonoras con distintas frecuencias y diferentes niveles de
+        energía, por lo que, aunque se trate de una sola máquina, el ruido que
+        produce está compuesto por múltiples frecuencias simultáneas que se
+        distribuyen en distintas bandas dentro del espectro acústico.</p>
+    </div>
+  </div>
+  <!-- IFRAME -->
+  <div
+    style="background: #ffffff; padding: 5px; border-radius: 12px; box-shadow: 0px 6px 18px rgba(0,0,0,0.1);">
+    <h4 style="color: #1f3a5f; text-align: center; margin-bottom: 20px;">
+      Visualización Interactiva de la Distribución Frecuencial</h4>
+    <div style="width: 100%;">
+      <div
+        style="position: relative; padding-bottom: 57.35%; padding-top: 0; height: 0;">
+        <iframe
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          title="Distribucion Frecuencial"
+          src="https://view.genially.com/65fd23226b4bd50015ddf2f2" width="769"
+          height="441" frameborder="0" scrolling="yes"
+          allowfullscreen="allowfullscreen">
+        </iframe></div>
+    </div>
+  </div>
+  <!-- CIERRE ACADÉMICO -->
+  <div style="margin-top: 35px; text-align: center; color: #5a6f8f;">
+    <p><em>Comprender la composición frecuencial del ruido es esencial para
+        evaluar el riesgo auditivo y seleccionar medidas de control
+        adecuadas.</em></p>
+  </div>
+</section>
