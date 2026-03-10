@@ -1,0 +1,67 @@
+<section
+  style="background: linear-gradient(135deg, #eef2f7, #e3eaf3); padding: 40px; border-radius: 12px; font-family: Arial, sans-serif;">
+  <!-- ENCABEZADO -->
+  <div style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #1f3a5f; margin-bottom: 8px;">Elementos Fundamentales de
+      una Onda Sonora</h1>
+    <h3 style="color: #3c5a80; font-weight: normal;">Comprensión estructural del
+      ciclo de una onda</h3>
+    <hr style="width: 50%; border: 1px solid #1f3a5f;">
+  </div>
+  <!-- MARCO TEÓRICO -->
+  <div
+    style="background: #ffffff; padding: 25px; border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.08); margin-bottom: 5px;">
+    <h4 style="color: #1f3a5f;">¿Qué es una onda sonora?</h4>
+    <p style="text-align: justify; line-height: 1.7;">Una onda sonora es una
+      perturbación mecánica que se propaga a través de un medio (como el aire)
+      debido a la vibración de una fuente. Esta propagación ocurre mediante
+      variaciones sucesivas de compresión y rarefacción que transportan energía
+      sin desplazar permanentemente las partículas del medio.</p>
+    <hr style="margin: 25px 0;">
+    <h4 style="color: #1f3a5f;">Elementos principales de una onda</h4>
+    <ul style="line-height: 1.8;">
+      <li><strong>Amplitud:</strong> Altura de la onda respecto a la línea de
+        equilibrio. Se relaciona directamente con la intensidad o nivel de
+        presión sonora (dB).</li>
+      <li><strong>Frecuencia:</strong> Número de ciclos completos que ocurren en
+        un segundo. Se mide en Hertz (Hz) y determina si el sonido es grave o
+        agudo.</li>
+      <li><strong>Longitud de onda:</strong> Distancia entre dos puntos
+        equivalentes consecutivos (por ejemplo, de cresta a cresta).</li>
+      <li><strong>Ciclo:</strong> Recorrido completo de la onda desde un punto
+        inicial hasta que se repite el patrón.</li>
+      <li><strong>Periodo:</strong> Tiempo que tarda en completarse un ciclo. Es
+        inversamente proporcional a la frecuencia.</li>
+    </ul>
+    <hr style="margin: 25px 0;">
+    <h4 style="color: #1f3a5f;">Relación con el ruido ocupacional</h4>
+    <p style="text-align: justify; line-height: 1.7;">En higiene industrial,
+      comprender estos elementos permite interpretar cómo se genera el nivel de
+      presión sonora, cómo se distribuye la energía en el tiempo y por qué
+      determinadas condiciones pueden incrementar el riesgo auditivo. La
+      amplitud influye en la intensidad del sonido, mientras que la frecuencia
+      determina el tipo de estímulo auditivo que recibe el oído humano.</p>
+  </div>
+  <!-- IFRAME -->
+  <div
+    style="background: #ffffff; padding: 5px; border-radius: 12px; box-shadow: 0px 6px 18px rgba(0,0,0,0.1);">
+    <h4 style="color: #1f3a5f; text-align: center; margin-bottom: 20px;">
+      Visualización Interactiva del Ciclo de una Onda</h4>
+    <div style="width: 100%;">
+      <div
+        style="position: relative; padding-bottom: 57.35%; padding-top: 0; height: 0;">
+        <iframe
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          title="Ciclo de una onda"
+          src="https://view.genially.com/65ee1967b6f97a0014f0015f" width="769"
+          height="441" frameborder="0" scrolling="yes"
+          allowfullscreen="allowfullscreen">
+        </iframe></div>
+    </div>
+  </div>
+  <!-- CIERRE -->
+  <div style="margin-top: 35px; text-align: center; color: #5a6f8f;">
+    <p><em>Comprender la estructura de una onda es fundamental para interpretar
+        los fenómenos acústicos y su impacto en la salud ocupacional.</em></p>
+  </div>
+</section>
