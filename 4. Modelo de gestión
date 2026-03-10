@@ -1,0 +1,67 @@
+<section
+  style="background: linear-gradient(135deg, #edf2f7, #e2e8f0); padding: 40px; border-radius: 12px; font-family: Arial, sans-serif;">
+  <!-- ENCABEZADO -->
+  <div style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #1f3a5f; margin-bottom: 8px;">Modelo de Gestión para el
+      Control del Ruido</h1>
+    <h3 style="color: #3c5a80; font-weight: normal;">Enfoque sistemático para la
+      prevención del riesgo auditivo</h3>
+    <hr style="width: 50%; border: 1px solid #1f3a5f;">
+  </div>
+  <!-- CONTENIDO TEÓRICO -->
+  <div
+    style="background: #ffffff; padding: 25px; border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.08); margin-bottom: 35px;">
+    <h4 style="color: #1f3a5f;">¿Qué es un modelo de gestión?</h4>
+    <p style="text-align: justify; line-height: 1.7;">Un modelo de gestión es un
+      conjunto organizado de procesos, acciones y responsabilidades orientadas a
+      identificar, evaluar y controlar un riesgo. En el contexto del ruido
+      ocupacional, permite estructurar de manera sistemática las actividades
+      necesarias para prevenir el daño auditivo en los trabajadores.</p>
+    <hr style="margin: 25px 0;">
+    <h4 style="color: #1f3a5f;">Etapas generales del modelo</h4>
+    <ul style="line-height: 1.8;">
+      <li><strong>Identificación:</strong> Reconocimiento de fuentes generadoras
+        de ruido y población expuesta.</li>
+      <li><strong>Evaluación:</strong> Medición de niveles de presión sonora y
+        análisis de la exposición.</li>
+      <li><strong>Control:</strong> Implementación de medidas técnicas,
+        administrativas o de protección personal.</li>
+      <li><strong>Seguimiento:</strong> Verificación periódica de la eficacia de
+        las medidas adoptadas.</li>
+      <li><strong>Mejora continua:</strong> Ajuste del sistema con base en
+        resultados y cambios operativos.</li>
+    </ul>
+    <hr style="margin: 25px 0;">
+    <h4 style="color: #1f3a5f;">Importancia en Seguridad y Salud en el Trabajo
+    </h4>
+    <p style="text-align: justify; line-height: 1.7;">La gestión del riesgo por
+      ruido no se limita a realizar mediciones aisladas; requiere una
+      planificación estructurada que garantice la reducción sostenida de la
+      exposición. Un modelo de gestión permite integrar la evaluación técnica,
+      la normativa aplicable y las estrategias de intervención dentro de un
+      sistema organizado y verificable.</p>
+  </div>
+  <!-- IFRAME -->
+  <div
+    style="background: #ffffff; padding: 20px; border-radius: 12px; box-shadow: 0px 6px 18px rgba(0,0,0,0.1);">
+    <h4 style="color: #1f3a5f; text-align: center; margin-bottom: 20px;">
+      Representación Visual del Modelo de Gestión</h4>
+    <div style="width: 100%;">
+      <div
+        style="position: relative; padding-bottom: 57.79%; padding-top: 0; height: 0;">
+        <iframe
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          title="Imagen Gestión 6490"
+          src="https://view.genially.com/65d2548ee1e4e00014fd6d60" width="1168"
+          height="675" frameborder="0" scrolling="yes"
+          allowfullscreen="allowfullscreen">
+        </iframe></div>
+    </div>
+  </div>
+  <!-- CIERRE -->
+  <div style="margin-top: 35px; text-align: center; color: #5a6f8f;">
+    <p><em>La gestión adecuada del ruido ocupacional es un proceso continuo que
+        integra evaluación técnica, control del riesgo y mejora permanente.</em>
+    </p>
+  </div>
+</section>
