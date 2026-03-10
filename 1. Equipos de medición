@@ -1,0 +1,51 @@
+<section
+  style="background: linear-gradient(135deg, #eef3f9, #f8fbff); padding: 40px; border-radius: 12px; font-family: Arial, sans-serif;">
+  <!-- ENCABEZADO -->
+  <div style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #1f3a5f; margin-bottom: 8px;">Guía Interactiva para la
+      Medición y Valoración del Ruido</h1>
+    <h3 style="color: #3c5a80; font-weight: normal;">Equipos de Medición,
+      Componentes y Escala en dB</h3>
+    <hr style="width: 50%; border: 1px solid #1f3a5f;">
+  </div>
+  <!-- PRESENTACIÓN -->
+  <div
+    style="background: #ffffff; padding: 15px; border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.08); margin-bottom: 15px;">
+    <h4 style="color: #1f3a5f;">Propósito del recurso</h4>
+    <p style="text-align: justify; line-height: 1.6;">Este recurso interactivo
+      permite reconocer los principales equipos utilizados para la medición del
+      ruido ocupacional, identificar sus componentes estructurales y comprender
+      el funcionamiento básico de la escala de valoración en decibeles (dB).</p>
+    <p style="text-align: justify; line-height: 1.6;">A través de la
+      exploración, el estudiante podrá diferenciar entre sonómetro, dosímetro y
+      calibrador acústico, analizar las partes esenciales de cada equipo y
+      entender cómo se interpretan los niveles de presión sonora en el contexto
+      de la higiene industrial.</p>
+    <p style="text-align: justify; line-height: 1.6;">Este material fortalece la
+      comprensión conceptual previa al desarrollo de ejercicios de evaluación
+      cuantitativa del ruido y gestión del riesgo.</p>
+  </div>
+  <!-- MARCO DEL IFRAME -->
+  <div
+    style="background: #ffffff; padding: 5px; border-radius: 12px; box-shadow: 0px 6px 18px rgba(0,0,0,0.1);">
+    <h4 style="color: #1f3a5f; text-align: center; margin-bottom: 10px;">
+      Exploración Interactiva del Recurso</h4>
+    <!-- IFRAME ORIGINAL -->
+    <div style="width: 100%;">
+      <div
+        style="position: relative; padding-bottom: 57.35%; padding-top: 0; height: 0;">
+        <iframe
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          title="Copia1 - LABORATORIO LFR"
+          src="https://view.genially.com/6620b5325a710d00132cfdc2" width="769"
+          height="441" frameborder="0" scrolling="yes"
+          allowfullscreen="allowfullscreen">
+        </iframe></div>
+    </div>
+  </div>
+  <!-- NOTA FINAL -->
+  <div style="margin-top: 35px; text-align: center; color: #5a6f8f;">
+    <p><em>Recurso académico para el estudio de medición y valoración del ruido
+        ocupacional.</em></p>
+  </div>
+</section>
