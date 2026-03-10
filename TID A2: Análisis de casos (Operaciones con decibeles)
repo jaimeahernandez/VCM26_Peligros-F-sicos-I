@@ -1,0 +1,419 @@
+<section
+  style="background-color: #eef3f9; padding: 25px; border-radius: 10px; font-family: Arial, sans-serif;">
+  <!-- OBJETIVO GENERAL -->
+  <div
+    style="background: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+    <h3 style="color: #1f3a5f;">🎯 Objetivo General de los Ejercicios</h3>
+    <p>Analizar situaciones reales de exposición ocupacional a ruido en
+      ambientes laborales, aplicando criterios técnicos de higiene industrial
+      para identificar el peligro, evaluar la exposición real del trabajador,
+      determinar el nivel de riesgo y proponer medidas de intervención conforme
+      a la normativa colombiana vigente y al enfoque del SG-SST.</p>
+  </div>
+  <!-- INSTRUCCIONES GENERALES -->
+  <div
+    style="background: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 25px;">
+    <h3 style="color: #1f3a5f;">📋 Instrucciones Generales</h3>
+    <ol>
+      <li>Lea cuidadosamente cada caso.</li>
+      <li>Analice las condiciones del entorno y las fuentes generadoras de
+        ruido.</li>
+      <li>Desarrolle el análisis por fases: identificación, evaluación y
+        gestión.</li>
+      <li>Cuando sea necesario, realice los cálculos mostrando el procedimiento.
+      </li>
+      <li>Sustente técnicamente todas sus respuestas.</li>
+    </ol>
+  </div>
+  <!-- =====================  CASO 1 ===================== -->
+  <details>
+    <summary
+      style="font-weight: bold; font-size: 18px; cursor: pointer; color: #0d3b66;">
+      📘 CASO 1 – Exposición Simultánea a Múltiples Fuentes de Ruido</summary>
+    <div
+      style="background: #ffffff; padding: 20px; margin-top: 12px; border-radius: 8px;">
+      <h4 style="color: #1f3a5f;">📖 Descripción del Caso</h4>
+      <p>En la empresa MetalWorks del Valle S.A.S., el trabajador Luis Fernando
+        Rojas, de 29 años, se desempeña como Operador de corte y conformado
+        metálico desde hace 4 años.</p>
+      <p>Labora en una nave cerrada de 20 m x 15 m, con techo metálico y paredes
+        de concreto sin tratamiento acústico, lo que genera alta reverberación.
+      </p>
+      <p>Durante su jornada de 8 horas operan simultáneamente:</p>
+      <ul>
+        <li>Cizalla hidráulica: 89 dB(A)</li>
+        <li>Soldadura MIG (a 3 m): 87 dB(A)</li>
+        <li>Extractor industrial: 85 dB(A)</li>
+      </ul>
+      <p>Los tres equipos funcionan al mismo tiempo durante 6 horas. El
+        trabajador reporta zumbido ocasional y fatiga auditiva. La gerencia
+        considera que no existe riesgo porque ninguna máquina supera 90 dB(A).
+      </p>
+      <hr>
+      <h4 style="color: #1f3a5f;">🔎 Fase 1 – Identificación del Peligro</h4>
+      <table style="border-collapse: collapse; text-align: center;" border="1"
+        width="100%">
+        <tbody>
+          <tr style="background-color: #f0f4f8;">
+            <th>Actividad a Desarrollar</th>
+          </tr>
+          <tr>
+            <td>Identifique el peligro físico presente y describa sus
+              características técnicas.</td>
+          </tr>
+          <tr>
+            <td>Determine las fuentes generadoras y explique si la exposición es
+              individual o simultánea.</td>
+          </tr>
+          <tr>
+            <td>Analice los posibles efectos en la salud a corto y largo plazo.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <hr>
+      <h4 style="color: #1f3a5f;">📊 Fase 2 – Evaluación de la Exposición</h4>
+      <table style="border-collapse: collapse; text-align: center;" border="1"
+        width="100%">
+        <tbody>
+          <tr style="background-color: #f0f4f8;">
+            <th>Actividad a Desarrollar</th>
+          </tr>
+          <tr>
+            <td>Analice si evaluar cada equipo por separado es suficiente para
+              determinar la exposición real.</td>
+          </tr>
+          <tr>
+            <td>Determine el nivel total de presión sonora cuando los tres
+              equipos operan simultáneamente. Presente el procedimiento
+              matemático utilizado.</td>
+          </tr>
+          <tr>
+            <td>Compare el resultado con el valor límite permisible para una
+              jornada de 8 horas según normativa colombiana vigente.</td>
+          </tr>
+          <tr>
+            <td>Concluya si existe o no sobreexposición y explique técnicamente
+              la razón.</td>
+          </tr>
+        </tbody>
+      </table>
+      <hr>
+      <h4 style="color: #1f3a5f;">🛠 Fase 3 – Gestión del Riesgo</h4>
+      <table style="border-collapse: collapse; text-align: center;" border="1"
+        width="100%">
+        <tbody>
+          <tr style="background-color: #f0f4f8;">
+            <th>Actividad a Desarrollar</th>
+          </tr>
+          <tr>
+            <td>Clasifique el nivel de riesgo considerando probabilidad y
+              consecuencia.</td>
+          </tr>
+          <tr>
+            <td>Proponga medidas de intervención siguiendo la jerarquía de
+              controles.</td>
+          </tr>
+          <tr>
+            <td>Indique qué componentes del SG-SST deben fortalecerse en este
+              caso.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+  <!-- =====================  CASO 2 ===================== -->
+  <details>
+    <summary
+      style="font-weight: bold; font-size: 18px; cursor: pointer; color: #0d3b66;">
+      📘 CASO 2 – Reducción de Ruido por Eliminación de una Fuente</summary>
+    <div
+      style="background: #ffffff; padding: 20px; margin-top: 12px; border-radius: 8px;">
+      <h4 style="color: #1f3a5f;">📖 Descripción del Caso</h4>
+      <p>En la empresa Industrias del Pacífico S.A.S., el trabajador Diego
+        Alejandro Martínez, de 32 años, se desempeña como Operador de línea de
+        producción.</p>
+      <p>En su estación de trabajo operan simultáneamente durante 8 horas:</p>
+      <ul>
+        <li>Prensa neumática: 92 dB(A)</li>
+        <li>Molino triturador: 89 dB(A)</li>
+        <li>Ventilador industrial: 86 dB(A)</li>
+      </ul>
+      <p>Se determinó mediante medición que el nivel total combinado cuando los
+        tres equipos operan simultáneamente es de 94 dB(A).</p>
+      <p>La empresa decide apagar definitivamente el ventilador industrial y
+        desea verificar cuánto disminuiría el nivel total en el puesto de
+        trabajo.</p>
+      <hr>
+      <h4 style="color: #1f3a5f;">🔎 Fase 1 – Identificación del Peligro</h4>
+      <table style="border-collapse: collapse; text-align: center;" border="1"
+        width="100%">
+        <tbody>
+          <tr style="background-color: #f0f4f8;">
+            <th>Actividad a Desarrollar</th>
+          </tr>
+          <tr>
+            <td>Identifique las fuentes generadoras y su condición de operación.
+            </td>
+          </tr>
+          <tr>
+            <td>Explique por qué el nivel total no corresponde simplemente al
+              valor más alto medido.</td>
+          </tr>
+          <tr>
+            <td>Describa la situación antes y después de apagar el ventilador.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <hr>
+      <h4 style="color: #1f3a5f;">📊 Fase 2 – Evaluación de la Exposición</h4>
+      <table style="border-collapse: collapse; text-align: center;" border="1"
+        width="100%">
+        <tbody>
+          <tr style="background-color: #f0f4f8;">
+            <th>Actividad a Desarrollar</th>
+          </tr>
+          <tr>
+            <td>Determine qué procedimiento matemático debe aplicarse para
+              estimar el nuevo nivel total al retirar una fuente sonora.</td>
+          </tr>
+          <tr>
+            <td>Calcule el nivel total resultante cuando solo operan la prensa y
+              el molino.</td>
+          </tr>
+          <tr>
+            <td>Compare el nuevo resultado con el límite permisible para jornada
+              laboral.</td>
+          </tr>
+          <tr>
+            <td>Explique si la reducción obtenida es técnicamente significativa.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <hr>
+      <h4 style="color: #1f3a5f;">🛠 Fase 3 – Gestión del Riesgo</h4>
+      <table style="border-collapse: collapse; text-align: center;" border="1"
+        width="100%">
+        <tbody>
+          <tr style="background-color: #f0f4f8;">
+            <th>Actividad a Desarrollar</th>
+          </tr>
+          <tr>
+            <td>Clasifique el nivel de riesgo antes y después de la
+              intervención.</td>
+          </tr>
+          <tr>
+            <td>Determine si apagar el ventilador es una medida suficiente.</td>
+          </tr>
+          <tr>
+            <td>Proponga otras estrategias de control de ingeniería.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+  <!-- =====================  CASO 3 ===================== -->
+  <details>
+    <summary
+      style="font-weight: bold; font-size: 18px; cursor: pointer; color: #0d3b66;">
+      📘 CASO 3 – Evaluación de Exposición Semanal (Lunes a Sábado)</summary>
+    <div
+      style="background: #ffffff; padding: 20px; margin-top: 12px; border-radius: 8px;">
+      <h4 style="color: #1f3a5f;">📖 Descripción del Caso</h4>
+      <p>En la empresa Procesos Metalmecánicos Andinos S.A.S., el trabajador
+        Carlos Andrés Muñoz, de 35 años, se desempeña como Operador de
+        maquinaria pesada.</p>
+      <p>Su jornada laboral es de lunes a sábado, 8 horas diarias. Se realizaron
+        mediciones diarias obteniendo los siguientes niveles equivalentes:</p>
+      <table style="border-collapse: collapse; text-align: center;" border="1"
+        width="100%">
+        <tbody>
+          <tr style="background-color: #f0f4f8;">
+            <th>Día</th>
+            <th>Nivel equivalente diario dB(A)</th>
+          </tr>
+          <tr>
+            <td>Lunes</td>
+            <td>88 dB(A)</td>
+          </tr>
+          <tr>
+            <td>Martes</td>
+            <td>90 dB(A)</td>
+          </tr>
+          <tr>
+            <td>Miércoles</td>
+            <td>92 dB(A)</td>
+          </tr>
+          <tr>
+            <td>Jueves</td>
+            <td>87 dB(A)</td>
+          </tr>
+          <tr>
+            <td>Viernes</td>
+            <td>91 dB(A)</td>
+          </tr>
+          <tr>
+            <td>Sábado</td>
+            <td>89 dB(A)</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>La empresa considera que no existe riesgo porque algunos días el nivel
+        está por debajo de 90 dB(A).</p>
+      <hr>
+      <h4 style="color: #1f3a5f;">🔎 Fase 1 – Identificación del Peligro</h4>
+      <table style="border-collapse: collapse; text-align: center;" border="1"
+        width="100%">
+        <tbody>
+          <tr style="background-color: #f0f4f8;">
+            <th>Actividad a Desarrollar</th>
+          </tr>
+          <tr>
+            <td>Identifique el peligro físico presente y su carácter
+              acumulativo.</td>
+          </tr>
+          <tr>
+            <td>Explique por qué no es suficiente analizar cada día de manera
+              aislada.</td>
+          </tr>
+          <tr>
+            <td>Describa los posibles efectos por exposición repetitiva semanal.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <hr>
+      <h4 style="color: #1f3a5f;">📊 Fase 2 – Evaluación de la Exposición</h4>
+      <table style="border-collapse: collapse; text-align: center;" border="1"
+        width="100%">
+        <tbody>
+          <tr style="background-color: #f0f4f8;">
+            <th>Actividad a Desarrollar</th>
+          </tr>
+          <tr>
+            <td>Explique si es correcto calcular el promedio semanal mediante
+              suma aritmética simple.</td>
+          </tr>
+          <tr>
+            <td>Determine el nivel equivalente semanal aplicando el
+              procedimiento matemático correspondiente.</td>
+          </tr>
+          <tr>
+            <td>Compare el resultado con el valor límite permisible para jornada
+              laboral según normativa colombiana.</td>
+          </tr>
+          <tr>
+            <td>Concluya si existe sobreexposición acumulada.</td>
+          </tr>
+        </tbody>
+      </table>
+      <hr>
+      <h4 style="color: #1f3a5f;">🛠 Fase 3 – Gestión del Riesgo</h4>
+      <table style="border-collapse: collapse; text-align: center;" border="1"
+        width="100%">
+        <tbody>
+          <tr style="background-color: #f0f4f8;">
+            <th>Actividad a Desarrollar</th>
+          </tr>
+          <tr>
+            <td>Clasifique el nivel de riesgo considerando exposición acumulada.
+            </td>
+          </tr>
+          <tr>
+            <td>Proponga medidas de control desde la jerarquía de intervención.
+            </td>
+          </tr>
+          <tr>
+            <td>Indique qué acciones del SG-SST deben fortalecerse frente a
+              exposición semanal.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+  <!-- =====================  RÚBRICA DE EVALUACIÓN ===================== -->
+  <div
+    style="background: #ffffff; padding: 25px; margin-top: 30px; border-radius: 10px;">
+    <h3 style="color: #1f3a5f;">📑 Rúbrica de Evaluación – Nivel de Alta
+      Exigencia</h3>
+    <p><strong>Enfoque:</strong> Evaluación integral del análisis técnico,
+      dominio matemático en operaciones logarítmicas con decibeles,
+      interpretación normativa y aplicación al Sistema de Gestión de Seguridad y
+      Salud en el Trabajo (SG-SST).</p>
+    <table
+      style="border-collapse: collapse; text-align: center; margin-top: 15px;"
+      border="1" width="100%">
+      <tbody>
+        <tr style="background-color: #f0f4f8;">
+          <th>Criterio de Evaluación</th>
+          <th>Excelente (4.6 – 5.0)</th>
+          <th>Alto (4.0 – 4.5)</th>
+          <th>Básico (3.0 – 3.9)</th>
+          <th>Bajo (0 – 2.9)</th>
+          <th>Ponderación</th>
+        </tr>
+        <tr>
+          <td><strong>Identificación del Peligro</strong></td>
+          <td>Reconoce el peligro, caracteriza técnicamente el ruido, explica
+            simultaneidad y acumulación con fundamentos científicos.</td>
+          <td>Identifica el peligro y lo describe adecuadamente.</td>
+          <td>Identificación parcial o con errores conceptuales.</td>
+          <td>No identifica correctamente el peligro.</td>
+          <td>20%</td>
+        </tr>
+        <tr>
+          <td><strong>Aplicación Matemática (Suma/Resta dB)</strong></td>
+          <td>Aplica correctamente fórmula logarítmica, muestra procedimiento
+            completo y sin errores.</td>
+          <td>Procedimiento correcto con pequeños errores operativos.</td>
+          <td>Intenta aplicar fórmula pero presenta errores conceptuales.</td>
+          <td>Realiza suma aritmética simple o procedimiento incorrecto.</td>
+          <td>25%</td>
+        </tr>
+        <tr>
+          <td><strong>Evaluación Técnica de la Exposición</strong></td>
+          <td>Interpreta correctamente resultados frente a límites permisibles y
+            justifica técnicamente.</td>
+          <td>Interpreta el resultado pero con argumentación limitada.</td>
+          <td>Conclusión poco clara o sin sustento técnico suficiente.</td>
+          <td>No logra interpretar el resultado.</td>
+          <td>20%</td>
+        </tr>
+        <tr>
+          <td><strong>Gestión del Riesgo y Jerarquía de Controles</strong></td>
+          <td>Propone medidas coherentes, priorizadas y alineadas con jerarquía
+            de control y SG-SST.</td>
+          <td>Propone medidas adecuadas pero sin priorización clara.</td>
+          <td>Medidas generales sin enfoque técnico suficiente.</td>
+          <td>No propone medidas pertinentes.</td>
+          <td>20%</td>
+        </tr>
+        <tr>
+          <td><strong>Argumentación Técnica y Sustento Normativo</strong></td>
+          <td>Cita normativa colombiana vigente y sustenta técnicamente cada
+            decisión.</td>
+          <td>Menciona normativa sin profundizar en su aplicación.</td>
+          <td>Referencia normativa superficial.</td>
+          <td>No sustenta con normativa.</td>
+          <td>15%</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+    <h4 style="color: #1f3a5f;">🎓 Criterios de Alta Exigencia Académica</h4>
+    <ul>
+      <li>No se aceptan promedios aritméticos simples cuando el ejercicio
+        requiere cálculo logarítmico.</li>
+      <li>Todo resultado numérico debe estar acompañado de procedimiento
+        matemático.</li>
+      <li>Las conclusiones deben incluir interpretación técnica y no solo el
+        valor obtenido.</li>
+      <li>Las propuestas deben alinearse con la jerarquía de controles:
+        eliminación, sustitución, ingeniería, administrativos y EPP.</li>
+      <li>Debe evidenciarse comprensión del carácter acumulativo del ruido
+        ocupacional.</li>
+    </ul>
+  </div>
+</section>
