@@ -1,0 +1,63 @@
+<section
+  style="background: linear-gradient(135deg, #eef2f6, #e3e9f2); padding: 40px; border-radius: 12px; font-family: Arial, sans-serif;">
+  <!-- ENCABEZADO -->
+  <div style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #1f3a5f; margin-bottom: 8px;">Conceptos Esenciales en
+      Ruido</h1>
+    <h3 style="color: #3c5a80; font-weight: normal;">Fundamentos básicos para la
+      evaluación acústica ocupacional</h3>
+    <hr style="width: 50%; border: 1px solid #1f3a5f;">
+  </div>
+  <!-- CONTENIDO TEÓRICO -->
+  <div
+    style="background: #ffffff; padding: 25px; border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.08); margin-bottom: 35px;">
+    <h4 style="color: #1f3a5f;">Definiciones clave</h4>
+    <ul style="line-height: 1.8;">
+      <li><strong>Ruido:</strong> Sonido no deseado que puede generar molestias
+        o afectar la salud.</li>
+      <li><strong>Presión sonora:</strong> Variación de presión generada por una
+        onda sonora en el aire.</li>
+      <li><strong>Nivel de presión sonora (NPS):</strong> Medida logarítmica de
+        la presión sonora expresada en decibeles (dB).</li>
+      <li><strong>Decibel (dB):</strong> Unidad que expresa la relación entre
+        dos niveles de presión sonora en escala logarítmica.</li>
+      <li><strong>Exposición al ruido:</strong> Resultado de combinar nivel de
+        presión sonora y tiempo de exposición.</li>
+      <li><strong>Dosis de ruido:</strong> Porcentaje de exposición acumulada
+        respecto a un límite permisible.</li>
+    </ul>
+    <hr style="margin: 25px 0;">
+    <h4 style="color: #1f3a5f;">Importancia en la evaluación ocupacional</h4>
+    <p style="text-align: justify; line-height: 1.7;">La comprensión de estos
+      conceptos permite interpretar adecuadamente los resultados de medición,
+      calcular exposiciones diarias o semanales y determinar la necesidad de
+      implementar medidas de control. En higiene industrial, no solo se analiza
+      qué tan fuerte es el ruido, sino cuánto tiempo permanece el trabajador
+      expuesto a él.</p>
+    <p style="text-align: justify; line-height: 1.7;">Estos fundamentos
+      constituyen la base para el desarrollo de evaluaciones cuantitativas,
+      análisis normativo y diseño de programas de conservación auditiva.</p>
+  </div>
+  <!-- IFRAME -->
+  <div
+    style="background: #ffffff; padding: 20px; border-radius: 12px; box-shadow: 0px 6px 18px rgba(0,0,0,0.1);">
+    <h4 style="color: #1f3a5f; text-align: center; margin-bottom: 20px;">Recurso
+      Interactivo: Conceptos Fundamentales de Ruido</h4>
+    <div style="width: 100%;">
+      <div
+        style="position: relative; padding-bottom: 66.75%; padding-top: 0; height: 0;">
+        <iframe
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          title="Conceptos de ruido"
+          src="https://view.genially.com/69a7b07c359df12ffffd59cb" width="1200"
+          height="801" frameborder="0" scrolling="yes"
+          allowfullscreen="allowfullscreen">
+        </iframe></div>
+    </div>
+  </div>
+  <!-- CIERRE -->
+  <div style="margin-top: 35px; text-align: center; color: #5a6f8f;">
+    <p><em>El dominio de los conceptos esenciales es la base para una correcta
+        gestión del riesgo por ruido en el entorno laboral.</em></p>
+  </div>
+</section>
