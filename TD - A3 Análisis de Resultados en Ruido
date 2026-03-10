@@ -1,0 +1,283 @@
+<div
+  style="max-width: 950px; margin: auto; font-family: Arial, Helvetica, sans-serif; line-height: 1.6;">
+  <div
+    style="background: #243a5e; color: white; padding: 18px; border-radius: 6px;">
+    <h3 style="margin: 0;">Análisis de Caso – Control del Ruido Ocupacional</h3>
+    <p style="margin: 5px 0 0 0;">Aplicación de medidas de atenuación sonora
+      (Control en el Medio)</p>
+  </div>
+  <br>
+  <div
+    style="background: #f4f6f8; padding: 18px; border-left: 6px solid #243a5e; border-radius: 6px;">
+    <h4 style="color: #243a5e; margin-top: 0;">🎯 Objetivo de la actividad</h4>
+    <p style="text-align: justify;">Analizar un caso aplicado de exposición a
+      ruido ocupacional mediante la observación de un video técnico, aplicando
+      las fases de la gestión del riesgo en Higiene Industrial: identificación
+      del peligro, evaluación del riesgo, control del riesgo y verificación de
+      la efectividad de las medidas implementadas.</p>
+    <h4 style="color: #243a5e;">📌 Instrucciones para el desarrollo de la
+      actividad</h4>
+    <ul>
+      <li>Observe atentamente el video presentado en esta actividad.</li>
+      <li>Analice la situación utilizando las fases de la gestión del riesgo en
+        Higiene Industrial.</li>
+      <li>Responda cada una de las preguntas de forma argumentada y con sustento
+        técnico.</li>
+      <li>Cuando sea necesario, utilice los datos numéricos presentados en el
+        video para realizar los análisis cuantitativos.</li>
+      <li>Justifique sus respuestas utilizando los conceptos de control del
+        ruido ocupacional.</li>
+    </ul>
+  </div>
+  <br>
+  <div style="text-align: center;"><iframe style="border-radius: 8px;"
+      title="Caso de Atenuación Sonora"
+      src="https://www.youtube.com/embed/M_LlMx6V2-k" width="100%" height="480"
+      frameborder="0" allowfullscreen="allowfullscreen">
+    </iframe></div>
+  <br>
+  <div
+    style="background: white; border: 1px solid #d9d9d9; padding: 20px; border-radius: 6px;">
+    <h4 style="color: #243a5e;">📑 Preguntas de la actividad</h4>
+    <!-- FASE 1 -->
+    <details style="margin-bottom: 10px;">
+      <summary
+        style="font-size: 18px; font-weight: bold; color: #243a5e; cursor: pointer;">
+        🔎 Identificación del peligro</summary>
+      <br>
+      <ul>
+        <li>¿Cuál es la fuente principal de ruido en el caso específico
+          analizado?</li>
+        <li>¿Qué características del entorno favorecen la propagación del ruido
+          hacia el trabajador?</li>
+        <li>¿Qué tipo de trabajador se está evaluando?</li>
+      </ul>
+    </details>
+    <!-- FASE 2 -->
+    <details style="margin-bottom: 10px;">
+      <summary
+        style="font-size: 18px; font-weight: bold; color: #243a5e; cursor: pointer;">
+        📊 Evaluación del riesgo</summary>
+      <br>
+      <h5 style="color: #1f4e79;">Interpretación de resultados</h5>
+      <ul>
+        <li>¿Cuál es el nivel total de presión sonora (LT) registrado en el área
+          de producción sin barrera acústica?</li>
+        <li>¿Qué riesgo ocupacional existe para los trabajadores?</li>
+        <li>¿Cuál es el nivel total de ruido (LT) cuando se instala la pared A
+          de concreto sólido de 20 cm?</li>
+        <li>¿Cuál es el nivel total de ruido (LT) cuando se instala la pared B
+          de panel yeso con aislamiento de lana mineral?</li>
+        <li>¿Qué clasificación de riesgo presenta cada escenario según la tabla
+          (alto o bajo)?</li>
+      </ul>
+      <h5 style="color: #1f4e79;">Análisis cuantitativo</h5>
+      <br>
+      <ul>
+        <li>¿Cuántos decibeles se reducen cuando se instala la pared A en
+          comparación con la medición inicial?</li>
+        <li>¿Cuántos decibeles se reducen cuando se instala la pared B en
+          comparación con la medición inicial?</li>
+        <li>Comparando ambas soluciones, ¿cuál pared presenta mayor capacidad de
+          atenuación sonora?</li>
+        <li>¿Cuál es la diferencia de reducción sonora entre la pared A y la
+          pared B?</li>
+      </ul>
+      <h5 style="color: #1f4e79;">Análisis por frecuencia</h5>
+      <br>
+      <ul>
+        <li>¿En qué bandas de frecuencia se registran los niveles de ruido más
+          altos en la medición inicial?</li>
+        <li>¿En qué rango de frecuencias se observa mayor reducción sonora al
+          instalar la pared B?</li>
+        <li>Compare el comportamiento acústico de ambas paredes en frecuencias
+          altas (4000 – 8000 Hz).</li>
+        <li>¿Qué se puede inferir sobre la capacidad de absorción acústica de
+          los materiales utilizados?</li>
+      </ul>
+    </details>
+    <!-- FASE 3 -->
+    <details style="margin-bottom: 10px;">
+      <summary
+        style="font-size: 18px; font-weight: bold; color: #243a5e; cursor: pointer;">
+        🛠 Control del riesgo</summary>
+      <br>
+      <ul>
+        <li>¿Qué tipo de medida de control se implementa en el caso presentado
+          en el video?</li>
+        <li>¿Por qué esta intervención se clasifica como control en el medio de
+          transmisión del ruido?</li>
+        <li>¿Por qué este tipo de control es más efectivo que depender
+          únicamente de EPP?</li>
+        <li>Con base en los resultados de las mediciones, ¿qué pared presenta
+          mayor capacidad de atenuación sonora?</li>
+        <li>¿Qué otros controles en el medio podrían aplicarse en situaciones
+          similares?</li>
+        <li>¿Qué propiedades acústicas de los materiales absorbentes favorecen
+          la disipación de la energía sonora?</li>
+        <li>¿Qué otras medidas de ingeniería podrían complementar la barrera
+          acústica instalada?</li>
+      </ul>
+    </details>
+    <!-- FASE 4 -->
+    <details>
+      <summary
+        style="font-size: 18px; font-weight: bold; color: #243a5e; cursor: pointer;">
+        ✔ Verificación del control</summary>
+      <br>
+      <ul>
+        <li>¿Cuál es el nuevo nivel de ruido después de instalar la medida de
+          control?</li>
+        <li>¿Se logra una reducción significativa del nivel sonoro?</li>
+        <li>¿Cómo se puede comprobar que el control sigue funcionando en el
+          tiempo?</li>
+      </ul>
+    </details>
+  </div>
+  <br>
+  <div
+    style="background: #1f4e79; color: white; padding: 18px; border-radius: 6px; text-align: left;">
+    <strong>Pregunta de discusión final</strong>
+    <p style="margin-top: 10px;">Explique por qué la combinación de materiales
+      (panel yeso + lana mineral) puede generar mayor atenuación sonora que una
+      barrera sólida de concreto, considerando los principios de absorción y
+      transmisión del sonido.</p>
+  </div>
+  <br>
+  <div
+    style="background: #f4f6f8; border-left: 6px solid #243a5e; padding: 18px; border-radius: 6px;">
+    <h4 style="color: #243a5e; margin-top: 0;">📤 Entrega de la actividad</h4>
+    <ul>
+      <li>La actividad debe desarrollarse en <strong>grupos de tres (3)
+          estudiantes</strong>.</li>
+      <li>Las respuestas deben organizarse en un <strong>documento claro y
+          estructurado</strong>.</li>
+      <li>El trabajo final debe entregarse en <strong>formato PDF</strong>.</li>
+      <li>El documento debe incluir <strong>portada, desarrollo de las
+          respuestas y conclusiones</strong>.</li>
+      <li>El archivo PDF debe subirse en el espacio de entrega de la plataforma
+        dentro de la fecha establecida.</li>
+    </ul>
+    <p></p>
+    <br>
+    <div
+      style="background: white; border: 1px solid #d9d9d9; padding: 20px; border-radius: 6px;">
+      <details>
+        <summary
+          style="font-size: 18px; font-weight: bold; color: #243a5e; cursor: pointer;">
+          📊 Rúbrica de evaluación de la actividad</summary>
+        <br>
+        <div
+          style="background: #eef3f8; border-left: 6px solid #243a5e; padding: 14px; border-radius: 6px; margin-bottom: 15px;">
+          <strong>Importante:</strong> Las respuestas deben ser elaboradas con
+          redacción técnica propia, utilizando conceptos de higiene industrial y
+          control del ruido ocupacional. Las respuestas superficiales, copiadas
+          o sin análisis técnico no obtendrán el puntaje completo.</div>
+        <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
+          <tbody>
+            <tr style="background: #243a5e; color: white; text-align: center;">
+              <th style="padding: 10px; border: 1px solid #ccc;">Criterio</th>
+              <th style="padding: 10px; border: 1px solid #ccc;">Excelente</th>
+              <th style="padding: 10px; border: 1px solid #ccc;">Bueno</th>
+              <th style="padding: 10px; border: 1px solid #ccc;">Básico</th>
+              <th style="padding: 10px; border: 1px solid #ccc;">Insuficiente
+              </th>
+              <th style="padding: 10px; border: 1px solid #ccc;">Puntos</th>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ccc;">
+                <strong>Identificación del peligro</strong></td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Identificación
+                precisa de la fuente de ruido y descripción técnica del entorno
+                acústico utilizando terminología de higiene industrial.</td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Identifica la
+                fuente de ruido y describe el entorno con menor profundidad
+                técnica.</td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Reconoce la
+                fuente de ruido pero con análisis superficial.</td>
+              <td style="padding: 10px; border: 1px solid #ccc;">No identifica
+                correctamente la fuente o el análisis es incorrecto.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ccc; text-align: center;">
+                <strong>20</strong></td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ccc;">
+                <strong>Evaluación del riesgo</strong></td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Interpreta
+                correctamente niveles de presión sonora, realiza cálculos de
+                reducción en decibeles y analiza las bandas de frecuencia con
+                fundamentos de acústica ocupacional.</td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Interpreta
+                niveles de ruido y realiza cálculos principales con análisis
+                limitado.</td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Reconoce los
+                valores pero presenta errores de interpretación o cálculo.</td>
+              <td style="padding: 10px; border: 1px solid #ccc;">No interpreta
+                los datos ni realiza los análisis cuantitativos solicitados.
+              </td>
+              <td
+                style="padding: 10px; border: 1px solid #ccc; text-align: center;">
+                <strong>30</strong></td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ccc;"><strong>Control
+                  del riesgo</strong></td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Explica
+                técnicamente el control implementado y propone medidas
+                adicionales de ingeniería sustentadas en principios acústicos.
+              </td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Describe
+                correctamente el control aplicado con análisis general.</td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Reconoce el
+                control pero con explicación limitada.</td>
+              <td style="padding: 10px; border: 1px solid #ccc;">No explica
+                correctamente el control o utiliza conceptos erróneos.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ccc; text-align: center;">
+                <strong>25</strong></td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ccc;">
+                <strong>Verificación del control</strong></td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Analiza
+                críticamente los resultados posteriores al control y evalúa la
+                efectividad de la medida implementada.</td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Reconoce la
+                reducción del ruido y explica de manera general la efectividad.
+              </td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Describe los
+                resultados sin análisis técnico profundo.</td>
+              <td style="padding: 10px; border: 1px solid #ccc;">No interpreta
+                los resultados posteriores al control.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ccc; text-align: center;">
+                <strong>15</strong></td>
+            </tr>
+            <tr>
+              <td style="padding: 10px; border: 1px solid #ccc;"><strong>Calidad
+                  académica del documento</strong></td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Documento muy
+                bien organizado, redacción técnica clara, excelente ortografía y
+                uso adecuado de terminología profesional.</td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Documento
+                organizado con pocos errores de redacción u ortografía.</td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Documento con
+                problemas de organización o redacción poco técnica.</td>
+              <td style="padding: 10px; border: 1px solid #ccc;">Documento
+                desorganizado, con errores frecuentes de ortografía o respuestas
+                incompletas.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ccc; text-align: center;">
+                <strong>10</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+        <div
+          style="background: #f4f6f8; padding: 12px; border-radius: 6px; text-align: center; font-weight: bold;">
+          Puntaje total de la actividad: 100 puntos</div>
+      </details>
+    </div>
+  </div>
+</div>
