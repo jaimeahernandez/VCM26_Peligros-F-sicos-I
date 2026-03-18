@@ -1,0 +1,212 @@
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #2c3e50; line-height: 1.6; max-width: 900px; margin: auto; border: 1px solid #e1e4e8; padding: 30px; border-radius: 8px; background-color: #ffffff; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <div
+    style="text-align: center; border-bottom: 3px solid #0056b3; margin-bottom: 25px; padding-bottom: 10px;">
+    <h2 style="color: #0056b3; margin-bottom: 5px;">Taller Práctico: Evaluación
+      de Riesgo Físico (Ruido)</h2>
+    <p style="font-style: italic; font-size: 1.1em; color: #555;">Análisis de
+      Efectividad de Protección Auditiva y Plan de Acción</p>
+  </div>
+  <section>
+    <h3
+      style="color: #0056b3; border-left: 5px solid #0056b3; padding-left: 10px;">
+      1. Contexto del Caso</h3>
+    <p>El presente ejercicio tiene como objetivo evaluar la exposición al ruido
+      de unos <strong>Operarios de Producción</strong> en una planta de
+      fabricación de automóviles ubicada en Yumbo, Valle del Cauca. Basándose en
+      los datos recolectados, usted deberá determinar el nivel de riesgo y la
+      idoneidad de los Elementos de Protección Personal (EPP) suministrados.</p>
+    <div
+      style="background-color: #f8f9fa; padding: 15px; border-radius: 5px; border: 1px inset #ddd;">
+      <strong>Objetivos de la Medición:</strong>
+      <ul style="margin-top: 10px;">
+        <li>Cuantificar niveles de ruido mediante sonometrías.</li>
+        <li>Identificar factores de riesgo asociados a las instalaciones y
+          métodos de control.</li>
+        <li>Comparar resultados con los <strong>Valores Límites Permisibles
+            (TLV)</strong> según la legislación colombiana.</li>
+        <li>Categorizar el riesgo en: <span
+            style="color: #d9534f; font-weight: bold;">ALTO</span>, <span
+            style="color: #f0ad4e; font-weight: bold;">MEDIO</span> o <span
+            style="color: #5cb85c; font-weight: bold;">BAJO</span>.</li>
+      </ul>
+    </div>
+  </section>
+  <section style="margin-top: 30px;">
+    <h3
+      style="color: #0056b3; border-left: 5px solid #0056b3; padding-left: 10px;">
+      2. Estudio de Caso Interactivo</h3>
+    <p>Explore el recurso interactivo a continuación. Es indispensable
+      <strong>pulsar los íconos azules</strong> para desplegar la información
+      técnica. Analice especialmente los datos de los días (lunes y viernes) y
+      las tablas de atenuación de los protectores auditivos. El operario de
+      producción del lunes es diferente al operario de producción del viernes.
+    </p>
+    <div
+      style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 20px 0; border: 2px solid #0056b3; border-radius: 8px;">
+      <iframe
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+        src="https://view.genially.com/63f9917ca3906a00113a613d/interactive-image-imagen-interactiva"
+        frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+  </section>
+  <section style="margin-top: 30px;">
+    <h3
+      style="color: #0056b3; border-left: 5px solid #0056b3; padding-left: 10px;">
+      3. Herramientas de Cálculo y Análisis</h3>
+    <p>Para determinar la efectividad de los protectores auditivos, siga estos
+      pasos obligatorios:</p>
+    <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+      <tbody>
+        <tr
+          style="background-color: #0056b3; color: white; text-align: center;">
+          <th style="padding: 12px; border: 1px solid #ddd;">Paso</th>
+          <th style="padding: 12px; border: 1px solid #ddd;">Recurso</th>
+          <th style="padding: 12px; border: 1px solid #ddd;">Acción</th>
+        </tr>
+        <tr>
+          <td
+            style="padding: 10px; border: 1px solid #ddd; text-align: center;">1
+          </td>
+          <td style="padding: 10px; border: 1px solid #ddd;"><strong>Video
+              Instructivo</strong></td>
+          <td style="padding: 10px; border: 1px solid #ddd;"><a
+              style="color: #d9534f; font-weight: bold; text-decoration: underline;"
+              href="https://youtu.be/ynbfk4DjVlE?si=8IXPwSRgmHdsEQVO"
+              target="_blank" rel="noopener"> [VER VIDEO AQUÍ] </a></td>
+        </tr>
+        <tr style="background-color: #f2f2f2;">
+          <td
+            style="padding: 10px; border: 1px solid #ddd; text-align: center;">2
+          </td>
+          <td style="padding: 10px; border: 1px solid #ddd;"><strong>Aplicativo
+              Excel</strong></td>
+          <td style="padding: 10px; border: 1px solid #ddd;"><a
+              style="color: #28a745; font-weight: bold; text-decoration: underline;"
+              href="https://we.tl/t-iLTXLFELKm" target="_blank"
+              rel="noopener">[DESCARGAR EXCEL] </a></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+  <section
+    style="margin-top: 30px; background-color: #fff3cd; padding: 20px; border-radius: 8px; border: 1px solid #ffeeba;">
+    <h3 style="color: #856404; margin-top: 0;">4. Entregable: Plan de Acción
+    </h3>
+    <p>Tras completar el cálculo de efectividad, usted debe entregar en un PDF
+      lo siguiente:</p>
+    <ol>
+      <li><strong>Análisis de Resultados:</strong> Interpretar la exposición del
+        operario frente a la norma. Indicar si la NPS o intensidad Total evalúa
+        el riesgo como ALTO, MEDIO o BAJO para los días analizados.</li>
+      <li><strong>Evaluación de EPP:</strong> Realizar una Comparativa técnica
+        entre los dos protectores auditivos evaluados.</li>
+      <li><strong>Analizar cuál de los 2 protectores auditivos es efectivo y por
+          qué</strong></li>
+      <li><strong>Analizar a través de las bandas de octava si existe riesgo de
+          Hipoacusia para cada operario (lunes y viernes).</strong></li>
+      <li><strong>Realizar una gráfica de curvas entre Intensidad vs frecuencia
+          teniendo en cuenta la medición de ruido y los datos de atenuación del
+          EPP. Recuerde que son 2 operarios (lunes y viernes)</strong></li>
+      <li><strong>Plan de acción:</strong> Presentar acciones tendientes a que
+        la empresa controle o minimice el factor de riesgo evaluado, siguiendo
+        la jerarquía de control (Fuente, Medio, Trabajador). Por favor haga el
+        plan de acción en una matriz.</li>
+    </ol>
+  </section>
+  <div
+    style="font-family: 'Segoe UI', Arial, sans-serif; max-width: 900px; margin: 20px auto; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #fcfcfc; padding: 20px;">
+    <h3
+      style="color: #0056b3; text-align: center; border-bottom: 2px solid #0056b3; padding-bottom: 10px; margin-bottom: 20px;">
+      Rúbrica de Evaluación</h3>
+    <p style="font-size: 0.95em; color: #555; margin-bottom: 15px;"><em>Haga
+        clic en cada criterio para desplegar los niveles de desempeño. La
+        calificación máxima es de 5.0 puntos.</em></p>
+    <details
+      style="margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px; background: white;">
+      <summary
+        style="padding: 15px; font-weight: bold; color: #2c3e50; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background-color: #eef4f9;">
+        1. Análisis de Resultados y Categorización (20%) ▼</summary>
+      <div style="padding: 15px; font-size: 0.9em; border-top: 1px solid #ddd;">
+        <p><strong>Superior (5.0):</strong> Determina con precisión matemática
+          la intensidad total y categoriza el riesgo (Alto, Medio, Bajo)
+          basándose estrictamente en los TLV de la norma colombiana para ambos
+          operarios.</p>
+        <p><strong>Alto (4.0):</strong> Identifica el riesgo pero presenta
+          imprecisiones leves en la comparación normativa o falta profundidad en
+          el análisis del lunes vs. viernes.</p>
+        <p><strong>Básico (3.0):</strong> Realiza la categorización pero no
+          justifica el resultado frente a los Valores Límites Permisibles.</p>
+      </div>
+    </details>
+    <details
+      style="margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px; background: white;">
+      <summary
+        style="padding: 15px; font-weight: bold; color: #2c3e50; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background-color: #eef4f9;">
+        2. Evaluación Técnica de EPP y Efectividad (20%) ▼</summary>
+      <div style="padding: 15px; font-size: 0.9em; border-top: 1px solid #ddd;">
+        <p><strong>Superior (5.0):</strong> Realiza una comparativa técnica
+          exhaustiva. Sustenta con cálculos del aplicativo por qué un protector
+          es efectivo y el otro no, analizando el NRR o SNR frente al espectro
+          de ruido medido.</p>
+        <p><strong>Alto (4.0):</strong> Elige el protector correcto pero la
+          sustentación técnica es débil o no menciona datos de atenuación
+          específicos.</p>
+        <p><strong>Básico (3.0):</strong> Indica la efectividad sin realizar la
+          comparativa técnica entre ambos elementos.</p>
+      </div>
+    </details>
+    <details
+      style="margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px; background: white;">
+      <summary
+        style="padding: 15px; font-weight: bold; color: #2c3e50; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background-color: #eef4f9;">
+        3. Riesgo de Hipoacusia por Bandas de Octava (20%) ▼</summary>
+      <div style="padding: 15px; font-size: 0.9em; border-top: 1px solid #ddd;">
+        <p><strong>Superior (5.0):</strong> Analiza críticamente cada frecuencia
+          (31.5 Hz a 8000 Hz) identificando picos críticos de exposición y su
+          relación directa con el daño auditivo potencial para cada operario.
+        </p>
+        <p><strong>Alto (4.0):</strong> Identifica el riesgo por bandas de
+          octava pero omite el análisis diferencial entre los dos operarios
+          (lunes y viernes).</p>
+        <p><strong>Básico (3.0):</strong> Menciona las bandas de octava de forma
+          general sin vincularlas al riesgo de hipoacusia específica.</p>
+      </div>
+    </details>
+    <details
+      style="margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px; background: white;">
+      <summary
+        style="padding: 15px; font-weight: bold; color: #2c3e50; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background-color: #eef4f9;">
+        4. Representación Gráfica (Intensidad vs Frecuencia) (20%) ▼</summary>
+      <div style="padding: 15px; font-size: 0.9em; border-top: 1px solid #ddd;">
+        <p><strong>Superior (5.0):</strong> Gráficas impecables para ambos días,
+          con escalas correctas, leyendas claras y superposición de la curva de
+          ruido vs. curva de atenuación del EPP.</p>
+        <p><strong>Alto (4.0):</strong> Gráficas correctas pero con fallos de
+          rotulado o falta de claridad en la comparación visual.</p>
+        <p><strong>Básico (3.0):</strong> Presenta gráficas incompletas o solo
+          analiza uno de los dos días requeridos.</p>
+      </div>
+    </details>
+    <details
+      style="margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px; background: white;">
+      <summary
+        style="padding: 15px; font-weight: bold; color: #2c3e50; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background-color: #eef4f9;">
+        5. Plan de Acción en Matriz (Jerarquía de Control) (20%) ▼</summary>
+      <div style="padding: 15px; font-size: 0.9em; border-top: 1px solid #ddd;">
+        <p><strong>Superior (5.0):</strong> Propone controles específicos,
+          viables y técnicos en Fuente, Medio y Trabajador. La matriz incluye
+          responsables, tiempos y método de verificación.</p>
+        <p><strong>Alto (4.0):</strong> Propone controles pero se enfoca
+          excesivamente en el Trabajador (EPP), descuidando la ingeniería o el
+          medio.</p>
+        <p><strong>Básico (3.0):</strong> El plan de acción es genérico (ej:
+          "hacer mantenimiento") sin sustento técnico derivado del estudio.</p>
+      </div>
+    </details>
+  </div>
+  <footer
+    style="margin-top: 30px; text-align: center; font-size: 0.9em; color: #7f8c8d;">
+    <p>Docente: Jaime A. Hernández J. <br>Peligros Físicos I - UNIAJC / Sede
+      Central</p>
+  </footer>
+</div>
