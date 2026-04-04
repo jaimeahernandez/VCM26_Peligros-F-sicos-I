@@ -82,7 +82,7 @@
               Excel</strong></td>
           <td style="padding: 10px; border: 1px solid #ddd;"><a
               style="color: #28a745; font-weight: bold; text-decoration: underline;"
-              href="https://we.tl/t-iLTXLFELKm" target="_blank"
+              href="https://we.tl/t-9tm08EOw8FHLVBHZ" target="_blank"
               rel="noopener">[DESCARGAR EXCEL] </a></td>
         </tr>
       </tbody>
@@ -113,94 +113,230 @@
         plan de acción en una matriz.</li>
     </ol>
   </section>
+  <br>
   <div
-    style="font-family: 'Segoe UI', Arial, sans-serif; max-width: 900px; margin: 20px auto; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #fcfcfc; padding: 20px;">
-    <h3
-      style="color: #0056b3; text-align: center; border-bottom: 2px solid #0056b3; padding-bottom: 10px; margin-bottom: 20px;">
-      Rúbrica de Evaluación</h3>
-    <p style="font-size: 0.95em; color: #555; margin-bottom: 15px;"><em>Haga
-        clic en cada criterio para desplegar los niveles de desempeño. La
-        calificación máxima es de 5.0 puntos.</em></p>
+    style="font-family: 'Segoe UI', Arial, sans-serif; max-width: 950px; margin: auto; color: #2c3e50;">
+    <div
+      style="text-align: center; margin-bottom: 30px; border-bottom: 3px solid #1a5276; padding-bottom: 10px;">
+      <h2 style="color: #1a5276; text-transform: uppercase;">Rúbrica de
+        Evaluación</h2>
+      <p style="font-style: italic; color: #7f8c8d;">Actividad: Taller Práctico
+        de Evaluación de Riesgo Físico (Ruido)</p>
+    </div>
     <details
-      style="margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px; background: white;">
+      style="margin-bottom: 15px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
       <summary
-        style="padding: 15px; font-weight: bold; color: #2c3e50; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background-color: #eef4f9;">
-        1. Análisis de Resultados y Categorización (20%) ▼</summary>
-      <div style="padding: 15px; font-size: 0.9em; border-top: 1px solid #ddd;">
-        <p><strong>Superior (5.0):</strong> Determina con precisión matemática
-          la intensidad total y categoriza el riesgo (Alto, Medio, Bajo)
-          basándose estrictamente en los TLV de la norma colombiana para ambos
-          operarios.</p>
-        <p><strong>Alto (4.0):</strong> Identifica el riesgo pero presenta
-          imprecisiones leves en la comparación normativa o falta profundidad en
-          el análisis del lunes vs. viernes.</p>
-        <p><strong>Básico (3.0):</strong> Realiza la categorización pero no
-          justifica el resultado frente a los Valores Límites Permisibles.</p>
+        style="background-color: #1a5276; color: white; padding: 15px; font-weight: bold; cursor: pointer; list-style: none;">
+        Criterio 1: Análisis de Resultados y Categorización del Riesgo (20%)
+      </summary>
+      <div style="padding: 20px; background-color: #f9f9f9;">
+        <table
+          style="width: 100%; border-collapse: collapse; background: white;">
+          <tbody>
+            <tr style="background-color: #f2f2f2;">
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Excelente (5.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Sobresaliente (4.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Aceptable (3.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Insuficiente (1.0 - 2.0)</th>
+            </tr>
+            <tr>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Interpreta con precisión absoluta la NPS Total de ambos
+                operarios frente a la Resolución 1792/90. Justifica la
+                categorización (Alto/Medio/Bajo) con argumentos técnicos
+                sólidos.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Interpreta correctamente la exposición, pero la justificación de
+                la categorización carece de profundidad técnica en uno de los
+                dos días.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Identifica la NPS Total pero comete errores leves en la
+                comparación normativa o en la categorización del riesgo.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                No identifica correctamente los niveles de exposición o confunde
+                los valores límites permisibles (TLV).</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </details>
     <details
-      style="margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px; background: white;">
+      style="margin-bottom: 15px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
       <summary
-        style="padding: 15px; font-weight: bold; color: #2c3e50; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background-color: #eef4f9;">
-        2. Evaluación Técnica de EPP y Efectividad (20%) ▼</summary>
-      <div style="padding: 15px; font-size: 0.9em; border-top: 1px solid #ddd;">
-        <p><strong>Superior (5.0):</strong> Realiza una comparativa técnica
-          exhaustiva. Sustenta con cálculos del aplicativo por qué un protector
-          es efectivo y el otro no, analizando el NRR o SNR frente al espectro
-          de ruido medido.</p>
-        <p><strong>Alto (4.0):</strong> Elige el protector correcto pero la
-          sustentación técnica es débil o no menciona datos de atenuación
-          específicos.</p>
-        <p><strong>Básico (3.0):</strong> Indica la efectividad sin realizar la
-          comparativa técnica entre ambos elementos.</p>
+        style="background-color: #1a5276; color: white; padding: 15px; font-weight: bold; cursor: pointer; list-style: none;">
+        Criterio 2: Evaluación Técnica de EPP y Atenuación (20%)</summary>
+      <div style="padding: 20px; background-color: #f9f9f9;">
+        <table
+          style="width: 100%; border-collapse: collapse; background: white;">
+          <tbody>
+            <tr style="background-color: #f2f2f2;">
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Excelente (5.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Sobresaliente (4.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Aceptable (3.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Insuficiente (1.0 - 2.0)</th>
+            </tr>
+            <tr>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Realiza una comparativa exhaustiva de los dos protectores.
+                Demuestra mediante cálculos (método de bandas) cuál es efectivo
+                y por qué, considerando la desviación estándar.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Compara los EPP y determina la efectividad, pero omite detalles
+                sobre la desviación estándar o el ajuste por uso real
+                (derating).</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Determina cuál EPP es mejor de forma superficial, sin respaldo
+                matemático suficiente en el análisis de atenuación.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                No presenta comparativa técnica o los cálculos de atenuación son
+                erróneos en su totalidad.</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </details>
     <details
-      style="margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px; background: white;">
+      style="margin-bottom: 15px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
       <summary
-        style="padding: 15px; font-weight: bold; color: #2c3e50; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background-color: #eef4f9;">
-        3. Riesgo de Hipoacusia por Bandas de Octava (20%) ▼</summary>
-      <div style="padding: 15px; font-size: 0.9em; border-top: 1px solid #ddd;">
-        <p><strong>Superior (5.0):</strong> Analiza críticamente cada frecuencia
-          (31.5 Hz a 8000 Hz) identificando picos críticos de exposición y su
-          relación directa con el daño auditivo potencial para cada operario.
-        </p>
-        <p><strong>Alto (4.0):</strong> Identifica el riesgo por bandas de
-          octava pero omite el análisis diferencial entre los dos operarios
-          (lunes y viernes).</p>
-        <p><strong>Básico (3.0):</strong> Menciona las bandas de octava de forma
-          general sin vincularlas al riesgo de hipoacusia específica.</p>
+        style="background-color: #1a5276; color: white; padding: 15px; font-weight: bold; cursor: pointer; list-style: none;">
+        Criterio 3: Riesgo de Hipoacusia por Bandas de Octava (20%)</summary>
+      <div style="padding: 20px; background-color: #f9f9f9;">
+        <table
+          style="width: 100%; border-collapse: collapse; background: white;">
+          <tbody>
+            <tr style="background-color: #f2f2f2;">
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Excelente (5.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Sobresaliente (4.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Aceptable (3.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Insuficiente (1.0 - 2.0)</th>
+            </tr>
+            <tr>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Analiza críticamente cada frecuencia (Hz). Identifica si el
+                riesgo se concentra en frecuencias conversacionales o altas y su
+                impacto en la salud auditiva del operario.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Identifica las bandas críticas, pero el análisis sobre el riesgo
+                específico de hipoacusia neurosensorial es limitado.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Menciona las bandas de octava pero no logra vincular la
+                frecuencia con la probabilidad de daño auditivo específico.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                No realiza el análisis por bandas de octava.</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </details>
     <details
-      style="margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px; background: white;">
+      style="margin-bottom: 15px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
       <summary
-        style="padding: 15px; font-weight: bold; color: #2c3e50; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background-color: #eef4f9;">
-        4. Representación Gráfica (Intensidad vs Frecuencia) (20%) ▼</summary>
-      <div style="padding: 15px; font-size: 0.9em; border-top: 1px solid #ddd;">
-        <p><strong>Superior (5.0):</strong> Gráficas impecables para ambos días,
-          con escalas correctas, leyendas claras y superposición de la curva de
-          ruido vs. curva de atenuación del EPP.</p>
-        <p><strong>Alto (4.0):</strong> Gráficas correctas pero con fallos de
-          rotulado o falta de claridad en la comparación visual.</p>
-        <p><strong>Básico (3.0):</strong> Presenta gráficas incompletas o solo
-          analiza uno de los dos días requeridos.</p>
+        style="background-color: #1a5276; color: white; padding: 15px; font-weight: bold; cursor: pointer; list-style: none;">
+        Criterio 4: Calidad Gráfica (Intensidad vs Frecuencia) (20%)</summary>
+      <div style="padding: 20px; background-color: #f9f9f9;">
+        <table
+          style="width: 100%; border-collapse: collapse; background: white;">
+          <tbody>
+            <tr style="background-color: #f2f2f2;">
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Excelente (5.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Sobresaliente (4.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Aceptable (3.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Insuficiente (1.0 - 2.0)</th>
+            </tr>
+            <tr>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Genera dos gráficas impecables (Lunes/Viernes). Incluye curvas
+                de medición real vs. curva de atenuación del EPP. Ejes
+                correctamente rotulados y escala logarítmica adecuada.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Presenta las gráficas de ambos operarios, pero hay errores
+                menores en el rotulado de ejes o en la superposición de las
+                curvas de atenuación.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Presenta solo una gráfica o las gráficas carecen de claridad
+                visual para comparar la medición con la protección.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Gráficas ilegibles, incompletas o ausencia total del recurso
+                visual requerido.</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </details>
     <details
-      style="margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px; background: white;">
+      style="margin-bottom: 15px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
       <summary
-        style="padding: 15px; font-weight: bold; color: #2c3e50; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background-color: #eef4f9;">
-        5. Plan de Acción en Matriz (Jerarquía de Control) (20%) ▼</summary>
-      <div style="padding: 15px; font-size: 0.9em; border-top: 1px solid #ddd;">
-        <p><strong>Superior (5.0):</strong> Propone controles específicos,
-          viables y técnicos en Fuente, Medio y Trabajador. La matriz incluye
-          responsables, tiempos y método de verificación.</p>
-        <p><strong>Alto (4.0):</strong> Propone controles pero se enfoca
-          excesivamente en el Trabajador (EPP), descuidando la ingeniería o el
-          medio.</p>
-        <p><strong>Básico (3.0):</strong> El plan de acción es genérico (ej:
-          "hacer mantenimiento") sin sustento técnico derivado del estudio.</p>
+        style="background-color: #1a5276; color: white; padding: 15px; font-weight: bold; cursor: pointer; list-style: none;">
+        Criterio 5: Plan de Acción en Matriz (Jerarquía de Control) (20%)
+      </summary>
+      <div style="padding: 20px; background-color: #f9f9f9;">
+        <table
+          style="width: 100%; border-collapse: collapse; background: white;">
+          <tbody>
+            <tr style="background-color: #f2f2f2;">
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Excelente (5.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Sobresaliente (4.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Aceptable (3.0)</th>
+              <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+                Insuficiente (1.0 - 2.0)</th>
+            </tr>
+            <tr>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Matriz profesional que prioriza controles en Fuente y Medio.
+                Propone soluciones de ingeniería reales y administrativas
+                (rotación/señalización) coherentes con el hallazgo.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                Presenta matriz con jerarquía de control, pero se enfoca
+                demasiado en el Trabajador (EPP) y poco en controles de
+                ingeniería.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                El plan de acción no está en formato matriz o las propuestas de
+                control son genéricas y no se ajustan al caso de la planta.</td>
+              <td
+                style="padding: 10px; border: 1px solid #ddd; font-size: 0.9em; vertical-align: top;">
+                No aplica la jerarquía de control o las acciones propuestas son
+                inviables/incorrectas.</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </details>
   </div>
