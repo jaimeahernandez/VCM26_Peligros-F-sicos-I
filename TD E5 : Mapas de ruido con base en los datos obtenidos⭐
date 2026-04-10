@@ -1,0 +1,255 @@
+<div
+  style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #1a252f; line-height: 1.8; max-width: 1050px; margin: auto; border: 1px solid #d1d5db; background-color: #ffffff; box-shadow: 0 10px 25px rgba(0,0,0,0.1); border-radius: 4px;">
+  <div
+    style="background-color: #2c3e50; padding: 40px 20px; text-align: center; border-bottom: 5px solid #e67e22; border-top-left-radius: 4px; border-top-right-radius: 4px;">
+    <div style="font-size: 3em; margin-bottom: 10px;">📉</div>
+    <h1
+      style="color: #ffffff; margin: 0; text-transform: uppercase; letter-spacing: 2px; font-size: 2.2em; font-weight: bold;">
+      Protocolo de Evaluación Higiénica</h1>
+    <p
+      style="color: #bdc3c7; margin: 10px 0 0 0; font-size: 1.3em; font-weight: 300; text-transform: uppercase;">
+      Mapeo de Presión Sonora y Modelamiento de Propagación Acústica</p>
+  </div>
+  <div style="padding: 40px;">
+    <div
+      style="display: flex; align-items: flex-start; margin-bottom: 35px; background-color: #f8f9fa; padding: 20px; border-radius: 8px;">
+      <div style="font-size: 2em; margin-right: 20px;">🎯</div>
+      <div>
+        <h3
+          style="margin-top: 0; color: #2c3e50; border-bottom: 2px solid #e67e22; display: inline-block;">
+          Objetivo Académico</h3>
+        <p style="margin-top: 10px; font-size: 1.1em; color: #34495e;">
+          Desarrollar competencias técnicas en la identificación y evaluación
+          del riesgo físico por ruido mediante el uso de herramientas de
+          medición digital y la representación cartográfica de presión sonora,
+          fundamentado en el marco normativo de la Higiene Industrial.</p>
+      </div>
+    </div>
+    <div
+      style="background-color: #ebf5fb; padding: 25px; border-left: 5px solid #2e86de; border-radius: 4px; margin-bottom: 35px;">
+      <h3 style="margin-top: 0; color: #21618c; font-size: 1.4em;">📋
+        Instrucciones Previas y Materiales</h3>
+      <ul style="margin: 10px 0 0 0; color: #2c3e50; font-size: 1.05em;">
+        <li><strong>Herramientas de medición:</strong> Traer flexómetro (cinta
+          métrica), protectores auditivos y tener descargada la aplicación
+          <strong>Sound Analyzer App</strong> en su dispositivo móvil.</li>
+        <li><strong>Registro de datos:</strong> Llevar bolígrafo o lápiz y hojas
+          para tomar apuntes; es obligatorio registrar los resultados de las
+          mediciones y realizar un borrador (croquis) de las áreas objeto de
+          mapeo.</li>
+        <li><strong>Logística:</strong> Esperar la asignación del área
+          específica de trabajo por parte de su tutor.</li>
+      </ul>
+    </div>
+    <hr style="border: 0; border-top: 2px solid #eee; margin: 50px 0;">
+    <h3
+      style="color: #2c3e50; text-align: center; text-transform: uppercase; margin-bottom: 40px;">
+      📂 Fases de Ejecución del Proyecto</h3>
+    <div style="margin-bottom: 45px;">
+      <h4 style="color: #2e86de;"><span
+          style="background: #2e86de; color: white; padding: 2px 10px; border-radius: 50%; margin-right: 10px;">1</span>
+        Reconocimiento y Muestreo de Campo</h4>
+      <p>Los grupos de trabajo realizarán un barrido técnico por los niveles de
+        la institución. Es obligatorio emplear la aplicación Sound Analyzer App
+        para registrar niveles de presión sonora (Lp) en puntos críticos de
+        salones y áreas comunes en condiciones reales de operación.</p>
+    </div>
+    <div
+      style="margin-bottom: 45px; background-color: #fffaf0; padding: 25px; border: 1px solid #f39c12; border-radius: 8px;">
+      <h4 style="color: #d35400;"><span
+          style="background: #d35400; color: white; padding: 2px 10px; border-radius: 50%; margin-right: 10px;">2</span>
+        Estudio de Propagación en Espacio Confinado (Salón Vacío)</h4>
+      <p>Se procederá a realizar una medición controlada en un salón desocupado
+        (Los grupos deben indicar el salón). Utilizando una fuente de ruido
+        puntual (ej. alarma de celular a volumen constante), el equipo medirá la
+        atenuación del sonido a distancias incrementales (1m, 2m, 4m, 8m). Se
+        recomienda que duración de cada medición sea de un minuto. Este
+        ejercicio permitirá validar la Ley del Inverso del Cuadrado en la
+        propagación acústica. <br><br><strong>Los grupos deben para este caso,
+          registrar los datos de medición, registrar la distancia con respecto a
+          la fuente, indicar el salón, referencia de la fuente de sonido, y
+          elaborar el diagrama de muestreo radial tal como se indica en la
+          imagen.</strong></p>
+      <div style="text-align: center; margin-top: 20px;"><img class="img-fluid"
+          style="max-width: 60%; height: auto; border: 2px solid #ddd; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+          src="https://www.larsondavis.com/images/librariesprovider2/diagrams/noise-survey-diagram.jpg?sfvrsn=7dac98a5_3"
+          alt="Esquema de medición por distancias">
+        <p
+          style="font-style: italic; font-size: 0.9em; color: #7f8c8d; margin-top: 10px;">
+          Referencia: Diagrama de muestreo radial respecto a fuente emisora.</p>
+      </div>
+    </div>
+    <div style="margin-bottom: 45px;">
+      <h4 style="color: #2e86de;"><span
+          style="background: #2e86de; color: white; padding: 2px 10px; border-radius: 50%; margin-right: 10px;">3</span>
+        Cartografía y Semaforización Acústica</h4>
+      <p>Para la recolección de evidencia, cada equipo de trabajo deberá
+        ejecutar las mediciones a través de la herramienta Sound Analyzer App,
+        accionando el comando de inicio (Play) para cada punto de muestreo. Es
+        fundamental que cada registro tenga una duración mínima de un minuto
+        para garantizar la estabilidad del dato. El parámetro técnico a reportar
+        es el nivel de presión sonora equivalente continuo, identificado en la
+        interfaz como LAeq.</p>
+      <p>Nota técnica: En el evento de encontrar un salón en uso, la medición
+        podrá trasladarse al área del pasillo inmediatamente exterior al recinto
+        para asegurar la continuidad del ejercicio. Con los datos obtenidos, se
+        debe proceder al modelado del mapa de ruido. Se requiere la delimitación
+        de zonas mediante contornos y la aplicación de la siguiente escala
+        técnica:</p>
+      <table style="width: 100%; border-collapse: collapse; margin: 25px 0;">
+        <thead>
+          <tr
+            style="background-color: #2c3e50; color: white; text-align: center;">
+            <th style="padding: 15px; border: 1px solid #ddd;">Nivel de Presión
+              (dB)</th>
+            <th style="padding: 15px; border: 1px solid #ddd;">Codificación
+              Color</th>
+            <th style="padding: 15px; border: 1px solid #ddd;">Estado de Riesgo
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="text-align: center;">
+            <td style="padding: 12px; border: 1px solid #ddd;">&lt; 80 dB</td>
+            <td
+              style="padding: 12px; border: 1px solid #ddd; background-color: #27ae60; color: white; font-weight: bold;">
+              ZONA VERDE</td>
+            <td style="padding: 12px; border: 1px solid #ddd;">Bajo Riesgo /
+              Confort</td>
+          </tr>
+          <tr style="text-align: center;">
+            <td style="padding: 12px; border: 1px solid #ddd;">80 - 85 dB</td>
+            <td
+              style="padding: 12px; border: 1px solid #ddd; background-color: #f1c40f; color: #2c3e50; font-weight: bold;">
+              ZONA AMARILLA</td>
+            <td style="padding: 12px; border: 1px solid #ddd;">Precaución /
+              Monitoreo</td>
+          </tr>
+          <tr style="text-align: center;">
+            <td style="padding: 12px; border: 1px solid #ddd;">&gt; 85 dB</td>
+            <td
+              style="padding: 12px; border: 1px solid #ddd; background-color: #e74c3c; color: white; font-weight: bold;">
+              ZONA ROJA</td>
+            <td style="padding: 12px; border: 1px solid #ddd;">Riesgo Crítico /
+              Acción</td>
+          </tr>
+        </tbody>
+      </table>
+      <div style="text-align: center; margin-top: 30px;">
+        <p
+          style="font-style: italic; font-size: 0.9em; color: #7f8c8d; margin-bottom: 10px; margin-top: 0;">
+          Visualización técnica de contornos de ruido para la entrega final.</p>
+        <img class="img-fluid"
+          style="max-width: 85%; border: 1px solid #ccc; border-radius: 4px;"
+          src="https://invc-media.s3.amazonaws.com/invc_website/media/images/internal_noise_contours.width-500.jpg"
+          alt="Mapa de isolíneas">
+      </div>
+    </div>
+    <div style="margin-bottom: 45px;">
+      <h4 style="color: #2e86de;"><span
+          style="background: #2e86de; color: white; padding: 2px 10px; border-radius: 50%; margin-right: 10px;">4</span>
+        Análisis Crítico y Entrega Final</h4>
+      <p>El reporte debe ser entregado en formato <strong>PDF (Máx.
+          5MB)</strong> e incluir:</p>
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li style="margin-bottom: 8px;">📑 <strong>Memoria de Cálculo:</strong>
+          Tabulación de datos del área asignada por el tutor (Puntos 2 y 3).
+        </li>
+        <li style="margin-bottom: 8px;">🗺️ <strong>Planos:</strong> Mapa de
+          ruido de la planta asignada por su tutor (Puntos 2 y 3).</li>
+        <li style="margin-bottom: 8px;">⚖️ <strong>Diagnóstico:</strong>
+          Contraste contra la normatividad legal y propuestas de control.</li>
+      </ul>
+    </div>
+    <div
+      style="border-top: 2px solid #2c3e50; padding-top: 25px; margin-top: 50px;">
+      <h3 style="color: #2c3e50; margin-bottom: 20px;">⚖️ Rúbrica de Evaluación
+      </h3>
+      <details
+        style="background: #f8f9fa; padding: 15px; border-radius: 8px; border: 1px solid #d1d5db; cursor: pointer;">
+        <summary style="font-weight: bold; color: #2c3e50; font-size: 1.2em;">
+          Ver Detalle de Criterios de Calificación (Haga clic aquí)</summary>
+        <div style="overflow-x: auto; margin-top: 15px;">
+          <table
+            style="width: 100%; border-collapse: collapse; background-color: white; font-size: 0.9em;">
+            <thead>
+              <tr style="background-color: #2c3e50; color: white;">
+                <th style="padding: 12px; border: 1px solid #ddd; width: 20%;">
+                  Criterio</th>
+                <th style="padding: 12px; border: 1px solid #ddd;">Excelente
+                  (5.0)</th>
+                <th style="padding: 12px; border: 1px solid #ddd;">Aceptable
+                  (3.0 - 3.9)</th>
+                <th style="padding: 12px; border: 1px solid #ddd;">Insuficiente
+                  (&lt; 3.0)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td
+                  style="padding: 12px; border: 1px solid #ddd; font-weight: bold; background-color: #f2f4f4;">
+                  Técnica de Muestreo Radial (25%)</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">Ejecución
+                  perfecta de distancias (1, 2, 4, 8m). Identificación técnica
+                  de fuente y salón según protocolo.</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">Realiza el
+                  muestreo pero presenta errores menores en el registro de
+                  distancias o referencia de la fuente.</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">Muestreo
+                  incompleto, datos incoherentes o ausencia de diagrama radial
+                  solicitado.</td>
+              </tr>
+              <tr>
+                <td
+                  style="padding: 12px; border: 1px solid #ddd; font-weight: bold; background-color: #f2f4f4;">
+                  Cartografía (30%)</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">Modelado
+                  impecable de líneas. Semaforización exacta. Representación
+                  visual profesional y clara.</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">Mapa legible
+                  con líneas básicas, pero con imprecisiones en el trazado o en
+                  los límites de color.</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">Ausencia de
+                  mapa de ruido o representación gráfica que no permite
+                  identificar zonas de riesgo.</td>
+              </tr>
+              <tr>
+                <td
+                  style="padding: 12px; border: 1px solid #ddd; font-weight: bold; background-color: #f2f4f4;">
+                  Análisis Normativo (30%)</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">Contraste
+                  profundo con Res. 8321/83. Propuestas de control basadas en
+                  jerarquía (Fuente/Medio/Individuo).</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">Menciona la
+                  norma pero el análisis es superficial. Propone controles
+                  básicos sin sustento técnico.</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">No aplica
+                  normatividad legal vigente o las conclusiones son erróneas
+                  frente al riesgo hallado.</td>
+              </tr>
+              <tr>
+                <td
+                  style="padding: 12px; border: 1px solid #ddd; font-weight: bold; background-color: #f2f4f4;">
+                  Calidad Editorial (15%)</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">Informe en
+                  PDF, memoria de cálculo tabulada, sin errores ortográficos y
+                  bajo normas APA.</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">Cumple con la
+                  estructura pero presenta errores de redacción o falta de
+                  rigurosidad en las citas.</td>
+                <td style="padding: 12px; border: 1px solid #ddd;">Presentación
+                  deficiente, falta de tablas de datos o no cumple con el
+                  formato solicitado.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </details>
+    </div>
+    <br>
+    <div
+      style="background-color: #f1f2f6; padding: 15px; text-align: center; border-bottom-left-radius: 4px; border-bottom-right-radius: 4px; font-size: 0.9em; color: #7f8c8d;">
+      Facultad de Educación a Distancia y Virtual (FEDV) - Administración de la
+      Seguridad y Salud en el Trabajo (ASST)</div>
+  </div>
+</div>
