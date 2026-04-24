@@ -1,0 +1,77 @@
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 40px; border-radius: 12px; background-color: #ffffff; line-height: 1.8; max-width: 1000px; margin: 20px auto; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
+  <div
+    style="text-align: center; border-bottom: 3px solid #1a5276; margin-bottom: 30px; padding-bottom: 15px;">
+    <h1
+      style="color: #1a5276; text-transform: uppercase; margin-bottom: 5px; font-size: 1.8em;">
+      Producto Final: Informe de Control de Ruido</h1>
+    <p style="font-variant: small-caps; color: #7f8c8d; font-weight: bold;">
+      Resolución Técnica de Casos y Jerarquía de Controles</p>
+  </div>
+  <p style="text-align: justify;"><strong>Instrucciones:</strong> Tras haber
+    analizado el caso asignado presentados en la actividad anterior, usted debe
+    consolidar los resultados en un <strong>Informe Técnico</strong>. Este
+    documento debe dar respuesta explícita a los interrogantes planteados en
+    cada caso, simulando una entrega profesional para una Gerencia de Planta o
+    un Comité de Seguridad y Salud en el Trabajo con la presentación respectiva.
+  </p>
+  <h3
+    style="color: #1a5276; border-left: 6px solid #1a5276; padding-left: 15px; margin-top: 30px;">
+    Estructura Solicitada del Informe (PDF)</h3>
+  <div
+    style="background-color: #f8f9f9; padding: 25px; border-radius: 8px; border: 1px solid #eee;">
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li
+        style="margin-bottom: 15px; display: flex; align-items: flex-start; gap: 10px;">
+        📄
+        <div><strong>1. Portada Institucional:</strong> Datos completos del
+          estudiante, curso, grupo y fecha de entrega.</div>
+      </li>
+      <li
+        style="margin-bottom: 15px; display: flex; align-items: flex-start; gap: 10px;">
+        🔍
+        <div><strong>2. Resolución de Caso Técnico:</strong> Desarrollo
+          detallado de las soluciones para el Caso asignado. Debe incluir los
+          cálculos, análisis de gráficas y las respuestas a las preguntas
+          específicas de cada caso.</div>
+      </li>
+      <li
+        style="margin-bottom: 15px; display: flex; align-items: flex-start; gap: 10px;">
+        🛠️
+        <div><strong>3. Justificación de Controles:</strong> Sustentación
+          técnica de las medidas propuestas, asegurando que sigan la jerarquía
+          de control (Eliminación, Sustitución, Ingeniería, Administrativos y
+          EPP).</div>
+      </li>
+      <li style="display: flex; align-items: flex-start; gap: 10px;">✅
+        <div><strong>4. Conclusiones y Cumplimiento:</strong> Breve análisis
+          sobre el impacto esperado en la salud de los trabajadores y el
+          cumplimiento de la normativa vigente tras aplicar sus recomendaciones.
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div
+    style="margin-top: 30px; display: flex; gap: 20px; align-items: center; background-color: #fdf2f2; padding: 20px; border-radius: 8px; border: 1px solid #f5b7b1;">
+    <div style="font-size: 3em;">⚠️</div>
+    <div>
+      <h4 style="color: #922b21; margin: 0;">Especificaciones Técnicas de
+        Entrega:</h4>
+      <ul style="margin: 5px 0 0 0; color: #7b241c;">
+        <li>El archivo debe subirse <strong>exclusivamente en formato
+            PDF</strong>.</li>
+        <li>Asegúrese de que todas las evidencias (cálculos o tablas) sean
+          legibles.</li>
+        <li>Nombre del archivo:
+          <code>Apellido_Nombre_ProductoFinal_Ruido.pdf</code></li>
+      </ul>
+    </div>
+  </div>
+  <div style="text-align: center; margin-top: 40px;"><a
+      style="display: inline-block; padding: 15px 35px; background-color: #1a5276; color: white; border-radius: 5px; font-weight: bold; text-decoration: none; font-size: 1.1em; transition: background-color 0.3s ease;"
+      href="https://aulasvirtuales.unicamacho.edu.co/mod/assign/view.php?id=1457411"
+      target="_blank" rel="noopener"> CARGAR PRODUCTO FINAL AQUÍ </a>
+    <p style="font-size: 0.8em; color: #95a5a6; margin-top: 10px;">(Haga clic en
+      este botón para subir su archivo).</p>
+  </div>
+</div>
