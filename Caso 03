@@ -1,0 +1,57 @@
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 40px; border-radius: 12px; background-color: #ffffff; line-height: 1.8; max-width: 1000px; margin: 20px auto; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
+  <div
+    style="text-align: center; border-bottom: 3px solid #1a5276; margin-bottom: 30px; padding-bottom: 15px;">
+    <h2
+      style="color: #1a5276; text-transform: uppercase; margin-bottom: 5px; font-size: 1.7em;">
+      Caso 03: Control de Superficies Vibrantes y Radiación Sonora</h2>
+    <p style="font-variant: small-caps; color: #7f8c8d; font-weight: bold;">
+      Sección: Desacoplamiento de Paneles e Instrumentación</p>
+  </div>
+  <p style="text-align: justify;"><strong>Principio Técnico:</strong> Los
+    paneles conectados rígidamente a maquinaria vibratoria pueden irradiar más
+    sonido que la propia máquina. Al separar o "desacoplar" los paneles de
+    control o instrumentos de la fuente vibrante, se reduce significativamente
+    la superficie de radiación acústica y, por ende, el nivel de ruido global.
+  </p>
+  <div
+    style="text-align: center; margin: 35px 0; background-color: #f9f9f9; padding: 25px; border-radius: 10px; border: 1px solid #eee;">
+    <img class="img-fluid"
+      style="max-width: 85%; height: auto; border: 2px solid #1a5276; border-radius: 4px;"
+      src="https://www.cdc.gov/niosh/media/images/4-ReduceVibrating_16-9-DFE.png"
+      alt="Reducción de Superficies Vibrantes - NIOSH">
+    <p style="font-size: 0.85em; color: #7f8c8d; margin-top: 10px;"><i>Figura 3:
+        Desacoplamiento de paneles para reducir la radiación de ruido (Fuente:
+        NIOSH).</i></p>
+  </div>
+  <div
+    style="background-color: #fdf2e9; border-left: 6px solid #e67e22; padding: 25px; border-radius: 4px;">
+    <h4 style="color: #d35400; margin-top: 0; font-size: 1.2em;">Reto para el
+      Estudiante:</h4>
+    <p>Analice el impacto de las piezas sueltas y los paneles rígidos en la
+      generación de ruido ambiental y responda:</p>
+    <ol style="padding-left: 20px;">
+      <li style="margin-bottom: 15px;"><strong>Mecánica del Ruido:</strong> ¿Por
+        qué un panel metálico delgado (como una guarda de seguridad) puede
+        generar un nivel de ruido mayor que el motor al que está unido? Explique
+        el concepto de <i>superficie radiante</i>.</li>
+      <li style="margin-bottom: 15px;"><strong>Jerarquía de Controles:</strong>
+        Si la intervención consiste en <strong>separar físicamente</strong> el
+        panel de control de la máquina y anclarlo al suelo de forma
+        independiente, ¿en qué nivel de la jerarquía ubica esta acción?</li>
+      <li style="margin-bottom: 15px;"><strong>Medida de Bajo Costo:</strong> El
+        texto indica que "asegurar partes sueltas" reduce el ruido. ¿Cómo
+        clasificaría usted el <i>Mantenimiento Preventivo / Ajuste de
+          Tornillería</i> dentro de la Jerarquía de Controles en comparación con
+        el rediseño?</li>
+    </ol>
+  </div>
+  <div
+    style="margin-top: 30px; padding: 15px; border: 1px dashed #7f8c8d; border-radius: 8px; font-size: 0.9em; background-color: #fcfcfc;">
+    <p style="margin: 0; color: #566573;"><strong>Dato Técnico
+        Complementario:</strong> La potencia acústica radiada por una placa es
+      proporcional a su área. Duplicar el área de una superficie vibrante puede
+      incrementar el nivel de ruido en 3 dB, asumiendo que la amplitud de
+      vibración se mantiene constante.</p>
+  </div>
+</div>
