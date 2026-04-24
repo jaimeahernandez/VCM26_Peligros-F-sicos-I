@@ -1,0 +1,49 @@
+<div
+  style="font-family: 'Segoe UI', Roboto, Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 45px; border-radius: 16px; background-color: #ffffff; line-height: 1.9; max-width: 1100px; margin: 30px auto; box-shadow: 0 15px 35px rgba(0,45,90,0.08);">
+  <div
+    style="text-align: center; border-bottom: 4px solid #1a5276; margin-bottom: 35px; padding-bottom: 20px;">
+    <h2
+      style="color: #1a5276; text-transform: uppercase; margin-bottom: 10px; font-size: 2.2em; letter-spacing: 1px;">
+      Caso C: Zonificación y Radio de Peligro</h2>
+    <p
+      style="font-variant: small-caps; color: #7f8c8d; font-weight: bold; font-size: 1.3em;">
+      Análisis en Planta de Producción</p>
+  </div>
+  <p style="text-align: justify; font-size: 19px;"><strong>Fundamento de
+      Higiene:</strong> El ruido no se comporta de forma aislada; su energía se
+    propaga radialmente afectando áreas circundantes. El Radio de Peligro
+    (Hazard Radius) nos indica visualmente hasta dónde llega el riesgo crítico
+    de exposición (85 dBA). Este mapa es la base para definir señalización y
+    zonas de uso obligatorio de EPP.</p>
+  <div
+    style="text-align: center; margin: 40px 0; background-color: #f9f9f9; padding: 25px; border-radius: 12px; border: 1px solid #eee;">
+    <img class="img-fluid"
+      style="max-width: 100%; height: auto; border-radius: 4px;"
+      src="https://aulasvirtuales.unicamacho.edu.co/draftfile.php/766258/user/draft/899497999/iMAGEN%20RADIO%20DE%20PELIGRO.png"
+      alt="Mapa de Radio de Peligro"> <br>
+    <p style="font-size: 15px; color: #7f8c8d; margin-top: 15px;"><i>Figura 11:
+        Propagación de niveles de presión sonora (dBA) y radios de peligro en el
+        layout.</i></p>
+  </div>
+  <div
+    style="background-color: #f4f6f7; border-left: 8px solid #1a5276; padding: 35px; border-radius: 8px; margin-top: 40px;">
+    <h4
+      style="color: #1a5276; margin-top: 0; font-size: 1.5em; text-transform: uppercase;">
+      Reto de Análisis Crítico:</h4>
+    <p style="font-size: 19px; font-weight: 500;">Con base en la distribución de
+      ruido del mapa anterior, responda de manera técnica:</p>
+    <ol style="padding-left: 25px; font-size: 18px;">
+      <li style="margin-bottom: 20px;"><strong>Identificación:</strong> Según la
+        escala del gráfico, ¿a qué distancia se encuentra el límite de los 85
+        dBA (línea roja) con respecto a la <i>High Speed Blender</i>?</li>
+      <li style="margin-bottom: 20px;"><strong>Suma de Niveles:</strong> En el
+        área donde se superponen los radios de la <i>Filling Machine</i> y el
+        <i>Blender</i>, ¿por qué el nivel sonoro resultante es mayor que el de
+        una sola fuente? Explique el fenómeno de suma logarítmica.</li>
+      <li style="margin-bottom: 10px;"><strong>Zonificación:</strong> Si usted
+        debe ubicar un puesto de control administrativo, ¿en qué zona del layout
+        lo situaría para garantizar que el nivel de ruido sea inferior a 80 dBA?
+      </li>
+    </ol>
+  </div>
+</div>
