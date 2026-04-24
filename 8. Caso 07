@@ -1,0 +1,81 @@
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 40px; border-radius: 12px; background-color: #ffffff; line-height: 1.8; max-width: 1000px; margin: 20px auto; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
+  <div
+    style="text-align: center; border-bottom: 3px solid #1a5276; margin-bottom: 30px; padding-bottom: 15px;">
+    <h2
+      style="color: #1a5276; text-transform: uppercase; margin-bottom: 5px; font-size: 1.7em;">
+      Caso 07: Instalación de Barreras y Escudos Acústicos</h2>
+    <p style="font-variant: small-caps; color: #7f8c8d; font-weight: bold;">
+      Ubicación Estratégica y Densidad de Materiales</p>
+  </div>
+  <p style="text-align: justify;"><strong>Principio Técnico:</strong> Una
+    barrera acústica es más efectiva cuanto más alta sea y más cerca se coloque
+    de la fuente de ruido. Su función principal es bloquear el ruido de
+    <strong>alta frecuencia</strong>. Para maximizar su rendimiento en
+    interiores, es indispensable que el techo sea acústicamente absorbente,
+    evitando que el sonido "salte" por encima de la barrera mediante
+    reflexiones.</p>
+  <div
+    style="text-align: center; margin: 35px 0; background-color: #f9f9f9; padding: 25px; border-radius: 10px; border: 1px solid #eee;">
+    <img class="img-fluid"
+      style="max-width: 85%; height: auto; border: 2px solid #1a5276; border-radius: 4px;"
+      src="https://www.cdc.gov/niosh/media/images/NoiseComparisonResize3-2_03sn_Combine-Sound-Shields-2_16-9-web_1.png"
+      alt="Uso de Escudos de Sonido y Barreras - NIOSH">
+    <p style="font-size: 0.85em; color: #7f8c8d; margin-top: 10px;"><i>Figura 7:
+        Ubicación óptima de barreras entre la fuente y el trabajador (Fuente:
+        NIOSH).</i></p>
+  </div>
+  <div
+    style="background-color: #f2fcf2; border-left: 6px solid #27ae60; padding: 25px; border-radius: 4px;">
+    <h4 style="color: #1e8449; margin-top: 0; font-size: 1.2em;">Análisis de
+      Criterio Técnico:</h4>
+    <p>Utilizando las "Mejores Prácticas" y la Figura 7, responda los siguientes
+      requerimientos:</p>
+    <ol style="padding-left: 20px;">
+      <li style="margin-bottom: 15px;"><strong>Ubicación Espacial:</strong> ¿Por
+        qué una barrera colocada a mitad de camino entre la fuente y el
+        trabajador es <strong>menos efectiva</strong> que una colocada justo al
+        lado de la máquina? Explique el concepto de "sombra acústica".</li>
+      <li style="margin-bottom: 15px;"><strong>Selección de Materiales:</strong>
+        Se mencionan materiales densos como ladrillo o láminas de acero. ¿Por
+        qué la <strong>densidad (masa)</strong> del material es un factor
+        crítico para evitar la transmisión del ruido a través de la barrera?
+      </li>
+      <li style="margin-bottom: 15px;"><strong>Sinergia de Controles:</strong>
+        Explique el propósito de cubrir la cara de la barrera que mira hacia la
+        fuente con material absorbente. ¿Qué fenómeno acústico se está
+        intentando eliminar en la fuente?</li>
+    </ol>
+  </div>
+  <div
+    style="margin-top: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #fdfefe;">
+    <h4 style="color: #1a5276; margin-top: 0;">Guía Rápida para Diseño de
+      Barreras</h4>
+    <table style="width: 100%; border-collapse: collapse; font-size: 0.9em;">
+      <thead>
+        <tr style="background-color: #1a5276; color: white;">
+          <th style="padding: 10px; border: 1px solid #ddd;">Factor de Diseño
+          </th>
+          <th style="padding: 10px; border: 1px solid #ddd;">Recomendación
+            Técnica</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">
+            Altura</td>
+          <td style="padding: 10px; border: 1px solid #ddd;">Debe interrumpir la
+            línea de visión directa entre la fuente y el oído del trabajador.
+          </td>
+        </tr>
+        <tr style="background-color: #f2f2f2;">
+          <td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">
+            Tratamiento de Techos</td>
+          <td style="padding: 10px; border: 1px solid #ddd;">Instalar bafles o
+            nubes acústicas para evitar el efecto de "flanqueo" sobre la
+            barrera.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
