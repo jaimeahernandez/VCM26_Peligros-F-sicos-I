@@ -1,0 +1,78 @@
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 40px; border-radius: 12px; background-color: #ffffff; line-height: 1.8; max-width: 1000px; margin: 20px auto; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
+  <div
+    style="text-align: center; border-bottom: 3px solid #1a5276; margin-bottom: 30px; padding-bottom: 15px;">
+    <h2
+      style="color: #1a5276; text-transform: uppercase; margin-bottom: 5px; font-size: 1.7em;">
+      Caso 05: Absorción Acústica y Control de Reflexiones</h2>
+    <p style="font-variant: small-caps; color: #7f8c8d; font-weight: bold;">Uso
+      de Materiales Porosos y Barreras Absorbentes</p>
+  </div>
+  <p style="text-align: justify;"><strong>Principio Técnico:</strong> El ruido
+    se refleja fácilmente en superficies duras (concreto, metal, baldosa),
+    aumentando los niveles de presión sonora por <strong>reverberación</strong>.
+    El uso de materiales porosos —como textiles, espumas y bafles— absorbe la
+    energía sonora en lugar de reflejarla, disminuyendo el ruido ambiental
+    acumulado en el recinto.</p>
+  <div
+    style="text-align: center; margin: 35px 0; background-color: #f9f9f9; padding: 25px; border-radius: 10px; border: 1px solid #eee;">
+    <img class="img-fluid"
+      style="max-width: 85%; height: auto; border: 2px solid #1a5276; border-radius: 4px;"
+      src="https://www.cdc.gov/niosh/media/images/7-Combine-Sound-Shields-1_16-9-web_DFE.png"
+      alt="Uso de Materiales Absorbentes y Escudos - NIOSH">
+    <p style="font-size: 0.85em; color: #7f8c8d; margin-top: 10px;"><i>Figura 5:
+        Combinación de escudos acústicos y materiales absorbentes (Fuente:
+        NIOSH).</i></p>
+  </div>
+  <div
+    style="background-color: #fcf3cf; border-left: 6px solid #f1c40f; padding: 25px; border-radius: 4px;">
+    <h4 style="color: #9a7d0a; margin-top: 0; font-size: 1.2em;">Análisis de
+      Ingeniería Acústica:</h4>
+    <p>Con base en las "Mejores Prácticas" descritas y la Figura 5, resuelva los
+      siguientes puntos:</p>
+    <ul style="padding-left: 20px; list-style-type: square;">
+      <li style="margin-bottom: 15px;"><strong>Relación Espesor vs.
+          Frecuencia:</strong> ¿Por qué se recomienda el uso de materiales
+        <strong>más gruesos</strong> para absorber ruidos de baja frecuencia?
+        Explique la relación entre la longitud de onda (lambda) y el espesor del
+        material absorbente.</li>
+      <li style="margin-bottom: 15px;"><strong>Jerarquía de Controles:</strong>
+        Al instalar bafles absorbentes colgados del techo en una nave
+        industrial, ¿está usted interviniendo en la <strong>Fuente</strong>, en
+        el <strong>Medio</strong> o en el <strong>Receptor</strong>? Justifique
+        su respuesta técnica.</li>
+      <li style="margin-bottom: 15px;"><strong>Entornos Especiales:</strong> En
+        una planta de producción de alimentos (área limpia), ¿qué tipo de
+        material absorbente utilizaría que cumpla con los requisitos de higiene
+        y alta presión de limpieza?</li>
+    </ul>
+  </div>
+  <div
+    style="margin-top: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #fdfefe;">
+    <h4 style="color: #1a5276; margin-top: 0;">Resumen de Aplicación de
+      Materiales</h4>
+    <table style="width: 100%; border-collapse: collapse; font-size: 0.9em;">
+      <thead>
+        <tr style="background-color: #1a5276; color: white;">
+          <th style="padding: 10px; border: 1px solid #ddd;">Técnica</th>
+          <th style="padding: 10px; border: 1px solid #ddd;">Ventaja Académica
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 10px; border: 1px solid #ddd;"><strong>Bafles
+              Colgantes</strong></td>
+          <td style="padding: 10px; border: 1px solid #ddd;">Maximiza el área
+            superficial expuesta (ambas caras absorben).</td>
+        </tr>
+        <tr style="background-color: #f2f2f2;">
+          <td style="padding: 10px; border: 1px solid #ddd;"><strong>Placas
+              Microperforadas</strong></td>
+          <td style="padding: 10px; border: 1px solid #ddd;">Ideal para zonas
+            con alta exigencia de limpieza y desinfección.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
