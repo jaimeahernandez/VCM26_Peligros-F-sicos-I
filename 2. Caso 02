@@ -1,0 +1,59 @@
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 40px; border-radius: 12px; background-color: #ffffff; line-height: 1.8; max-width: 1000px; margin: 20px auto; box-shadow: 0 10px 25px rgba(0,0,0,0.05);">
+  <div
+    style="text-align: center; border-bottom: 3px solid #1a5276; margin-bottom: 30px; padding-bottom: 15px;">
+    <h2
+      style="color: #1a5276; text-transform: uppercase; margin-bottom: 5px; font-size: 1.7em;">
+      Caso 02: Control de Ruido Estructural y Vibraciones</h2>
+    <p style="font-variant: small-caps; color: #7f8c8d; font-weight: bold;">
+      Aislamiento de Maquinaria Pesada</p>
+  </div>
+  <p style="text-align: justify;"><strong>Contexto Técnico:</strong> En una
+    planta de manufactura, se ha detectado que el ruido generado por una unidad
+    de ventilación industrial no solo se propaga por el aire, sino que se
+    transmite a través de la estructura del edificio (suelo y paredes),
+    incrementando los niveles de presión sonora en oficinas adyacentes.</p>
+  <div
+    style="text-align: center; margin: 35px 0; background-color: #f9f9f9; padding: 20px; border-radius: 10px; border: 1px solid #eee;">
+    <img class="img-fluid"
+      style="max-width: 80%; height: auto; border: 2px solid #1a5276; border-radius: 4px;"
+      src="https://www.cdc.gov/niosh/media/images/IsolateMachineryVibration_01sn_DFE.png"
+      alt="Aislamiento de Vibraciones en Maquinaria - NIOSH">
+    <p style="font-size: 0.85em; color: #7f8c8d; margin-top: 10px;"><i>Figura 2:
+        Esquema técnico de instalación de aisladores de vibración (Fuente:
+        NIOSH).</i></p>
+  </div>
+  <div
+    style="background-color: #f4f6f7; border-left: 6px solid #1a5276; padding: 25px; border-radius: 4px;">
+    <h4 style="color: #1a5276; margin-top: 0; font-size: 1.2em;">Análisis del
+      Estudiante:</h4>
+    <p>Con base en la ilustración técnica superior, responda de manera
+      detallada:</p>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 15px;"><span
+          style="background: #1a5276; color: white; padding: 2px 8px; border-radius: 3px; font-weight: bold; margin-right: 10px;">1</span>
+        <strong>Identificación Técnica:</strong> ¿Qué componentes específicos se
+        han añadido entre la base de la maquinaria y el suelo estructural?
+        Describa su función física en el control de energía.</li>
+      <li style="margin-bottom: 15px;"><span
+          style="background: #1a5276; color: white; padding: 2px 8px; border-radius: 3px; font-weight: bold; margin-right: 10px;">2</span>
+        <strong>Clasificación de Jerarquía:</strong> Según la jerarquía de
+        controles de la <strong>ISO 45001</strong>, ¿en qué categoría
+        clasificaría esta intervención? Justifique su respuesta (¿Eliminación,
+        Sustitución, Ingeniería o Administrativo?).</li>
+      <li style="margin-bottom: 15px;"><span
+          style="background: #1a5276; color: white; padding: 2px 8px; border-radius: 3px; font-weight: bold; margin-right: 10px;">3</span>
+        <strong>Análisis de Vía de Transmisión:</strong> ¿Esta medida busca
+        reducir el ruido en la <i>Fuente</i>, en el <i>Medio</i> o en el
+        <i>Receptor</i>? Explique la diferencia entre ruido aéreo y ruido
+        estructural en este contexto.</li>
+    </ul>
+  </div>
+  <div
+    style="margin-top: 30px; padding: 15px; border: 1px dashed #7f8c8d; border-radius: 8px; font-size: 0.9em; color: #566573;">
+    <strong>Nota para el evaluador:</strong> Esta sección busca que el alumno
+    reconozca elementos como "aisladores de resorte" (spring mounts) o
+    "almohadillas de elastómero" y comprenda que actuar sobre la vibración es un
+    <strong>Control de Ingeniería</strong> crítico para reducir la regeneración
+    de ruido estructural en puntos distantes del foco emisor.</div>
+</div>
