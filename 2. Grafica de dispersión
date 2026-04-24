@@ -1,0 +1,250 @@
+<div
+  style="font-family: 'Segoe UI', Roboto, Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 50px; border-radius: 16px; background-color: #ffffff; line-height: 1.9; max-width: 1100px; margin: 30px auto; box-shadow: 0 15px 35px rgba(0,45,90,0.08);">
+  <div
+    style="text-align: center; border-bottom: 4px solid #1abc9c; margin-bottom: 40px; padding-bottom: 20px;">
+    <h2
+      style="color: #16a085; text-transform: uppercase; margin-bottom: 10px; font-size: 2.2em; letter-spacing: 1px;">
+      Caso B: Perfil Temporal de Exposición</h2>
+    <p
+      style="font-variant: small-caps; color: #7f8c8d; font-weight: bold; font-size: 1.3em;">
+      Interpretación de Datos en Dosimetría de Ruido</p>
+  </div>
+  <p style="text-align: justify; font-size: 19px;"><strong>Contexto
+      Académico:</strong> Una dosimetría de ruido registra los niveles de
+    presión sonora a intervalos regulares (muestreo). La siguiente gráfica
+    muestra <strong>330 minutos</strong> de monitoreo continuo en un puesto de
+    mantenimiento. Los marcadores representan el nivel de ruido instantáneo
+    registrado en cada intervalo de muestreo.</p>
+  <div
+    style="width: 100%; margin: 40px auto; background: #fdfdfd; padding: 25px; border: 1px solid #eef2f3; border-radius: 12px; box-shadow: inset 0 0 15px rgba(0,0,0,0.02);">
+    <canvas id="dosimetriaChartFija"
+      style="width: 100% !important; height: 500px !important;"></canvas></div>
+  <div
+    style="background-color: #e8f6f3; border-left: 8px solid #1abc9c; padding: 35px; border-radius: 8px; margin-top: 40px;">
+    <h4
+      style="color: #16a085; margin-top: 0; font-size: 1.5em; text-transform: uppercase;">
+      Reto de Interpretación de Datos:</h4>
+    <p style="font-size: 19px; font-weight: 500;">A partir del análisis
+      cronológico de la gráfica superior, responda:</p>
+    <ol style="padding-left: 25px; font-size: 18px;">
+      <li style="margin-bottom: 20px;"><strong>Identificación de
+          Eventos:</strong> Se observa un pico significativo de <strong>111
+          dB</strong> al inicio de la jornada (minuto 33). ¿Cómo clasificaría
+        este evento sonoro (ruido estable, fluctuante o de impacto) y qué medida
+        de control inmediata sugiere para proteger al trabajador?</li>
+      <li style="margin-bottom: 20px;"><strong>Análisis de Ciclos:</strong>
+        Entre los minutos <strong>132 y 198</strong>, el ruido se mantiene
+        mayoritariamente por debajo de los 80 dB. ¿Qué importancia tiene este
+        periodo en el cálculo del <strong>Nivel de Exposición (TWA o
+          Promedio)</strong> comparado con los picos observados al final?</li>
+      <li style="margin-bottom: 10px;"><strong>Criterio de Ingeniería:</strong>
+        Si los picos recurrentes superiores a 100 dB son causados por descargas
+        de aire comprimido, ¿qué solución técnica específica aplicaría para
+        mitigar el ruido en la fuente?</li>
+    </ol>
+  </div>
+</div>
+<p>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    (function() {
+      const ctx = document.getElementById('dosimetriaChartFija').getContext(
+        '2d');
+
+      // Datos fijos deterministas
+      const datosFijos = [{
+          x: 0,
+          y: 81
+        }, {
+          x: 10,
+          y: 75
+        }, {
+          x: 20,
+          y: 88
+        }, {
+          x: 30,
+          y: 72
+        },
+        {
+          x: 33,
+          y: 111
+        }, // PICO CRÍTICO
+        {
+          x: 40,
+          y: 85
+        }, {
+          x: 50,
+          y: 78
+        }, {
+          x: 60,
+          y: 92
+        }, {
+          x: 66,
+          y: 81
+        },
+        {
+          x: 75,
+          y: 88
+        }, {
+          x: 85,
+          y: 93
+        }, {
+          x: 95,
+          y: 90
+        }, {
+          x: 105,
+          y: 95
+        }, {
+          x: 115,
+          y: 101
+        },
+        {
+          x: 132,
+          y: 78
+        }, {
+          x: 140,
+          y: 72
+        }, {
+          x: 150,
+          y: 75
+        }, {
+          x: 160,
+          y: 70
+        }, {
+          x: 170,
+          y: 80
+        },
+        {
+          x: 180,
+          y: 76
+        }, {
+          x: 190,
+          y: 83
+        }, {
+          x: 198,
+          y: 79
+        }, {
+          x: 210,
+          y: 86
+        }, {
+          x: 220,
+          y: 94
+        },
+        {
+          x: 230,
+          y: 75
+        }, {
+          x: 240,
+          y: 104
+        }, {
+          x: 250,
+          y: 71
+        }, {
+          x: 260,
+          y: 73
+        }, {
+          x: 264,
+          y: 85
+        },
+        {
+          x: 275,
+          y: 98
+        }, {
+          x: 285,
+          y: 88
+        }, {
+          x: 295,
+          y: 106
+        }, {
+          x: 310,
+          y: 85
+        }, {
+          x: 320,
+          y: 90
+        }, {
+          x: 330,
+          y: 88
+        }
+      ];
+
+      new Chart(ctx, {
+        type: 'scatter',
+        data: {
+          datasets: [{
+            label: 'Nivel registrado [dB]',
+            data: datosFijos,
+            backgroundColor: '#2980b9',
+            borderColor: '#1a5276',
+            pointStyle: 'rectRounded',
+            borderWidth: 1,
+            pointRadius: 8,
+            pointHoverRadius: 12
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          devicePixelRatio: 2, // Mejora la nitidez
+          scales: {
+            x: {
+              type: 'linear',
+              position: 'bottom',
+              title: {
+                display: true,
+                text: 'Tiempo de Monitoreo [min]',
+                font: {
+                  size: 16,
+                  weight: 'bold'
+                }
+              },
+              min: 0,
+              max: 330,
+              ticks: {
+                stepSize: 30,
+                font: {
+                  size: 14
+                }
+              }
+            },
+            y: {
+              title: {
+                display: true,
+                text: 'Presión Sonora [dB]',
+                font: {
+                  size: 16,
+                  weight: 'bold'
+                }
+              },
+              min: 60,
+              max: 120,
+              ticks: {
+                stepSize: 10,
+                font: {
+                  size: 14
+                }
+              }
+            }
+          },
+          plugins: {
+            legend: {
+              labels: {
+                font: {
+                  size: 15,
+                  weight: 'bold'
+                }
+              }
+            },
+            tooltip: {
+              bodyFont: {
+                size: 14
+              },
+              titleFont: {
+                size: 15
+              }
+            }
+          }
+        }
+      });
+    })();
+  </script>
+</p>
