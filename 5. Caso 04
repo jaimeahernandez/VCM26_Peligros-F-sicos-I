@@ -1,0 +1,58 @@
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 40px; border-radius: 12px; background-color: #ffffff; line-height: 1.8; max-width: 1000px; margin: 20px auto; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
+  <div
+    style="text-align: center; border-bottom: 3px solid #1a5276; margin-bottom: 30px; padding-bottom: 15px;">
+    <h2
+      style="color: #1a5276; text-transform: uppercase; margin-bottom: 5px; font-size: 1.7em;">
+      Caso 04: Control de Transmisión por Conexiones Rígidas</h2>
+    <p style="font-variant: small-caps; color: #7f8c8d; font-weight: bold;">
+      Sección: Uso de Conectores Anti vibratorios en Tuberías</p>
+  </div>
+  <p style="text-align: justify;"><strong>Principio Técnico:</strong> Las
+    conexiones rígidas entre una fuente de vibración (bombas, compresores) y la
+    estructura del edificio (paredes, techos) actúan como puentes acústicos.
+    Aislar estas fuentes mediante el uso de <strong>conectores flexibles y
+      montajes elásticos</strong> interrumpe la continuidad del medio sólido,
+    disminuyendo drásticamente el sonido radiado por las superficies
+    estructurales.</p>
+  <div
+    style="text-align: center; margin: 35px 0; background-color: #f9f9f9; padding: 25px; border-radius: 10px; border: 1px solid #eee;">
+    <img class="img-fluid"
+      style="max-width: 85%; height: auto; border: 2px solid #1a5276; border-radius: 4px;"
+      src="https://www.cdc.gov/niosh/media/images/UseAnti-vibrationConnection_01sn_DFE.png"
+      alt="Uso de Conectores Antivibratorios - NIOSH">
+    <p style="font-size: 0.85em; color: #7f8c8d; margin-top: 10px;"><i>Figura 4:
+        Técnicas de aislamiento para tuberías y conductos (Fuente: NIOSH).</i>
+    </p>
+  </div>
+  <div
+    style="background-color: #e8f6f3; border-left: 6px solid #1abc9c; padding: 25px; border-radius: 4px;">
+    <h4 style="color: #16a085; margin-top: 0; font-size: 1.2em;">Evaluación
+      Académica:</h4>
+    <p>A partir de la observación de la Figura 4, analice el comportamiento de
+      las ondas mecánicas y responda:</p>
+    <ol style="padding-left: 20px;">
+      <li style="margin-bottom: 15px;"><strong>Fenómeno Físico:</strong> ¿Por
+        qué una tubería conectada rígidamente a una pared puede causar que la
+        pared se comporte como un altavoz, incluso si la fuente del ruido está
+        en otra habitación?</li>
+      <li style="margin-bottom: 15px;"><strong>Identificación de
+          Componentes:</strong> En la imagen se muestran "conectores flexibles"
+        y "colgadores aislantes". ¿Qué propiedad elástica deben tener estos
+        materiales para ser efectivos contra la vibración?</li>
+      <li style="margin-bottom: 15px;"><strong>Jerarquía de Controles:</strong>
+        Al instalar acoples flexibles en una red de tuberías existente para
+        mitigar el ruido en áreas administrativas adyacentes, ¿está usted
+        aplicando un <strong>Control en la Fuente</strong> o un <strong>Control
+          en el Medio</strong>? Justifique técnicamente.</li>
+    </ol>
+  </div>
+  <div
+    style="margin-top: 30px; padding: 15px; border: 1px dashed #16a085; border-radius: 8px; font-size: 0.9em; background-color: #fcfcfc;">
+    <p style="margin: 0; color: #566573;"><strong>Dato Crítico:</strong> La
+      efectividad de un conector antivibratorio depende de la relación entre la
+      frecuencia de la fuente y la frecuencia natural del aislador (f_f / f_n).
+      Si no se seleccionan correctamente, podrían incluso amplificar el ruido
+      por resonancia.</p>
+  </div>
+</div>
