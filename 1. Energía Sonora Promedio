@@ -1,0 +1,219 @@
+<div
+  style="font-family: 'Segoe UI', Roboto, Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 50px; border-radius: 16px; background-color: #ffffff; line-height: 1.9; max-width: 1100px; margin: 30px auto; box-shadow: 0 15px 35px rgba(0,45,90,0.08);">
+  <div
+    style="text-align: center; border-bottom: 4px solid #1a5276; margin-bottom: 40px; padding-bottom: 20px;">
+    <h2
+      style="color: #1a5276; text-transform: uppercase; margin-bottom: 10px; font-size: 2em; letter-spacing: 1px;">
+      Caso A: Nivel Sonoro Continuo Equivalente</h2>
+    <p
+      style="font-variant: small-caps; color: #7f8c8d; font-weight: bold; font-size: 1.2em;">
+      Análisis de la Fluctuación y la Energía Sonora Promedio</p>
+  </div>
+  <p style="text-align: justify; font-size: 18px;"><strong>Contexto
+      Académico:</strong> El ruido industrial es intrínsecamente fluctuante. El
+    <strong>Nivel Sonoro Continuo Equivalente (L_Aeq,T)</strong> es la
+    herramienta matemática que nos permite promediar esa energía variable para
+    determinar si la dosis de ruido recibida por el trabajador representa un
+    riesgo real según los límites legales vigentes.</p>
+  <div
+    style="width: 100%; margin: 40px auto; background: #fdfdfd; padding: 25px; border: 1px solid #eef2f3; border-radius: 12px; box-shadow: inset 0 0 15px rgba(0,0,0,0.02);">
+    <canvas id="laeqChart"
+      style="width: 100% !important; height: 500px !important;"></canvas></div>
+  <p
+    style="text-align: justify; margin-top: 30px; font-size: 17px; color: #546e7a; border-left: 4px solid #cfd8dc; padding-left: 20px;">
+    <strong>Figura 10:</strong> Visualización de la presión sonora ponderada A
+    (L_pA). La línea azul de alta visibilidad representa el promedio energético
+    (L_Aeq,T), contrastada contra los límites de control normativo (punteados).
+  </p>
+  <div
+    style="background-color: #fdf2f2; border-left: 8px solid #cd6155; padding: 35px; border-radius: 8px; margin-top: 40px;">
+    <h4
+      style="color: #922b21; margin-top: 0; font-size: 1.4em; text-transform: uppercase; letter-spacing: 0.5px;">
+      Reto de Análisis Gráfico y Normativo:</h4>
+    <p style="font-size: 18px; font-weight: 500;">Resuelva las siguientes
+      preguntas basándose en la evidencia visual anterior:</p>
+    <ol style="padding-left: 25px; font-size: 17px;">
+      <li style="margin-bottom: 20px;"><strong>Análisis de Umbrales:</strong>
+        Evalúe la fluctuación del ruido instantáneo. ¿Qué porcentaje aproximado
+        de los datos se sitúa entre el Límite de Acción (80 dB) y el Límite
+        Permisible (85 dB)? ¿Qué porcentaje aproximado de los datos se sitúa por
+        encima del Límite Permisible (85 dB)? </li>
+      <li style="margin-bottom: 20px;"><strong>Criterio de
+          Intervención:</strong> Con un valor equivalente de 87.5 dB claramente
+        identificado en la línea azul, ¿Se supera el Límite permisible? ¿Qué
+        medidas de control en la fuente o el medio deben priorizarse para
+        reducir este excedente de energía sonora?</li>
+      <li style="margin-bottom: 10px;"><strong>Interpretación
+          Energética:</strong> Observe detalladamente el punto 4 de la gráfica,
+        donde el nivel de presión sonora desciende a su valor más bajo (75 dB).
+        Desde su perspectiva técnica: ¿Qué situaciones operativas o
+        administrativas podrían estar ocurriendo en el proceso productivo en ese
+        instante específico para generar ese "valle" de ruido? ¿Cómo influyen
+        estos periodos de niveles bajos en el cálculo matemático final del <span
+          class="math-inline" data-math="L_{Aeq,T}"
+          data-index-in-node="82">L_Aeq,T</span>?</li>
+    </ol>
+  </div>
+</div>
+<p>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0">
+  </script>
+  <script>
+    (function() {
+      const ctx = document.getElementById('laeqChart').getContext('2d');
+
+      // Configuración para mejorar calidad de renderizado
+      const dpr = window.devicePixelRatio || 1;
+      ctx.canvas.width *= dpr;
+      ctx.canvas.height *= dpr;
+
+      const fluctuacionData = [82, 86, 79, 83, 75, 92, 88, 81, 78, 86, 98, 93,
+        89, 81, 85, 96, 91, 84, 87, 83
+      ];
+      const valLeq = 87.5;
+
+      new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: Array.from({
+            length: fluctuacionData.length
+          }, (_, i) => i),
+          datasets: [{
+              label: 'VALOR PROMEDIO L_Aeq,T',
+              data: Array(fluctuacionData.length).fill(valLeq),
+              borderColor: '#1a5276',
+              borderWidth: 8, // Línea muy gruesa
+              shadowColor: 'rgba(26, 82, 118, 0.4)',
+              shadowBlur: 10,
+              pointRadius: 0,
+              fill: false,
+              zIndex: 10,
+              datalabels: {
+                display: true,
+                align: 'right',
+                offset: 15,
+                backgroundColor: '#1a5276',
+                color: '#ffffff',
+                borderRadius: 6,
+                padding: {
+                  top: 10,
+                  bottom: 10,
+                  left: 15,
+                  right: 15
+                },
+                font: {
+                  weight: 'bold',
+                  size: 18
+                },
+                formatter: () => '87.5 dB',
+                display: (context) => context.dataIndex === context
+                  .dataset.data.length - 1
+              }
+            },
+            {
+              label: 'Límite Permisible (85 dB)',
+              data: Array(fluctuacionData.length).fill(85),
+              borderColor: '#e74c3c',
+              borderDash: [8, 5],
+              borderWidth: 3,
+              pointRadius: 0,
+              fill: false,
+              datalabels: {
+                display: false
+              }
+            },
+            {
+              label: 'Límite de Acción (80 dB)',
+              data: Array(fluctuacionData.length).fill(80),
+              borderColor: '#f1c40f',
+              borderDash: [8, 5],
+              borderWidth: 3,
+              pointRadius: 0,
+              fill: false,
+              datalabels: {
+                display: false
+              }
+            },
+            {
+              label: 'Ruido Instantáneo (LpA)',
+              data: fluctuacionData,
+              borderColor: 'rgba(52, 73, 94, 0.4)',
+              backgroundColor: 'rgba(52, 73, 94, 0.05)',
+              borderWidth: 3,
+              pointRadius: 5,
+              pointBackgroundColor: '#2c3e50',
+              fill: true,
+              datalabels: {
+                display: false
+              }
+            }
+          ]
+        },
+        plugins: [ChartDataLabels],
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          layout: {
+            padding: {
+              right: 100,
+              top: 20
+            }
+          },
+          plugins: {
+            legend: {
+              position: 'top',
+              labels: {
+                font: {
+                  size: 14,
+                  weight: 'bold'
+                },
+                padding: 20,
+                usePointStyle: true
+              }
+            },
+            tooltip: {
+              titleFont: {
+                size: 16
+              },
+              bodyFont: {
+                size: 14
+              }
+            }
+          },
+          scales: {
+            y: {
+              min: 70,
+              max: 105,
+              ticks: {
+                font: {
+                  size: 14,
+                  weight: 'bold'
+                }
+              },
+              title: {
+                display: true,
+                text: 'Nivel de Presión Sonora (dB)',
+                font: {
+                  size: 16,
+                  weight: 'bold'
+                }
+              }
+            },
+            x: {
+              ticks: {
+                font: {
+                  size: 14,
+                  weight: 'bold'
+                },
+                callback: (val, index) => index === 0 ? 't1 (Inicio)' : (
+                  index === fluctuacionData.length - 1 ? 't2 (Fin)' : ''
+                )
+              }
+            }
+          }
+        }
+      });
+    })();
+  </script>
+</p>
