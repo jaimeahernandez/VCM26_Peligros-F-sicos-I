@@ -1,0 +1,44 @@
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 45px; border-radius: 16px; background-color: #ffffff; line-height: 1.8; max-width: 1000px; margin: 20px auto; box-shadow: 0 10px 30px rgba(0,0,0,0.08);">
+  <div
+    style="text-align: center; border-bottom: 4px solid #1a5276; margin-bottom: 35px; padding-bottom: 20px;">
+    <h2
+      style="color: #1a5276; text-transform: uppercase; margin-bottom: 5px; font-size: 2em; letter-spacing: 1px;">
+      Finalización del Módulo: Entrega de Casos</h2>
+    <p
+      style="font-variant: small-caps; color: #7f8c8d; font-weight: bold; font-size: 1.2em;">
+      Higiene Industrial - Evaluación de Ruido</p>
+  </div>
+  <div style="margin-bottom: 35px;">
+    <p style="font-size: 19px; text-align: justify;">Estimado estudiante, para
+      dar cierre a este ejercicio, debe consolidar los análisis de
+      los <strong>Casos A, B, C, D y F</strong> en un único documento técnico.
+      Este informe será la evidencia de su capacidad para interpretar datos
+      dosimétricos y proponer controles de ingeniería y administrativos.</p>
+    <div
+      style="background-color: #f9f9f9; padding: 25px; border-radius: 12px; border-left: 6px solid #f1c40f;">
+      <h4 style="margin-top: 0; color: #1a5276; font-size: 1.3em;">Requisitos
+        del archivo:</h4>
+      <ul style="font-size: 18px; color: #34495e;">
+        <li style="margin-bottom: 10px;"><strong>Formato:</strong>
+          Exclusivamente en PDF.</li>
+        <li style="margin-bottom: 10px;"><strong>Contenido:</strong> Portada,
+          desarrollo técnico de cada caso y conclusiones generales.</li>
+        <li style="margin-bottom: 10px;"><strong>Justificación:</strong>
+          Asegúrese de justificar técnicamente sus respuestas.</li>
+      </ul>
+    </div>
+  </div>
+  <div
+    style="text-align: center; background-color: #f4f6f7; padding: 40px; border-radius: 15px; border: 2px dashed #bdc3c7;">
+    <div style="font-size: 50px; color: #1a5276; margin-bottom: 15px;"><i
+        class="fa fa-file-pdf-o"></i> 📄</div>
+    <h3 style="margin-bottom: 20px; color: #2c3e50; font-size: 1.5em;">¿Listo
+      para entregar?</h3>
+    <a style="display: inline-block; padding: 18px 45px; background-color: #1a5276; color: white; text-decoration: none; font-weight: bold; font-size: 20px; border-radius: 50px; box-shadow: 0 6px 15px rgba(26, 82, 118, 0.3); transition: transform 0.2s;"
+      href="https://aulasvirtuales.unicamacho.edu.co/mod/assign/view.php?id=1458160">
+      📤 CLIC AQUÍ PARA SUBIR PDF </a>
+    <p style="margin-top: 20px; font-size: 14px; color: #95a5a6;"><i>Al hacer
+        clic, será redirigido a la plataforma de carga de archivos.</i></p>
+  </div>
+</div>
