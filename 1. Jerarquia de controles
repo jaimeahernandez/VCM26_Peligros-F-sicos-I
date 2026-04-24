@@ -1,0 +1,66 @@
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 40px; border-radius: 12px; background-color: #ffffff; line-height: 1.8; max-width: 1000px; margin: 20px auto; box-shadow: 0 10px 25px rgba(0,0,0,0.05);">
+  <div
+    style="text-align: center; border-bottom: 3px solid #1a5276; margin-bottom: 30px; padding-bottom: 15px;">
+    <h1
+      style="color: #1a5276; text-transform: uppercase; margin-bottom: 5px; font-size: 2em;">
+      Jerarquía de Controles de Riesgo</h1>
+    <p
+      style="font-variant: small-caps; color: #7f8c8d; font-weight: bold; font-size: 1.1em;">
+      Marco Normativo ISO 45001 y Seguridad Industrial</p>
+  </div>
+  <p style="text-align: justify;">La <strong>Jerarquía de Controles</strong> es
+    un sistema estructurado utilizado en la seguridad y salud en el trabajo
+    (SST) para minimizar o eliminar la exposición a los peligros. Este modelo es
+    fundamental bajo estándares internacionales como la <strong>ISO
+      45001</strong>, ya que establece un orden de prioridad lógica que
+    garantiza que las soluciones técnicas más efectivas se implementen antes de
+    depender del comportamiento humano o del equipo de protección.</p>
+  <div style="text-align: center; margin: 40px 0;"><img class="img-fluid"
+      style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);"
+      src="https://twind.io/es/wp-content/uploads/2024/12/jerarquia-control-riesgos-iso-45001-piramide.webp"
+      alt="Pirámide de Jerarquía de Controles ISO 45001">
+    <p style="font-size: 0.85em; color: #95a5a6; margin-top: 10px;"><i>Figura 1:
+        Representación de la efectividad de los controles (Fuente: Twind / ISO
+        45001).</i></p>
+  </div>
+  <h3
+    style="color: #1a5276; border-left: 6px solid #1a5276; padding-left: 15px; margin-top: 40px;">
+    Descripción de los Niveles de Intervención</h3>
+  <div style="margin-top: 20px;">
+    <div
+      style="background-color: #f4f6f7; padding: 15px; border-radius: 8px; margin-bottom: 10px; border-left: 4px solid #c0392b;">
+      <strong style="color: #c0392b;">1. Eliminación:</strong> Remover
+      físicamente el peligro. Es el control más efectivo (ej. rediseñar un
+      proceso para que no genere ruido).</div>
+    <div
+      style="background-color: #f4f6f7; padding: 15px; border-radius: 8px; margin-bottom: 10px; border-left: 4px solid #e67e22;">
+      <strong style="color: #e67e22;">2. Sustitución:</strong> Reemplazar el
+      peligro por algo menos riesgoso (ej. cambiar un motor ruidoso por uno
+      eléctrico silencioso).</div>
+    <div
+      style="background-color: #f4f6f7; padding: 15px; border-radius: 8px; margin-bottom: 10px; border-left: 4px solid #f1c40f;">
+      <strong style="color: #8a7000;">3. Controles de Ingeniería:</strong>
+      Aislar a las personas del peligro mediante barreras físicas o
+      modificaciones técnicas (ej. encerramientos acústicos).</div>
+    <div
+      style="background-color: #f4f6f7; padding: 15px; border-radius: 8px; margin-bottom: 10px; border-left: 4px solid #3498db;">
+      <strong style="color: #2980b9;">4. Controles Administrativos:</strong>
+      Cambiar la forma en que las personas trabajan mediante procedimientos y
+      señalización (ej. rotación de turnos).</div>
+    <div
+      style="background-color: #f4f6f7; padding: 15px; border-radius: 8px; margin-bottom: 10px; border-left: 4px solid #27ae60;">
+      <strong style="color: #27ae60;">5. EPP:</strong> Proteger al trabajador
+      con equipos de protección personal. Es el nivel menos efectivo por su
+      dependencia del uso correcto.</div>
+  </div>
+  <div
+    style="margin-top: 35px; padding: 20px; background-color: #ebf5fb; border: 1px dashed #3498db; border-radius: 8px;">
+    <h4 style="color: #2980b9; margin-top: 0;">Objetivo de Aprendizaje</h4>
+    <p style="margin-bottom: 0;">A través de los siguientes casos prácticos, el
+      estudiante deberá desarrollar la capacidad analítica para identificar en
+      qué nivel de la jerarquía se encuentran las medidas propuestas y
+      determinar su viabilidad técnica basándose en datos reales de Higiene
+      Industrial.</p>
+  </div>
+</div>
