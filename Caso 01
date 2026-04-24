@@ -1,0 +1,182 @@
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 40px; border-radius: 12px; background-color: #ffffff; line-height: 1.7; max-width: 1000px; margin: 20px auto; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
+  <div
+    style="text-align: center; border-bottom: 3px solid #1a5276; margin-bottom: 30px; padding-bottom: 10px;">
+    <h1
+      style="color: #1a5276; text-transform: uppercase; margin-bottom: 5px; font-size: 1.8em;">
+      Caso 01: Gestión de Riesgo por Ruido Industrial</h1>
+    <p style="font-variant: small-caps; color: #7f8c8d; font-weight: bold;">
+      Planta de Molienda - Análisis de Frecuencias</p>
+  </div>
+  <p><strong>Descripción del Escenario:</strong> Se ha caracterizado
+    un <strong>Molino de Bolas</strong> en una planta de molienda. El espectro
+    de frecuencia muestra un predominio de energía en las bandas medias y altas
+    (500 Hz - 2000 Hz) debido al impacto de los elementos moledores contra la
+    carcasa. El NPS global es de <strong>111.5 dB</strong>. El estudiante debe
+    priorizar la intervención basándose en el comportamiento espectral mostrado
+    a continuación:</p>
+  <div
+    style="width: 95%; margin: 30px auto; background: #fdfdfd; padding: 20px; border: 1px solid #eee; border-radius: 8px;">
+    <canvas id="ruidoChartGrande"
+      style="width: 100% !important; height: 450px !important;"></canvas></div>
+  <h3
+    style="color: #1a5276; border-left: 6px solid #1a5276; padding-left: 15px; margin-top: 40px;">
+    Matriz de Opciones de Control Disponibles</h3>
+  <p>Evalúe las siguientes alternativas técnicas para la mitigación del riesgo:
+  </p>
+  <table
+    style="width: 100%; border-collapse: collapse; margin-bottom: 30px; font-size: 0.95em; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <thead>
+      <tr style="background-color: #1a5276; color: white; text-align: center;">
+        <th style="padding: 15px; border: 1px solid #ddd;">ID</th>
+        <th style="padding: 15px; border: 1px solid #ddd;">Descripción Técnica
+          de la Medida</th>
+        <th style="padding: 15px; border: 1px solid #ddd;">Impacto Acústico /
+          Atenuación</th>
+        <th style="padding: 15px; border: 1px solid #ddd;">Costo / Viabilidad
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; text-align: center; font-weight: bold;">
+          A</td>
+        <td style="padding: 12px; border: 1px solid #ddd;">
+          <strong>Automatización completa:</strong> Traslado del panel de
+          control a una sala remota aislada.</td>
+        <td style="padding: 12px; border: 1px solid #ddd;">Suprime la necesidad
+          de presencia física junto al molino.</td>
+        <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
+          Muy Alto</td>
+      </tr>
+      <tr style="background-color: #f9f9f9;">
+        <td
+          style="padding: 12px; border: 1px solid #ddd; text-align: center; font-weight: bold;">
+          B</td>
+        <td style="padding: 12px; border: 1px solid #ddd;"><strong>Liner de
+            Caucho:</strong> Sustitución de blindajes metálicos por compuestos
+          elastoméricos.</td>
+        <td style="padding: 12px; border: 1px solid #ddd;">Reducción de 10 dB en
+          la fuente (impacto).</td>
+        <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
+          Alto</td>
+      </tr>
+      <tr>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; text-align: center; font-weight: bold;">
+          C</td>
+        <td style="padding: 12px; border: 1px solid #ddd;"><strong>Barrera
+            Acústica:</strong> Cerramiento con paneles absorbentes de alto
+          desempeño.</td>
+        <td style="padding: 12px; border: 1px solid #ddd;">Reducción certificada
+          de 22-25 dB en bandas medias.</td>
+        <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
+          Medio</td>
+      </tr>
+      <tr style="background-color: #f9f9f9;">
+        <td
+          style="padding: 12px; border: 1px solid #ddd; text-align: center; font-weight: bold;">
+          D</td>
+        <td style="padding: 12px; border: 1px solid #ddd;"><strong>Limitación de
+            Tiempo:</strong> Reducción de jornada en el área a 30 minutos por
+          turno.</td>
+        <td style="padding: 12px; border: 1px solid #ddd;">No reduce el nivel,
+          modifica la dosis recibida (D).</td>
+        <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
+          Bajo / Operativo</td>
+      </tr>
+      <tr>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; text-align: center; font-weight: bold;">
+          E</td>
+        <td style="padding: 12px; border: 1px solid #ddd;"><strong>Protección
+            Auditiva:</strong> Suministro de Orejeras de alta atenuación (SNR
+          35dB).</td>
+        <td style="padding: 12px; border: 1px solid #ddd;">Atenuación real
+          estimada: 14 dB (corregido).</td>
+        <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
+          Mínimo</td>
+      </tr>
+    </tbody>
+  </table>
+  <div
+    style="background-color: #f4f6f7; border: 2px solid #1a5276; padding: 25px; border-radius: 8px;">
+    <h4 style="color: #1a5276; margin-top: 0; text-decoration: underline;">
+      Requerimientos de la Entrega:</h4>
+    <ol>
+      <li><strong>Clasificación de Jerarquía de controles:</strong> Ubique cada
+        opción (A-E) en su nivel correspondiente (Eliminación, Sustitución,
+        Ingeniería, Administrativo, EPP).</li>
+      <li><strong>Análisis de Atenuación:</strong> Calcule el nivel final
+        proyectado en la banda de <strong>1000 Hz</strong> si se implementa la
+        combinación de las medidas <strong>B y C</strong>.</li>
+      <li><strong>Justificación Técnica:</strong> Explique por qué en este caso
+        específico, el control administrativo (D) es insuficiente frente a los
+        niveles de presión sonora detectados.</li>
+    </ol>
+  </div>
+</div>
+<p>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    (function() {
+      var ctx = document.getElementById('ruidoChartGrande').getContext('2d');
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: ['63 Hz', '125 Hz', '250 Hz', '500 Hz', '1000 Hz',
+            '2000 Hz', '4000 Hz', '8000 Hz'
+          ],
+          datasets: [{
+            label: 'Nivel dB',
+            data: [88, 94, 102, 105, 108, 104, 98, 92],
+            backgroundColor: 'rgba(26, 82, 118, 0.8)',
+            borderColor: '#0e2f44',
+            borderWidth: 2,
+            hoverBackgroundColor: 'rgba(192, 57, 43, 0.8)'
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: {
+              position: 'top'
+            },
+            title: {
+              display: true,
+              text: 'Espectro de Frecuencia del Molino (Pre-Intervención)',
+              font: {
+                size: 18,
+                weight: 'bold'
+              }
+            }
+          },
+          scales: {
+            y: {
+              min: 70,
+              max: 120,
+              title: {
+                display: true,
+                text: 'Presión Sonora (dB)',
+                font: {
+                  weight: 'bold'
+                }
+              }
+            },
+            x: {
+              title: {
+                display: true,
+                text: 'Frecuencia Central de Banda de Octava',
+                font: {
+                  weight: 'bold'
+                }
+              }
+            }
+          }
+        }
+      });
+    })();
+  </script>
+</p>
