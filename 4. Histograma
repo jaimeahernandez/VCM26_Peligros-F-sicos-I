@@ -1,0 +1,204 @@
+<div
+  style="font-family: 'Segoe UI', Roboto, Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 50px; border-radius: 16px; background-color: #ffffff; line-height: 1.9; max-width: 1100px; margin: 30px auto; box-shadow: 0 15px 35px rgba(0,45,90,0.08);">
+  <div
+    style="text-align: center; border-bottom: 4px solid #1a5276; margin-bottom: 40px; padding-bottom: 20px;">
+    <h2
+      style="color: #1a5276; text-transform: uppercase; margin-bottom: 10px; font-size: 2.2em; letter-spacing: 1px;">
+      Caso D: Histograma de Exposición</h2>
+    <p
+      style="font-variant: small-caps; color: #7f8c8d; font-weight: bold; font-size: 1.3em;">
+      Análisis de la Frecuencia Temporal de los Niveles de Ruido</p>
+  </div>
+  <p style="text-align: justify; font-size: 19px;"><strong>Concepto
+      Técnico:</strong> Un histograma de ruido agrupa los datos de una
+    dosimetría en intervalos de niveles (dB). Muestra el tiempo total acumulado
+    que el trabajador permaneció expuesto a cada nivel de presión sonora durante
+    la jornada de 300 minutos, permitiendo identificar rápidamente los niveles
+    predominantes.</p>
+  <div
+    style="width: 100%; margin: 40px auto; background: #fdfdfd; padding: 25px; border: 1px solid #eef2f3; border-radius: 12px; box-shadow: inset 0 0 15px rgba(0,0,0,0.02); text-align: center;">
+    <canvas id="histogramaRuidoFijoTitulo"
+      style="max-width: 100%; height: 500px !important; background: white;"
+      width="800" height="500"></canvas></div>
+  <div
+    style="background-color: #f4f6f7; border-left: 8px solid #1a5276; padding: 35px; border-radius: 8px; margin-top: 40px;">
+    <h4
+      style="color: #1a5276; margin-top: 0; font-size: 1.5em; text-transform: uppercase;">
+      Reto de Análisis Estadístico:</h4>
+    <p style="font-size: 19px; font-weight: 500;">A partir de la observación del
+      histograma superior (Figura 12), resuelva:</p>
+    <ul style="padding-left: 25px; list-style-type: square; font-size: 18px;">
+      <li style="margin-bottom: 20px;"><strong>Identificación de Niveles
+          Críticos:</strong> ¿Cuál es el rango de niveles donde se concentran
+        las mayores frecuencias temporales de exposición? Sume el tiempo total
+        que el trabajador permaneció expuesto a niveles superiores o iguales a
+        85 dB(A).</li>
+      <li style="margin-bottom: 20px;"><strong>Criterio de Ingeniería vs.
+          Administrativo:</strong> El histograma muestra que la exposición más
+        frecuente es de 85 y 90 dB(A) (81 y 76 min respectivamente). ¿Qué medida
+        de control de ingeniería priorizaría para reducir estas barras de alta
+        frecuencia?</li>
+      <li style="margin-bottom: 10px;"><strong>Justificación de la
+          Dosis:</strong> Si la jornada total es de 300 minutos, analice cómo la
+        presencia de 15 minutos a 100 dB(A) afecta desproporcionadamente el
+        cálculo del Nivel Equivalente (L_Aeq,T) y la Dosis de Ruido final.</li>
+    </ul>
+  </div>
+</div>
+<p>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2">
+  </script>
+  <script>
+    (function() {
+      const ctx = document.getElementById('histogramaRuidoFijoTitulo')
+        .getContext('2d');
+
+      const datosFijosHistogramaT = [{
+          bin: '60',
+          tiempo: 1
+        },
+        {
+          bin: '65',
+          tiempo: 7
+        },
+        {
+          bin: '70',
+          tiempo: 13
+        },
+        {
+          bin: '75',
+          tiempo: 21
+        },
+        {
+          bin: '80',
+          tiempo: 47
+        },
+        {
+          bin: '85',
+          tiempo: 81
+        },
+        {
+          bin: '90',
+          tiempo: 76
+        },
+        {
+          bin: '95',
+          tiempo: 39
+        },
+        {
+          bin: '100',
+          tiempo: 15
+        }
+      ];
+
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: datosFijosHistogramaT.map(d => d.bin),
+          datasets: [{
+            label: 'Tiempo Acumulado (min)',
+            data: datosFijosHistogramaT.map(d => d.tiempo),
+            backgroundColor: 'rgba(52, 152, 219, 0.9)',
+            borderColor: 'rgba(44, 62, 80, 1)',
+            borderWidth: 2,
+            barPercentage: 0.85,
+            datalabels: {
+              color: '#2c3e50',
+              align: 'top',
+              anchor: 'end',
+              offset: 12,
+              font: {
+                weight: 'bold',
+                size: 16
+              }
+            }
+          }]
+        },
+        plugins: [ChartDataLabels],
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          devicePixelRatio: 2,
+          scales: {
+            x: {
+              title: {
+                display: true,
+                text: 'Nivel de Ruido [dB]',
+                font: {
+                  weight: 'bold',
+                  size: 16
+                }
+              },
+              ticks: {
+                font: {
+                  size: 14,
+                  weight: 'bold'
+                }
+              },
+              grid: {
+                display: false
+              }
+            },
+            y: {
+              title: {
+                display: true,
+                text: 'Tiempo Acumulado [min]',
+                font: {
+                  weight: 'bold',
+                  size: 16
+                }
+              },
+              min: 0,
+              max: 110,
+              ticks: {
+                stepSize: 20,
+                font: {
+                  size: 14,
+                  weight: 'bold'
+                }
+              },
+              grid: {
+                color: 'rgba(0,0,0,0.05)'
+              }
+            }
+          },
+          plugins: {
+            title: {
+              display: true,
+              text: 'Histograma de Exposición',
+              color: '#1a5276',
+              font: {
+                weight: 'bold',
+                size: 26,
+                family: 'Segoe UI, Arial'
+              },
+              padding: {
+                top: 10,
+                bottom: 30
+              }
+            },
+            legend: {
+              display: true,
+              position: 'top',
+              labels: {
+                font: {
+                  size: 15,
+                  weight: 'bold'
+                }
+              }
+            },
+            tooltip: {
+              titleFont: {
+                size: 16
+              },
+              bodyFont: {
+                size: 14
+              }
+            }
+          }
+        }
+      });
+    })();
+  </script>
+</p>
