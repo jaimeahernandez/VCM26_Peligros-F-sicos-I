@@ -1,0 +1,81 @@
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 40px; border-radius: 12px; background-color: #ffffff; line-height: 1.8; max-width: 1000px; margin: 20px auto; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
+  <div
+    style="text-align: center; border-bottom: 3px solid #1a5276; margin-bottom: 30px; padding-bottom: 15px;">
+    <h2
+      style="color: #1a5276; text-transform: uppercase; margin-bottom: 5px; font-size: 1.7em;">
+      Caso 08: Encerramientos Sellados para Baja Frecuencia</h2>
+    <p style="font-variant: small-caps; color: #7f8c8d; font-weight: bold;">
+      Control de Fugas Acústicas y Difracción</p>
+  </div>
+  <p style="text-align: justify;"><strong>Principio Técnico:</strong> El ruido
+    de baja frecuencia tiene la capacidad de viajar alrededor de las esquinas y
+    a través de orificios, expandiéndose en todas las direcciones. Por esta
+    razón, las barreras simples son insuficientes. Para contener tonos graves,
+    se requiere un <strong>encerramiento total</strong> construido con
+    materiales densos y sellado herméticamente, con el fin de evitar "fugas" de
+    energía sonora.</p>
+  <div
+    style="text-align: center; margin: 35px 0; background-color: #f9f9f9; padding: 25px; border-radius: 10px; border: 1px solid #eee;">
+    <img class="img-fluid"
+      style="max-width: 85%; height: auto; border: 2px solid #1a5276; border-radius: 4px;"
+      src="https://www.cdc.gov/niosh/media/images/NoiseComparisonResize3203snSealEnclosures169web.png"
+      alt="Sellado de Encerramientos para Baja Frecuencia - NIOSH">
+    <p style="font-size: 0.85em; color: #7f8c8d; margin-top: 10px;"><i>Figura 8:
+        Comparativa entre barreras y encerramientos sellados (Fuente:
+        NIOSH).</i></p>
+  </div>
+  <div
+    style="background-color: #fdf2f2; border-left: 6px solid #cd6155; padding: 25px; border-radius: 4px;">
+    <h4 style="color: #922b21; margin-top: 0; font-size: 1.2em;">Análisis de
+      Hermeticidad Acústica:</h4>
+    <p>Analice el comportamiento de las ondas de baja frecuencia según la Figura
+      8 y responda:</p>
+    <ul style="padding-left: 20px; list-style-type: disc;">
+      <li style="margin-bottom: 15px;"><strong>Capacidad de Difracción:</strong>
+        ¿Por qué una barrera abierta por la parte superior es ineficaz contra
+        motores que emiten sonidos graves? Explique cómo la longitud de onda
+        influye en este fenómeno.</li>
+      <li style="margin-bottom: 15px;"><strong>Integración de
+          Materiales:</strong> El texto sugiere construir con material denso y
+        revestir con material absorbente. ¿Qué función cumple cada uno en este
+        encerramiento sellado? (Diferencie entre <i>aislamiento</i> y
+        <i>absorción</i>).</li>
+      <li style="margin-bottom: 15px;"><strong>Jerarquía de Controles:</strong>
+        Si un encerramiento debe ser abierto constantemente por el operario para
+        ajustes, ¿cómo afecta esto la jerarquía de control y qué medida
+        administrativa (Caso 01) debería considerarse como respaldo?</li>
+    </ul>
+  </div>
+  <div
+    style="margin-top: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #fdfefe;">
+    <h4 style="color: #1a5276; margin-top: 0;">Checklist de Diseño:
+      Encerramientos Estancos</h4>
+    <table style="width: 100%; border-collapse: collapse; font-size: 0.9em;">
+      <thead>
+        <tr style="background-color: #1a5276; color: white;">
+          <th style="padding: 10px; border: 1px solid #ddd;">Punto de Control
+          </th>
+          <th style="padding: 10px; border: 1px solid #ddd;">Especificación
+            Técnica</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">
+            Acceso de Operario</td>
+          <td style="padding: 10px; border: 1px solid #ddd;">Las aberturas deben
+            ser las mínimas indispensables y poseer sellos elásticos (empaques)
+            de alta densidad.</td>
+        </tr>
+        <tr style="background-color: #f2f2f2;">
+          <td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">
+            Sellado de Juntas</td>
+          <td style="padding: 10px; border: 1px solid #ddd;">Utilizar masillas
+            acústicas o selladores no endurecibles en todas las uniones de los
+            paneles.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
