@@ -1,0 +1,76 @@
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #2c3e50; border: 1px solid #dcdfe3; padding: 40px; border-radius: 12px; background-color: #ffffff; line-height: 1.8; max-width: 1000px; margin: 20px auto; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
+  <div
+    style="text-align: center; border-bottom: 3px solid #1a5276; margin-bottom: 30px; padding-bottom: 15px;">
+    <h2
+      style="color: #1a5276; text-transform: uppercase; margin-bottom: 5px; font-size: 1.7em;">
+      Caso 06: Encerramientos y Barreras Acústicas</h2>
+    <p style="font-variant: small-caps; color: #7f8c8d; font-weight: bold;">
+      Sección: Mitigación de Ruido de Media y Alta Frecuencia</p>
+  </div>
+  <p style="text-align: justify;"><strong>Principio Técnico:</strong> Los
+    encerramientos y barreras actúan bloqueando la trayectoria directa del
+    sonido entre la fuente y el receptor. Son especialmente efectivos para
+    ruidos generados por procesos de <strong>remachado, esmerilado, corte
+      mecánico y limpieza con aire comprimido</strong>, donde predominan las
+    frecuencias medias y altas.</p>
+  <div
+    style="text-align: center; margin: 35px 0; background-color: #f9f9f9; padding: 25px; border-radius: 10px; border: 1px solid #eee;">
+    <img class="img-fluid"
+      style="max-width: 85%; height: auto; border: 2px solid #1a5276; border-radius: 4px;"
+      src="https://www.cdc.gov/niosh/media/images/NoiseComparisonResize3_03sn_AddBarriers_16-9-web_1.png"
+      alt="Uso de Encerramientos y Barreras - NIOSH">
+    <p style="font-size: 0.85em; color: #7f8c8d; margin-top: 10px;"><i>Figura 6:
+        Comparativa de niveles de ruido con y sin barreras acústicas (Fuente:
+        NIOSH).</i></p>
+  </div>
+  <div
+    style="background-color: #f4ecf7; border-left: 6px solid #8e44ad; padding: 25px; border-radius: 4px;">
+    <h4 style="color: #6c3483; margin-top: 0; font-size: 1.2em;">Análisis de
+      Control Colectivo:</h4>
+    <p>A partir de la ilustración y los conceptos de Higiene Industrial,
+      desarrolle lo siguiente:</p>
+    <ul style="padding-left: 20px; list-style-type: circle;">
+      <li style="margin-bottom: 15px;"><strong>Efectividad Espectral:</strong>
+        ¿Por qué los encerramientos son más efectivos para ruidos de
+        <strong>alta frecuencia</strong> en comparación con ruidos de baja
+        frecuencia (tonos graves)? </li>
+      <li style="margin-bottom: 15px;"><strong>Clasificación Normativa:</strong>
+        Si un encerramiento se diseña para cubrir totalmente una máquina
+        automatizada, ¿en qué nivel de la <strong>Jerarquía de
+          Controles</strong> se clasifica? ¿Cambiaría su clasificación si el
+        encerramiento tiene aberturas para que el trabajador manipule la pieza?
+      </li>
+      <li style="margin-bottom: 15px;"><strong>Integración de
+          Controles:</strong> Según la imagen, la barrera "refleja el sonido
+        lejos del trabajador". ¿Qué medida del <strong>Caso 05</strong>
+        (Absorción) complementaría este encerramiento para evitar que el ruido
+        se acumule en el interior del mismo?</li>
+    </ul>
+  </div>
+  <div
+    style="margin-top: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #fafafa;">
+    <h4 style="color: #1a5276; margin-top: 0;">Consideraciones de Diseño
+      Higiénico</h4>
+    <p style="font-size: 0.95em;">Para que un encerramiento sea exitoso, el
+      higienista debe considerar:</p>
+    <table style="width: 100%; border-collapse: collapse; font-size: 0.9em;">
+      <tbody>
+        <tr style="border-bottom: 1px solid #eee;">
+          <td style="padding: 8px; font-weight: bold; color: #1a5276;">
+            Hermeticidad:</td>
+          <td style="padding: 8px;">Incluso una pequeña abertura del 1% en el
+            área del encerramiento puede reducir la atenuación en 10 dB o más.
+          </td>
+        </tr>
+        <tr style="border-bottom: 1px solid #eee;">
+          <td style="padding: 8px; font-weight: bold; color: #1a5276;">
+            Ventilación:</td>
+          <td style="padding: 8px;">Los encerramientos deben incluir
+            silenciadores en las entradas y salidas de aire para evitar el
+            sobrecalentamiento del equipo.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
