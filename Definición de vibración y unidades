@@ -1,0 +1,83 @@
+<div
+  style="background: #fdfdfd; border: 1px solid #1a5276; border-radius: 20px; overflow: hidden; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; box-shadow: 0 20px 50px rgba(0,45,90,0.15); max-width: 1000px; margin: 20px auto;">
+  <div
+    style="background: linear-gradient(135deg, #1a5276 0%, #002d5a 100%); color: white; padding: 40px; text-align: left; border-bottom: 6px solid #ffc107;">
+    <div style="display: flex; align-items: center; gap: 25px;">
+      <div
+        style="background: rgba(255,255,255,0.15); padding: 15px; border-radius: 15px; font-size: 35px;">
+        📉</div>
+      <div>
+        <h2
+          style="margin: 0; text-transform: uppercase; letter-spacing: 2px; font-size: 24px; font-weight: 900;">
+          Fundamentos Físicos</h2>
+        <p
+          style="margin: 8px 0 0 0; color: #ffc107; font-weight: 600; font-size: 16px; text-transform: uppercase; letter-spacing: 1px;">
+          Variables EN VIBRACIONES OCUPACIONALES</p>
+      </div>
+    </div>
+  </div>
+  <div style="padding: 45px;">
+    <div style="margin-bottom: 40px;">
+      <h3
+        style="color: #1a5276; font-size: 20px; text-transform: uppercase; font-weight: 800; border-left: 6px solid #ffc107; padding-left: 15px;">
+        1. ¿Qué es la Vibración?</h3>
+      <p
+        style="color: #334155; font-size: 17px; line-height: 1.8; text-align: justify; margin-top: 15px;">
+        Desde la perspectiva técnica, la vibración es el <strong>movimiento
+          oscilatorio</strong> de una partícula o un cuerpo alrededor de una
+        posición de equilibrio. En el entorno laboral, se manifiesta como la
+        propagación de ondas elásticas que, al entrar en contacto con el cuerpo
+        humano, generan efectos mecánicos y biológicos según su frecuencia y
+        amplitud.</p>
+    </div>
+    <div style="margin-bottom: 40px;">
+      <h3
+        style="color: #1a5276; font-size: 20px; text-transform: uppercase; font-weight: 800; border-left: 6px solid #ffc107; padding-left: 15px;">
+        2. Magnitud: Aceleración</h3>
+      <p
+        style="color: #334155; font-size: 17px; line-height: 1.8; text-align: justify; margin-top: 15px;">
+        Aunque la vibración puede medirse en desplazamiento o velocidad, en
+        Higiene Industrial la magnitud de referencia es la
+        <strong>Aceleración</strong>. Esta representa la variación de la
+        velocidad por unidad de tiempo del movimiento oscilatorio.</p>
+      <div
+        style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 15px; padding: 25px; margin-top: 20px; display: flex; align-items: center; justify-content: center; gap: 30px;">
+        <div style="text-align: center;"><span
+            style="display: block; font-size: 14px; color: #64748b; font-weight: bold; text-transform: uppercase;">Unidad
+            (SI)</span> <span
+            style="font-size: 32px; color: #1a5276; font-weight: 900;">m/s²</span>
+          <span style="display: block; font-size: 13px; color: #475569;">Metros
+            por segundo al cuadrado</span></div>
+        <div style="width: 2px; height: 50px; background: #cbd5e1;"> </div>
+        <div style="max-width: 400px;">
+          <p
+            style="margin: 0; font-size: 14px; color: #475569; font-style: italic;">
+            <strong>Nota técnica:</strong> Se utiliza la aceleración porque los
+            efectos biológicos y el daño a tejidos están directamente
+            relacionados con las fuerzas de inercia que esta genera en el
+            cuerpo.</p>
+        </div>
+      </div>
+    </div>
+    <div
+      style="background: #fffbeb; border: 1px solid #fef3c7; border-radius: 15px; padding: 25px;">
+      <h4
+        style="color: #92400e; margin-top: 0; text-transform: uppercase; font-size: 15px; font-weight: 800;">
+        🧠 Análisis de Concepto</h4>
+      <p
+        style="color: #92400e; font-size: 15px; line-height: 1.6; margin-bottom: 0;">
+        <strong>Reto:</strong> Si tenemos dos herramientas con la misma
+        frecuencia de oscilación, pero la Herramienta A tiene una mayor
+        aceleración que la Herramienta B, ¿cuál de las dos representa un mayor
+        riesgo de daño estructural en los vasos sanguíneos de los dedos y por
+        qué? <em>Pista: Relacione la aceleración con la transferencia de energía
+          mecánica.</em></p>
+    </div>
+  </div>
+  <div
+    style="background: #f1f5f9; padding: 20px; text-align: center; border-top: 1px solid #e2e8f0;">
+    <p
+      style="margin: 0; font-size: 13px; color: #475569; letter-spacing: 1.5px; font-weight: bold; text-transform: uppercase;">
+      PELIGROS FISICOS I | UNIAJC 2026</p>
+  </div>
+</div>
