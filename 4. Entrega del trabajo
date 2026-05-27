@@ -1,0 +1,62 @@
+<!-- BLOQUE DE ENTREGA DE PRODUCTO FINAL (PDF) -->
+<div
+  style="font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 900px; margin: 40px auto; border: 1px solid #d1d5db; border-radius: 16px; overflow: hidden; box-shadow: 0 20px 40px rgba(0,0,0,0.1); background-color: #ffffff;">
+  <!-- Encabezado -->
+  <div
+    style="background-color: #1a5276; padding: 30px; text-align: center; border-bottom: 5px solid #f1c40f;">
+    <h2
+      style="color: #ffffff; text-transform: uppercase; margin: 0; font-size: 1.6em; letter-spacing: 2px;">
+      <span style="margin-right: 15px;">📤</span> Entrega de Producto Final</h2>
+  </div>
+  <div style="padding: 40px; text-align: center;">
+    <h4
+      style="color: #2c3e50; font-size: 1.4em; margin-top: 0; margin-bottom: 20px;">
+      Informe Consolidado: Vibraciones Ocupacionales</h4>
+    <p
+      style="text-align: justify; font-size: 19px; color: #475569; line-height: 1.8; margin-bottom: 30px;">
+      Este espacio está habilitado para la carga de su <strong>trabajo</strong>.
+      Asegúrese de que el documento incluya los cálculos del A(8), la
+      calificación del riesgo (ALTO, MEDIO, BAJO) y la nota de análisis
+      cualitativo correspondiente. Solo se permite el envío de archivos en
+      formato <strong>PDF</strong>.</p>
+    <!-- Cuadro de Información de Entrega -->
+    <div
+      style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 25px; margin-bottom: 40px; display: inline-block; width: 100%; box-sizing: border-box;">
+      <div
+        style="display: flex; justify-content: space-around; align-items: center;">
+        <div style="text-align: center;"><span
+            style="display: block; font-size: 0.8em; color: #64748b; font-weight: bold; text-transform: uppercase;">Formato</span>
+          <span
+            style="font-size: 1.2em; color: #1a5276; font-weight: bold;">Documento
+            PDF</span></div>
+        <div style="width: 2px; height: 40px; background-color: #e2e8f0;"> 
+        </div>
+        <div style="text-align: center;"><span
+            style="display: block; font-size: 0.8em; color: #64748b; font-weight: bold; text-transform: uppercase;">Evaluación</span>
+          <span
+            style="font-size: 1.2em; color: #1a5276; font-weight: bold;">A(8) +
+            Análisis</span></div>
+      </div>
+    </div>
+    <!-- Botón de Entrega --> <a
+      style="display: inline-block; background-color: #1a5276; color: #ffffff; padding: 20px 60px; text-decoration: none; font-size: 22px; font-weight: bold; border-radius: 50px; box-shadow: 0 10px 20px rgba(26, 82, 118, 0.2); transition: all 0.3s ease; border: 2px solid #1a5276;"
+      href="https://aulasvirtuales.unicamacho.edu.co/mod/assign/view.php?id=1465624">
+      SUBIR TRABAJO AQUÍ </a>
+    <p
+      style="margin-top: 30px; font-size: 18px; color: #1a5276; font-weight: bold; font-style: italic;">
+      ¡Verifique su archivo antes de realizar el envío definitivo!</p>
+  </div>
+  <!-- Footer Integrado -->
+  <footer
+    style="background-color: #f1f5f9; padding: 20px; border-top: 1px solid #e2e8f0;">
+    <div
+      style="display: flex; justify-content: space-between; align-items: center; color: #546e7a;">
+      <div style="display: flex; align-items: center;"><span
+          style="background-color: #1a3a5a; color: #ffffff; padding: 5px 12px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">
+          Peligros Físicos I </span></div>
+      <div style="text-align: right;"><span
+          style="font-size: 14px; font-weight: 800; color: #1a3a5a; letter-spacing: 0.5px;">UNIAJC</span>
+      </div>
+    </div>
+  </footer>
+</div>
