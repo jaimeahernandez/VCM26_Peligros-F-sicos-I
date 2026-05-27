@@ -1,0 +1,79 @@
+<!-- SECCIÓN: CENTRO DE DESCARGAS DE APLICATIVOS (A8) -->
+<section
+  style="background-color: #f4f7f6; padding: 60px 20px; font-family: 'Segoe UI', Arial, sans-serif;">
+  <div style="max-width: 900px; margin: 0 auto;"><!-- Encabezado de Sección -->
+    <div style="text-align: center; margin-bottom: 40px;">
+      <h2
+        style="color: #1a3a5a; font-weight: 850; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">
+        Herramientas de Cálculo A(8)</h2>
+      <p style="color: #607d8b; font-size: 16px;">Descargue los aplicativos
+        oficiales para la evaluación de la exposición diaria a vibraciones.</p>
+    </div>
+    <div
+      style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+      <!-- Tarjeta 1: Mano-Brazo -->
+      <div
+        style="flex: 1; min-width: 300px; background: #ffffff; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.08); border-top: 5px solid #c62828; padding: 30px; text-align: center;">
+        <div style="font-size: 40px; margin-bottom: 15px;">🧤</div>
+        <h3
+          style="color: #1a3a5a; font-size: 20px; font-weight: 800; margin-bottom: 15px;">
+          Vibración Mano-Brazo (HAV)</h3>
+        <p
+          style="color: #546e7a; font-size: 14px; line-height: 1.6; margin-bottom: 25px;">
+          Calculadora para la evaluación de herramientas manuales. Permite
+          determinar la exposición A(8) basada en la magnitud de vibración y
+          tiempo de uso.</p>
+        <a style="display: inline-block; background-color: #c62828; color: white; padding: 12px 25px; border-radius: 50px; text-decoration: none; font-weight: bold; font-size: 13px; text-transform: uppercase;"
+          href="https://www.hse.gov.uk/vibration/assets/docs/simple-hav.xlsx">
+          <span style="margin-right: 8px;">⤓</span> Descargar App HAV </a>
+      </div>
+      <!-- Tarjeta 2: Cuerpo Entero -->
+      <div
+        style="flex: 1; min-width: 300px; background: #ffffff; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.08); border-top: 5px solid #1565c0; padding: 30px; text-align: center;">
+        <div style="font-size: 40px; margin-bottom: 15px;">🚜</div>
+        <h3
+          style="color: #1a3a5a; font-size: 20px; font-weight: 800; margin-bottom: 15px;">
+          Vibración Cuerpo Entero (WBV)</h3>
+        <p
+          style="color: #546e7a; font-size: 14px; line-height: 1.6; margin-bottom: 25px;">
+          Calculadora para la evaluación de maquinaria móvil y conductores.
+          Analiza la dosis de exposición diaria y los riesgos ergonómicos
+          asociados.</p>
+        <a style="display: inline-block; background-color: #1565c0; color: white; padding: 12px 25px; border-radius: 50px; text-decoration: none; font-weight: bold; font-size: 13px; text-transform: uppercase;"
+          href="https://www.hse.gov.uk/vibration/assets/docs/wbv.xls"> <span
+            style="margin-right: 8px;">⤓</span> Descargar App WBV </a>
+      </div>
+    </div>
+    <!-- Recordatorio Técnico -->
+    <div
+      style="margin-top: 10px; background-color: #e3f2fd; border-radius: 10px; padding: 20px; display: flex; align-items: center; gap: 15px;">
+      <span style="font-size: 24px;">💡</span>
+      <p style="margin: 0; color: #0d47a1; font-size: 14px; line-height: 1.5;">
+        <strong>Nota Técnica:</strong> Estos aplicativos son herramientas de
+        soporte para sus cálculos. Los resultados obtenidos deben ser integrados
+        en su informe final con la respectiva <strong>evaluación de
+          exposición</strong> y análisis cualitativo.</p>
+    </div>
+    <!-- BLOQUE DE FOOTER: PELIGROS FÍSICOS I Y UNIAJC -->
+    <footer
+      style="margin-top: 60px; border-top: 2px solid #e0e0e0; padding: 20px 0;">
+      <div
+        style="display: flex; justify-content: space-between; align-items: center; color: #546e7a;">
+        <!-- Lado Izquierdo: Asignatura -->
+        <div style="display: flex; align-items: center; gap: 10px;"><span
+            style="background-color: #1a3a5a; color: #ffffff; padding: 5px 12px; border-radius: 4px; font-size: 12px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">
+            Peligros Físicos I </span></div>
+        <!-- Centro: Separador Decorativo -->
+        <div
+          style="flex-grow: 1; margin: 0 20px; border-bottom: 1px dashed #cfd8dc;">
+           </div>
+        <!-- Lado Derecho: Institución -->
+        <div style="text-align: right;"><span
+            style="font-size: 14px; font-weight: 800; color: #1a3a5a; letter-spacing: 0.5px;">
+            UNIAJC </span> <span
+            style="display: block; font-size: 10px; color: #90a4ae; text-transform: uppercase; font-weight: 600;">
+            Institución Universitaria Antonio José Camacho </span></div>
+      </div>
+    </footer>
+  </div>
+</section>
