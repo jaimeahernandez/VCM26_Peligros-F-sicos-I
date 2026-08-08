@@ -1,0 +1,60 @@
+<div
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 900px; margin: 15px auto; border: 1px solid #e2e8f0; border-top: 5px solid #ffc107; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.05); overflow: hidden;">
+  <!-- Encabezado de Anuncio -->
+  <div
+    style="background-color: #002d5a; color: #ffffff; padding: 20px 25px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+    <div style="display: flex; align-items: center; gap: 15px;"><span
+        style="font-size: 28px; background-color: rgba(255, 255, 255, 0.15); padding: 8px 12px; border-radius: 8px;">📢</span>
+      <div>
+        <h3
+          style="margin: 0; font-size: 20px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; color: #ffffff;">
+          TABLERO DE ANUNCIOS Y NOVEDADES</h3>
+        <p style="margin: 3px 0 0 0; font-size: 13px; color: #cbd5e1;">Canal
+          Oficial de Comunicación e Indicaciones del Docente</p>
+      </div>
+    </div>
+    <span
+      style="background-color: #ffc107; color: #002d5a; padding: 4px 12px; border-radius: 20px; font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px;">
+      ¡Importante! </span>
+  </div>
+  <!-- Contenido del Anuncio -->
+  <div style="padding: 25px 30px;"><!-- Título de la Novedad -->
+    <h4
+      style="margin: 0 0 15px 0; color: #002d5a; font-size: 18px; font-weight: bold; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px;">
+      📌 Anuncio General</h4>
+    <!-- Texto Principal -->
+    <p
+      style="color: #334155; font-size: 15px; line-height: 1.7; margin: 0 0 20px 0; text-align: justify;">
+      Estimados estudiantes, les doy la bienvenida a esta nueva semana
+      académica. Les informo que ya se encuentran habilitados los materiales de
+      lectura, actividades prácticas y recursos audiovisuales correspondientes
+      al tema en curso. Por favor, asegúrense de revisar la hoja de ruta antes
+      de enviar sus entregables.</p>
+    <!-- Cuadro Destacado / Alerta de Fechas o Indicaciones -->
+    <div
+      style="background-color: #f8fafc; border-left: 4px solid #002d5a; padding: 15px 20px; border-radius: 0 8px 8px 0; margin-bottom: 20px; border: 1px solid #e2e8f0; border-left-width: 4px;">
+      <h5
+        style="margin: 0 0 8px 0; color: #002d5a; font-size: 14px; font-weight: bold; text-transform: uppercase;">
+        🗓️ Recordatorios Clave de la Semana:</h5>
+      <ul
+        style="margin: 0; padding-left: 20px; color: #475569; font-size: 14px; line-height: 1.6;">
+        <li><strong>Fecha Límite de Entrega:</strong> Fijarse y anotar en agenda
+          los plazos para las entregas.</li>
+        <li><strong>Encuentro Sincrónico / Tutoría:</strong> Tener en cuenta en
+          el horario suministrado.</li>
+        <li><strong>Canal de Consultas:</strong> Foro de Preguntas e Inquietudes
+          o correo institucional.</li>
+      </ul>
+    </div>
+    <p style="color: #64748b; font-size: 14px; margin: 0; font-style: italic;">
+      Éxitos en el desarrollo de sus actividades. Quedo atento a cualquier
+      inquietud.</p>
+  </div>
+  <!-- Pie del Anuncio / Firma -->
+  <div
+    style="background-color: #f1f5f9; padding: 12px 25px; border-top: 1px solid #e2e8f0; display: flex; align-items: center; justify-content: space-between; font-size: 12px; color: #475569; flex-wrap: wrap; gap: 8px;">
+    <strong>Docente:  <span style="font-weight: 400;">Lic. Jaime A. Hernández
+        J.</span></strong><strong>Asignatura:  <span
+        style="font-weight: 400;">Peligros Fisicos I | UNIAJC</span></strong>
+  </div>
+</div>
