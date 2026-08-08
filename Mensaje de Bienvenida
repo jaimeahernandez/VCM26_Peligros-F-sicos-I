@@ -1,0 +1,97 @@
+<div
+  style="background: #fdfdfd; border: 1px solid #002d5a; border-radius: 20px; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 1000px; margin: 20px auto;">
+  <div
+    style="background: #002d5a; color: #ffffff; padding: 40px 35px; text-align: left; border-bottom: 6px solid #ffc107;">
+    <div>
+      <div
+        style="background: rgba(255,255,255,0.15); padding: 20px; border-radius: 15px; font-size: 42px;">
+        🔊⚡</div>
+      <div><span
+          style="background: #ffc107; color: #002d5a; padding: 4px 12px; border-radius: 20px; font-weight: 800; font-size: 12px; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 8px;">
+          Asignatura Profesional </span>
+        <h2
+          style="margin: 0; text-transform: uppercase; letter-spacing: 2px; font-size: 32px; font-weight: 900; line-height: 1.2;">
+          BIENVENIDOS A PELIGROS FÍSICOS I</h2>
+        <p
+          style="margin: 8px 0 0 0; color: #e2e8f0; font-weight: 500; font-size: 16px; letter-spacing: 0.5px;">
+          Administración de la Seguridad y Salud en el Trabajo (ASST)</p>
+      </div>
+    </div>
+  </div>
+  <div style="padding: 40px 35px;">
+    <div
+      style="background: #f8fafc; border-left: 6px solid #002d5a; padding: 20px 25px; border-radius: 0 15px 15px 0; margin-bottom: 35px; border: 1px solid #e2e8f0; border-left-width: 6px;">
+      <h3
+        style="color: #002d5a; font-size: 20px; margin-top: 0; text-transform: uppercase; font-weight: 800; letter-spacing: 1px;">
+        👋 Estimados estudiantes</h3>
+      <p
+        style="color: #334155; font-size: 16px; line-height: 1.8; margin: 0; text-align: justify;">
+        Les doy la más cordial bienvenida al curso de <strong>Peligros Físicos
+          I</strong>. Durante este periodo académico, exploraremos los
+        principios de la Higiene Industrial enfocados en la gestión de los
+        peligros fisicos críticos en los entornos laborales, tales como
+        <strong>Ruido y Vibraciones</strong>. Prepárense para un curso lleno de
+        retos prácticos, simulaciones e interpretación normativa.</p>
+    </div>
+    <h3
+      style="color: #002d5a; font-size: 20px; text-transform: uppercase; font-weight: 800; letter-spacing: 1px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 25px;">
+      🎯 Pilares de Formación del Curso</h3>
+    <div style="margin-bottom: 35px;">
+      <div
+        style="background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #e2e8f0; border-top: 4px solid #002d5a;">
+        <div style="font-size: 24px; margin-bottom: 10px;">📉</div>
+        <h4
+          style="margin: 0 0 8px 0; color: #002d5a; font-size: 16px; font-weight: bold; text-transform: uppercase;">
+          1. Diagnóstico Y ANALISIS</h4>
+        <p
+          style="margin: 0; font-size: 14px; color: #475569; line-height: 1.6; text-align: justify;">
+          Análisis e interpretación técnica de niveles de exposición ocupacional
+          frente a límites permisibles (TLV).</p>
+      </div>
+      <div
+        style="background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #e2e8f0; border-top: 4px solid #004a8f;">
+        <div style="font-size: 24px; margin-bottom: 10px;">🩺</div>
+        <h4
+          style="margin: 0 0 8px 0; color: #002d5a; font-size: 16px; font-weight: bold; text-transform: uppercase;">
+          2. Impacto en la Salud</h4>
+        <p
+          style="margin: 0; font-size: 14px; color: #475569; line-height: 1.6; text-align: justify;">
+          Análisis de consecuencias fisiológicas como la Hipoacusia
+          Neurosensorial Inducida por Ruido y patologías fisiológicas asociadas.
+        </p>
+      </div>
+      <div
+        style="background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #e2e8f0; border-top: 4px solid #ffc107;">
+        <div style="font-size: 24px; margin-bottom: 10px;">🛠️</div>
+        <h4
+          style="margin: 0 0 8px 0; color: #002d5a; font-size: 16px; font-weight: bold; text-transform: uppercase;">
+          3. Control de Ingeniería</h4>
+        <p
+          style="margin: 0; font-size: 14px; color: #475569; line-height: 1.6; text-align: justify;">
+          Diseño y priorización de jerarquías de control en la fuente, medio y
+          receptor para la mitigación del riesgo.</p>
+      </div>
+    </div>
+    <div
+      style="background: #eff6ff; padding: 20px 25px; border-radius: 12px; margin-bottom: 35px; border: 1px solid #bfdbfe;">
+      <h4
+        style="margin: 0 0 10px 0; color: #1e40af; font-size: 16px; font-weight: 800; text-transform: uppercase;">
+        💡 Recomendaciones para el éxito en la asignatura:</h4>
+      <ul
+        style="margin: 0; padding-left: 20px; color: #1e3a8a; font-size: 14px; line-height: 1.8;">
+        <li>Revise periódicamente los compromisos en la Hoja de Ruta /
+          Calendario académico.</li>
+        <li>Descargue y lea el material didáctico previo a los encuentros o
+          talleres sincrónicos.</li>
+        <li>Participe activamente en los foros de debate técnico y casos de
+          estudio reales</li>
+      </ul>
+    </div>
+  </div>
+  <div
+    style="background: #f1f5f9; padding: 20px; text-align: center; border-top: 1px solid #e2e8f0;">
+    <p
+      style="margin: 0; font-size: 13px; color: #475569; letter-spacing: 1.5px; font-weight: bold; text-transform: uppercase;">
+      Administración en Seguridad y Salud en el Trabajo | UNIAJC</p>
+  </div>
+</div>
