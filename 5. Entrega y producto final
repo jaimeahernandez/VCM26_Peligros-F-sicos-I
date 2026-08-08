@@ -1,37 +1,90 @@
-<p></p>
-<div class="card mx-auto"
-  style="max-width: 850px; border: 1px solid #dcdcdc; border-radius: 6px;">
-  <h5 class="card-header"
-    style="background-color: #1f3a5f; color: #ffffff; text-align: center;"><i
-      class="fa fa-upload"></i> ENTREGA FORMAL DE LA ACTIVIDAD</h5>
-  <div class="card-body">
-    <h5 class="card-title" style="color: #1f3a5f;">Estudio de Caso – Evaluación
-      de Exposición a Ruido Ocupacional</h5>
-    <p style="text-align: justify; line-height: 1.6;">Una vez finalizado el
-      desarrollo integral del <em>Estudio de Caso</em>, cada estudiante deberá
-      consolidar y presentar el documento académico correspondiente, atendiendo
-      rigurosamente los lineamientos metodológicos y técnicos establecidos por
-      el tutor.</p>
-    <p style="text-align: justify; line-height: 1.6;">El documento deberá
-      evidenciar:</p>
-    <ul style="text-align: justify;">
-      <li>Matriz de identificación de datos correctamente diligenciada.</li>
-      <li>Cálculo del LAeq,d y análisis técnico de los resultados.</li>
-      <li>Valoración del nivel de riesgo con soporte normativo.</li>
-      <li>Plan de intervención estructurado conforme a la jerarquía de
-        controles.</li>
-      <li>Conclusiones técnicas fundamentadas.</li>
-    </ul>
-    <p style="text-align: justify; line-height: 1.6;">Aunque el análisis haya
-      sido desarrollado de manera grupal, <strong>la entrega en la plataforma se
-        recomienda que sea realizada de manera individual.</strong></p>
-    <p style="text-align: justify; line-height: 1.6;">Verifique que el archivo
-      cumpla con los criterios formales exigidos: formato PDF, redacción
-      técnica, coherencia metodológica y adecuada presentación.</p>
-    <div style="text-align: center; margin-top: 20px;"><a
-        class="btn btn-primary"
-        style="font-size: 18px; background-color: #1f3a5f; border-color: #1f3a5f; padding: 10px 25px;"
-        href="https://aulasvirtuales.unicamacho.edu.co/mod/assign/view.php?id=1415766">
-        <strong>Subir Actividad</strong> </a></div>
+<div
+  style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 25px auto; color: #1e293b;">
+  <!-- TARJETA PRINCIPAL -->
+  <div
+    style="background-color: #ffffff; border-radius: 12px; border: 1px solid #cbd5e1; box-shadow: 0 10px 25px rgba(0,0,0,0.08); overflow: hidden;">
+    <!-- ENCABEZADO -->
+    <div
+      style="background: linear-gradient(135deg, #1f3a5f 0%, #0f172a 100%); padding: 25px 20px; text-align: center; border-bottom: 4px solid #2563eb; color: #ffffff;">
+      <div
+        style="display: inline-block; background-color: rgba(37, 99, 235, 0.2); padding: 8px 16px; border-radius: 20px; margin-bottom: 8px; border: 1px solid rgba(255,255,255,0.15);">
+        <i class="fa fa-cloud-upload"
+          style="color: #60a5fa; margin-right: 6px; font-size: 16px;"></i> <span
+          style="font-size: 11px; text-transform: uppercase; letter-spacing: 1.5px; font-weight: bold; color: #93c5fd;">Buzón
+          Académico Oficial</span></div>
+      <h3
+        style="margin: 5px 0 0 0; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; font-size: 22px; color: #ffffff;">
+        ENTREGA FORMAL DE LA ACTIVIDAD</h3>
+    </div>
+    <!-- CUERPO DE LA TARJETA -->
+    <div style="padding: 30px 25px;"><!-- SUBTÍTULO -->
+      <h4
+        style="margin-top: 0; color: #1f3a5f; font-weight: bold; font-size: 18px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; text-align: center;">
+        Estudio de Caso – Evaluación de Exposición a Ruido Ocupacional</h4>
+      <p
+        style="text-align: justify; line-height: 1.6; color: #334155; font-size: 14.5px; margin-top: 15px;">
+        Una vez finalizado el desarrollo integral del <em>Estudio de Caso</em>,
+        cada estudiante deberá consolidar y presentar el documento académico
+        correspondiente, atendiendo rigurosamente los lineamientos metodológicos
+        y técnicos establecidos por el tutor.</p>
+      <!-- CHECKLIST DE REQUISITOS -->
+      <div style="margin: 20px 0;"><span
+          style="display: block; font-weight: bold; color: #1f3a5f; margin-bottom: 12px; font-size: 14px;">
+          <i class="fa fa-check-square-o"
+            style="color: #2563eb; margin-right: 6px;"></i> El documento deberá
+          evidenciar rigurosamente: </span>
+        <div
+          style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px;">
+          <div
+            style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; padding: 10px 14px; border-radius: 6px; font-size: 13px; color: #334155; display: flex; align-items: center;">
+            <i class="fa fa-table"
+              style="color: #2563eb; margin-right: 10px; font-size: 15px;"></i>
+            Matriz de identificación de datos correctamente diligenciada.</div>
+          <div
+            style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; padding: 10px 14px; border-radius: 6px; font-size: 13px; color: #334155; display: flex; align-items: center;">
+            <i class="fa fa-calculator"
+              style="color: #2563eb; margin-right: 10px; font-size: 15px;"></i> Cálculo
+            del LAeq,d y análisis técnico de los resultados.</div>
+          <div
+            style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; padding: 10px 14px; border-radius: 6px; font-size: 13px; color: #334155; display: flex; align-items: center;">
+            <i class="fa fa-balance-scale"
+              style="color: #2563eb; margin-right: 10px; font-size: 15px;"></i>
+            Valoración del nivel de riesgo con soporte normativo.</div>
+          <div
+            style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; padding: 10px 14px; border-radius: 6px; font-size: 13px; color: #334155; display: flex; align-items: center;">
+            <i class="fa fa-shield"
+              style="color: #2563eb; margin-right: 10px; font-size: 15px;"></i>
+            Plan de intervención estructurado conforme a la jerarquía de
+            controles.</div>
+          <div
+            style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; padding: 10px 14px; border-radius: 6px; font-size: 13px; color: #334155; display: flex; align-items: center; grid-column: span 1 / -1;">
+            <i class="fa fa-file-text-o"
+              style="color: #2563eb; margin-right: 10px; font-size: 15px;"></i>
+            Conclusiones técnicas fundamentadas.</div>
+        </div>
+      </div>
+      <!-- ALERTA DE ENTREGA INDIVIDUAL -->
+      <div
+        style="background-color: #eff6ff; border: 1px dashed #60a5fa; border-radius: 8px; padding: 12px 16px; margin: 20px 0; font-size: 13px; color: #1e40af; display: flex; align-items: center;">
+        <i class="fa fa-info-circle"
+          style="font-size: 20px; margin-right: 12px; color: #2563eb; flex-shrink: 0;"></i>
+        Aunque el análisis haya sido desarrollado de manera grupal, <strong>la
+          entrega en la plataforma debe ser realizada de manera
+          individual</strong> por cada integrante del equipo.</div>
+      <!-- RECOMENDACIÓN DE FORMATO -->
+      <p
+        style="text-align: center; line-height: 1.5; color: #64748b; font-size: 12.5px; margin-bottom: 25px;">
+        <i class="fa fa-file-pdf-o" style="color: #dc2626;"></i> Verifique que
+        el archivo cumpla con los criterios formales exigidos: <strong>Formato
+          PDF</strong>, redacción técnica, coherencia metodológica y adecuada
+        presentación.</p>
+      <!-- BOTÓN PRINCIPAL DE ENTREGA -->
+      <div style="text-align: center; margin-top: 15px;"><a
+          style="display: inline-block; background: linear-gradient(135deg, #1f3a5f 0%, #2563eb 100%); color: #ffffff; font-size: 16px; font-weight: bold; text-decoration: none; padding: 14px 32px; border-radius: 50px; box-shadow: 0 4px 15px rgba(37, 99, 235, 0.35); border: 2px solid #3b82f6; text-transform: uppercase; letter-spacing: 0.5px;"
+          href="https://aulasvirtuales.unicamacho.edu.co/mod/assign/view.php?id=1415766"
+          target="_blank" rel="noopener"> <i class="fa fa-upload"
+            style="margin-right: 8px; font-size: 18px;"></i> Subir Actividad en
+          PDF </a></div>
+    </div>
   </div>
 </div>
