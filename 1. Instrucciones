@@ -1,24 +1,81 @@
-<section>
-  <div class="container-fluid px-md-3 px-lg-3 py-4 py-md-4 py-lg-4"
-    style="background-color: #1f3a5f; border-radius: 6px;">
-    <div class="row flex-md-row justify-content-md-center">
-      <div class="col-md-8 col-12" style="width: 1000px;">
-        <div class="p-3 text-white text-center">
-          <h3 class="mb-2 pb-3"
-            style="font-weight: 600; letter-spacing: 0.5px;"><span
-              class="px-md-3"> Lea detenidamente las instrucciones de esta
-              actividad grupal (Máximo 3 personas) </span></h3>
-          <h5 class="text-justify"
-            style="font-weight: normal; line-height: 1.6;">Esta actividad
-            contiene un (1) estudio de caso relacionado con la exposición a
-            ruido ocupacional de un trabajador que labora en una empresa de
-            mecanizado de piezas. Responde lo indicado por el tutor DURANTE el
-            encuentro. Si requiere hacer cálculos, les recomendamos apoyarse del
-            tutorial incluido dentro la actividad. Sólo, al final de la
-            actividad, saldrá un mensaje para que entreguen el documento final
-            (En Entrega y Producto Final). ¡Muchos Éxitos en el desarrollo de la
-            actividad!</h5>
+<section
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; padding: 20px 0;">
+  <div class="container-fluid px-md-3 px-lg-3 py-2"
+    style="max-width: 1000px; margin: 0 auto;">
+    <!-- TARJETA CONTENEDORA PRINCIPAL -->
+    <div
+      style="background: #ffffff; border-radius: 16px; overflow: hidden; box-shadow: 0 15px 35px rgba(0,45,90,0.12); border: 1px solid #cbd5e1;">
+      <!-- HEADER CON EFECTO DE GRADIENTE INSTITUCIONAL -->
+      <div
+        style="background: linear-gradient(135deg, #002d5a 0%, #004a8f 100%); padding: 30px 25px; text-align: center; border-bottom: 6px solid #ffc107; color: #ffffff;">
+        <div
+          style="display: inline-block; background: rgba(255, 255, 255, 0.15); padding: 10px 15px; border-radius: 50px; font-size: 24px; margin-bottom: 10px;">
+          👥⚙️</div>
+        <h3
+          style="margin: 0; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; font-size: 22px; color: #ffffff;">
+          INSTRUCCIONES DE LA ACTIVIDAD GRUPAL</h3>
+        <p
+          style="margin: 6px 0 0 0; font-size: 14px; color: #ffc107; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">
+          ⚠️ Equipos de Trabajo: Máximo 2 Personas</p>
+      </div>
+      <!-- CUERPO DE LAS INSTRUCCIONES -->
+      <div style="padding: 35px 30px; background-color: #f8fafc;">
+        <!-- ALERTA SOBRE EL CASO DE ESTUDIO -->
+        <div
+          style="background: #ffffff; border-left: 5px solid #002d5a; padding: 20px; border-radius: 0 10px 10px 0; margin-bottom: 25px; border: 1px solid #e2e8f0; border-left-width: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.03);">
+          <div style="display: flex; align-items: flex-start; gap: 15px;"><span
+              style="font-size: 24px;">🏭</span>
+            <div>
+              <h5
+                style="margin: 0 0 6px 0; color: #002d5a; font-size: 16px; font-weight: bold; text-transform: uppercase;">
+                Caso de Estudio: Exposición a Ruido Ocupacional</h5>
+              <p
+                style="margin: 0; color: #334155; font-size: 15px; line-height: 1.7; text-align: justify;">
+                Esta actividad contiene <strong>un (1) estudio de caso</strong>
+                enfocado en la evaluación de la exposición a ruido ocupacional
+                de un trabajador en una empresa de mecanizado de piezas.
+                Responda estrictamente lo indicado por el tutor
+                <strong>DURANTE</strong> el encuentro presencial/sincrónico.</p>
+            </div>
+          </div>
         </div>
+        <!-- GRID DE PAUTAS RÁPIDAS -->
+        <div
+          style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; margin-bottom: 25px;">
+          <!-- ITEM 1: TUTORIAL DE CÁLCULOS -->
+          <div
+            style="background: #eff6ff; border: 1px solid #bfdbfe; padding: 18px; border-radius: 10px; display: flex; align-items: flex-start; gap: 12px;">
+            <span style="font-size: 22px;">🧮</span>
+            <div><strong
+                style="color: #1e40af; display: block; font-size: 14px; text-transform: uppercase; margin-bottom: 3px;">
+                Soporte de Cálculos: </strong> <span
+                style="color: #1e3a8a; font-size: 14px; line-height: 1.5;"> Si
+                requiere efectuar desarrollos matemáticos, apóyese en el
+                tutorial audiovisual interactivo incluido dentro de la
+                actividad. </span></div>
+          </div>
+          <!-- ITEM 2: ENTREGA FINAL -->
+          <div
+            style="background: #f0fdf4; border: 1px solid #bbf7d0; padding: 18px; border-radius: 10px; display: flex; align-items: flex-start; gap: 12px;">
+            <span style="font-size: 22px;">📥</span>
+            <div><strong
+                style="color: #166534; display: block; font-size: 14px; text-transform: uppercase; margin-bottom: 3px;">
+                Entrega del Documento: </strong> <span
+                style="color: #14532d; font-size: 14px; line-height: 1.5;"> Sólo
+                al finalizar la totalidad de la actividad se habilitará el
+                mensaje y enlace para adjuntar el documento final (sección
+                <em>"Entrega y Producto Final"</em>). </span></div>
+          </div>
+        </div>
+        <!-- MENSAJE FINAL / ÉXITOS -->
+        <div
+          style="text-align: center; background: #002d5a; color: #ffffff; padding: 15px 20px; border-radius: 10px; font-weight: bold; font-size: 15px; letter-spacing: 0.5px;">
+          ✨ ¡Muchos Éxitos en el desarrollo de la actividad! ✨</div>
+      </div>
+      <!-- FOOTER -->
+      <div
+        style="background-color: #f1f5f9; padding: 10px 25px; text-align: center; font-size: 12px; color: #64748b; border-top: 1px solid #e2e8f0; font-weight: 600;">
+        Peligros Físicos I • Institución Universitaria Antonio José Camacho
       </div>
     </div>
   </div>
