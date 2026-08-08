@@ -1,50 +1,70 @@
 <p></p>
-<section>
-  <div class="container-fluid py-4"><!-- Encabezado académico -->
-    <div class="row justify-content-center mb-4">
-      <div class="col-12 text-center">
+<section
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; padding: 20px 0;">
+  <div class="container-fluid py-2" style="max-width: 1050px; margin: 0 auto;">
+    <!-- TARJETA CONTENEDORA PRINCIPAL -->
+    <div
+      style="background: #ffffff; border-radius: 16px; overflow: hidden; box-shadow: 0 15px 35px rgba(0,45,90,0.12); border: 1px solid #cbd5e1;">
+      <!-- ENCABEZADO ACADÉMICO / BANNER INSTITUCIONAL -->
+      <div
+        style="background: linear-gradient(135deg, #002d5a 0%, #004a8f 100%); color: white; padding: 30px 25px; text-align: center; border-bottom: 6px solid #ffc107;">
         <div
-          style="background-color: #1f3a5f; color: white; padding: 15px; border-radius: 6px;">
-          <h3 style="margin: 0; font-weight: 600;">Estudio de Caso – Exposición
-            a Ruido Ocupacional</h3>
+          style="display: inline-block; background: rgba(255, 255, 255, 0.15); padding: 10px 16px; border-radius: 50px; font-size: 26px; margin-bottom: 10px;">
+          🔊🏭</div>
+        <h3
+          style="margin: 0; font-weight: 800; font-size: 24px; text-transform: uppercase; letter-spacing: 1px; color: #ffffff;">
+          Estudio de Caso – Exposición a Ruido Ocupacional</h3>
+        <p
+          style="margin: 5px 0 0 0; font-size: 13px; color: #cbd5e1; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+          Seguridad y Salud en el Trabajo • Evaluación del Riesgo Físico</p>
+      </div>
+      <!-- CUERPO DEL RECURSO -->
+      <div style="padding: 35px 30px; background-color: #f8fafc;">
+        <!-- CONTEXTUALIZACIÓN BREVE (TARJETA DE INTRODUCCIÓN) -->
+        <div
+          style="background: #ffffff; border-left: 5px solid #002d5a; padding: 20px 25px; border-radius: 0 10px 10px 0; margin-bottom: 30px; border: 1px solid #e2e8f0; border-left-width: 5px; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
+          <div style="display: flex; align-items: flex-start; gap: 15px;"><span
+              style="font-size: 24px;">📋</span>
+            <p
+              style="text-align: justify; line-height: 1.7; margin: 0; color: #334155; font-size: 15px;">
+              A continuación, se presenta el estudio de caso interactivo.
+              Analice cuidadosamente la información suministrada y desarrolle
+              las actividades y momentos propuestos aplicando criterios técnicos
+              relacionados con la evaluación del riesgo por exposición a ruido
+              en ambientes laborales.</p>
+          </div>
+        </div>
+        <!-- RECURSO H5P INCRUSTADO (MARCO DE ALTA CALIDAD) -->
+        <div
+          style="background: #ffffff; border: 1px solid #cbd5e1; border-radius: 12px; padding: 15px; margin-bottom: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center;">
+          <iframe style="max-width: 100%; border-radius: 8px;"
+            title="Estudio de Caso 1"
+            src="https://aulasvirtuales.unicamacho.edu.co/mod/hvp/embed.php?id=1528817"
+            width="1370" height="796" frameborder="0"
+            allowfullscreen="allowfullscreen"></iframe>
+          <script
+            src="https://aulasvirtuales.unicamacho.edu.co/mod/hvp/library/js/h5p-resizer.js"
+            charset="UTF-8"></script>
+        </div>
+        <!-- INDICACIONES FINALES (ALERTA TÉCNICA) -->
+        <div
+          style="background-color: #eff6ff; border: 1px solid #bfdbfe; border-left: 5px solid #0284c7; padding: 20px 25px; border-radius: 0 10px 10px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.02);">
+          <div style="display: flex; align-items: flex-start; gap: 15px;"><span
+              style="font-size: 24px;">💡</span>
+            <p
+              style="margin: 0; text-align: justify; line-height: 1.7; color: #075985; font-size: 14px;">
+              Recuerde realizar y registrar las actividades de este estudio de
+              caso, aplicando los fundamentos físicos del sonido, el análisis
+              logarítmico en decibeles y la normativa vigente en Seguridad y
+              Salud en el Trabajo.</p>
+          </div>
         </div>
       </div>
-    </div>
-    <!-- Contextualización breve -->
-    <div class="row justify-content-center mb-3">
-      <div class="col-md-10 col-12">
-        <p style="text-align: justify; line-height: 1.6;">A continuación, se
-          presenta el estudio de caso interactivo. Analice cuidadosamente la
-          información suministrada y desarrolle las actividades y momentos
-          propuestos aplicando criterios técnicos relacionados con la evaluación
-          del riesgo por exposición a ruido en ambientes laborales.</p>
-      </div>
-    </div>
-    <!-- Recurso H5P incrustado (SIN MODIFICAR) -->
-    <div class="row justify-content-center">
-      <div class="col-12 text-center"><iframe title="Estudio de Caso 1"
-          src="https://aulasvirtuales.unicamacho.edu.co/mod/hvp/embed.php?id=1391129"
-          width="1187" height="700" frameborder="0"
-          allowfullscreen="allowfullscreen">
-        </iframe>
-        <script
-          src="https://aulasvirtuales.unicamacho.edu.co/mod/hvp/library/js/h5p-resizer.js"
-          charset="UTF-8">
-        </script>
-      </div>
-    </div>
-    <!-- Indicaciones finales -->
-    <div class="row justify-content-center mt-4">
-      <div class="col-md-10 col-12">
-        <div
-          style="background-color: #f4f6f9; padding: 15px; border-left: 5px solid #1f3a5f; border-radius: 4px;">
-          <p style="margin: 0; text-align: justify; line-height: 1.6;">Recuerde
-            realizar y registrar las actividades de este estudio de caso,
-            aplicando los fundamentos físicos del sonido, el análisis
-            logarítmico en decibeles y la normativa vigente en Seguridad y Salud
-            en el Trabajo.</p>
-        </div>
-      </div>
+      <!-- FOOTER ACADÉMICO INSTITUCIONAL -->
+      <div
+        style="background-color: #f1f5f9; padding: 12px 25px; text-align: center; font-size: 12px; color: #64748b; border-top: 1px solid #e2e8f0; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px;">
+        Peligros Físicos I • Administración en SST</div>
     </div>
   </div>
 </section>
+<p></p>
