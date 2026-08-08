@@ -1,222 +1,328 @@
 <p></p>
 <section
-  style="background-color: #1f3a5f; padding: 25px; border-radius: 6px; color: white; text-align: center;">
-  <h2 style="font-weight: 600;"><i class="fa fa-book"></i> ESTUDIO DE CASO –
-    EVALUACIÓN DE EXPOSICIÓN A RUIDO</h2>
-  <p style="text-align: justify; max-width: 900px; margin: auto;">Desarrolle los
-    siguientes momentos aplicando fundamentos de Higiene Industrial, cálculo en
-    decibeles y criterios normativos en Seguridad y Salud en el Trabajo.</p>
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; padding: 10px 0;">
+  <div class="container-fluid py-2" style="max-width: 1100px; margin: 0 auto;">
+    <!-- CONTENEDOR PRINCIPAL -->
+    <div
+      style="background: #ffffff; border-radius: 16px; overflow: hidden; box-shadow: 0 15px 35px rgba(0,45,90,0.12); border: 1px solid #cbd5e1;">
+      <!-- ENCABEZADO ACADÉMICO -->
+      <div
+        style="background: linear-gradient(135deg, #002d5a 0%, #004a8f 100%); color: white; padding: 30px 25px; text-align: center; border-bottom: 6px solid #ffc107;">
+        <div
+          style="display: inline-block; background: rgba(255, 255, 255, 0.15); padding: 10px 16px; border-radius: 50px; font-size: 26px; margin-bottom: 10px;">
+          📚🔊</div>
+        <h2
+          style="margin: 0; font-weight: 800; font-size: 24px; text-transform: uppercase; letter-spacing: 1px; color: #ffffff;">
+          ESTUDIO DE CASO – EVALUACIÓN DE EXPOSICIÓN A RUIDO</h2>
+        <p
+          style="margin: 10px auto 0 auto; font-size: 15px; color: #e2e8f0; line-height: 1.6; max-width: 900px; text-align: justify;">
+          Desarrolle los siguientes momentos aplicando fundamentos de Higiene
+          Industrial, cálculo en decibeles y criterios normativos en Seguridad y
+          Salud en el Trabajo.</p>
+      </div>
+      <!-- CUERPO DEL ACORDEÓN INTERACTIVO -->
+      <div style="padding: 25px; background-color: #f8fafc;">
+        <!-- ================= MOMENTO 1 ================= -->
+        <details
+          style="background: #ffffff; border: 1px solid #cbd5e1; border-radius: 10px; margin-bottom: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.03); overflow: hidden;"
+          open="">
+          <summary
+            style="background: #e9eef5; padding: 15px 20px; font-weight: bold; font-size: 16px; color: #002d5a; cursor: pointer; border-bottom: 1px solid #cbd5e1; outline: none; display: flex; align-items: center; gap: 10px;">
+            <span style="font-size: 18px;">📊</span> MOMENTO 1 – IDENTIFICACIÓN
+            Y REGISTRO DE DATOS</summary>
+          <div
+            style="padding: 20px; text-align: justify; line-height: 1.6; color: #334155;">
+            <p style="margin-top: 0;">Complete la siguiente matriz técnica con
+              la información del caso:</p>
+            <div style="overflow-x: auto;">
+              <table
+                style="width: 100%; border-collapse: collapse; text-align: center; border: 1px solid #cbd5e1; font-size: 14px;">
+                <thead>
+                  <tr
+                    style="background-color: #d9e2ef; color: #002d5a; font-weight: bold;">
+                    <th style="padding: 10px; border: 1px solid #cbd5e1;">
+                      Máquina</th>
+                    <th style="padding: 10px; border: 1px solid #cbd5e1;">LAeq,T
+                      (dB)</th>
+                    <th style="padding: 10px; border: 1px solid #cbd5e1;">Tiempo
+                      de Medición</th>
+                    <th style="padding: 10px; border: 1px solid #cbd5e1;">Tiempo
+                      de Exposición</th>
+                    <th style="padding: 10px; border: 1px solid #cbd5e1;">
+                      Descripción del Proceso</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td
+                      style="padding: 10px; border: 1px solid #cbd5e1; font-weight: 600;">
+                      Máquina 1</td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                  </tr>
+                  <tr style="background-color: #f8fafc;">
+                    <td
+                      style="padding: 10px; border: 1px solid #cbd5e1; font-weight: 600;">
+                      Máquina 2</td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                  </tr>
+                  <tr>
+                    <td
+                      style="padding: 10px; border: 1px solid #cbd5e1; font-weight: 600;">
+                      Máquina 3</td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                  </tr>
+                  <tr style="background-color: #f8fafc;">
+                    <td
+                      style="padding: 10px; border: 1px solid #cbd5e1; font-weight: 600;">
+                      Máquina 4</td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                    <td style="padding: 10px; border: 1px solid #cbd5e1;"> </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </details>
+        <!-- ================= MOMENTO 2 ================= -->
+        <details
+          style="background: #ffffff; border: 1px solid #cbd5e1; border-radius: 10px; margin-bottom: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.03); overflow: hidden;">
+          <summary
+            style="background: #e9eef5; padding: 15px 20px; font-weight: bold; font-size: 16px; color: #002d5a; cursor: pointer; border-bottom: 1px solid #cbd5e1; outline: none; display: flex; align-items: center; gap: 10px;">
+            <span style="font-size: 18px;">🧮</span> MOMENTO 2 – CÁLCULO Y
+            VALORACIÓN DEL RIESGO</summary>
+          <div
+            style="padding: 20px; text-align: justify; line-height: 1.6; color: #334155;">
+            <p style="margin-top: 0;"><strong style="color: #002d5a;">📈 Paso
+                1:</strong> Calcule el Nivel de Presión Sonora Equivalente
+              Diario (LAeq,d) considerando una jornada laboral de 8 horas.</p>
+            <p><strong style="color: #002d5a;">⚖️ Paso 2:</strong> Compare el
+              resultado con los límites permisibles establecidos en la normativa
+              vigente en Seguridad y Salud en el Trabajo.</p>
+            <p><strong style="color: #002d5a;">⚠️ Paso 3:</strong> Clasifique el
+              nivel de riesgo y sustente técnicamente su análisis:</p>
+            <div style="overflow-x: auto; margin-bottom: 20px;">
+              <table
+                style="width: 100%; border-collapse: collapse; font-size: 14px; text-align: center; border: 1px solid #cbd5e1;">
+                <thead>
+                  <tr
+                    style="background-color: #d9e2ef; color: #002d5a; font-weight: bold;">
+                    <th style="padding: 10px; border: 1px solid #cbd5e1;">LAeq,d
+                      Calculado (dB)</th>
+                    <th style="padding: 10px; border: 1px solid #cbd5e1;">Límite
+                      Permisible (8 h)</th>
+                    <th style="padding: 10px; border: 1px solid #cbd5e1;">Nivel
+                      de Riesgo (Alto – Medio – Bajo)</th>
+                    <th style="padding: 10px; border: 1px solid #cbd5e1;">
+                      Justificación Técnica</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td style="height: 45px; border: 1px solid #cbd5e1;"> </td>
+                    <td
+                      style="padding: 10px; border: 1px solid #cbd5e1; font-weight: bold; color: #0284c7;">
+                      85 dB(A)</td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td
+                      style="border: 1px solid #cbd5e1; text-align: justify; padding: 10px;">
+                       </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!-- ESCALA DE VALORACIÓN -->
+            <div
+              style="background-color: #f1f5f9; padding: 15px; border-radius: 8px; font-size: 14px; border-left: 4px solid #002d5a;">
+              <strong style="color: #002d5a;">Nota técnica – Escala de
+                valoración:</strong>
+              <ul style="margin: 8px 0 0 0; padding-left: 20px;">
+                <li>Si el LAeq,d es <strong>menor que 80 dB(A)</strong> → Riesgo
+                  <span style="color: #16a34a; font-weight: bold;">BAJO</span>.
+                </li>
+                <li>Si el LAeq,d se encuentra <strong>entre 80 dB(A) y 85
+                    dB(A)</strong> → Riesgo <span
+                    style="color: #d97706; font-weight: bold;">MEDIO</span>.
+                </li>
+                <li>Si el LAeq,d es <strong>mayor que 85 dB(A)</strong> → Riesgo
+                  <span style="color: #dc2626; font-weight: bold;">ALTO</span>.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </details>
+        <!-- ================= MOMENTO 3 ================= -->
+        <details
+          style="background: #ffffff; border: 1px solid #cbd5e1; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.03); overflow: hidden;">
+          <summary
+            style="background: #e9eef5; padding: 15px 20px; font-weight: bold; font-size: 16px; color: #002d5a; cursor: pointer; border-bottom: 1px solid #cbd5e1; outline: none; display: flex; align-items: center; gap: 10px;">
+            <span style="font-size: 18px;">🛡️</span> MOMENTO 3 – PLAN DE
+            INTERVENCIÓN Y CONSERVACIÓN AUDITIVA</summary>
+          <div
+            style="padding: 20px; text-align: justify; line-height: 1.6; color: #334155;">
+            <!-- COMPONENTES DEL PROGRAMA DE CONSERVACIÓN AUDITIVA -->
+            <div
+              style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #002d5a; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+              <h4
+                style="color: #002d5a; margin-top: 0; font-size: 16px; font-weight: bold;">
+                Componentes Clave del Programa de Conservación Auditiva (PCA)
+              </h4>
+              <ul
+                style="margin: 10px 0 0 0; padding-left: 20px; line-height: 1.8;">
+                <li><strong>Monitoreo del Ruido:</strong> Identificación y
+                  medición de áreas y máquinas con altos niveles de ruido
+                  mediante sonómetros o dosímetros.</li>
+                <li><strong>Controles de Ingeniería y Administrativos:</strong>
+                  Medidas para reducir el ruido en la fuente, tales como
+                  mantenimiento de máquinas, barreras acústicas o rotación de
+                  personal.</li>
+                <li><strong>Equipos de Protección Personal (EPP):</strong>
+                  Suministro de tapones u orejeras adecuados para el nivel de
+                  exposición.</li>
+                <li><strong>Audiometrías:</strong> Exámenes auditivos periódicos
+                  para detectar cambios tempranos en la audición de los
+                  trabajadores.</li>
+                <li><strong>Capacitación y Motivación:</strong> Instrucción
+                  anual al personal sobre los riesgos del ruido, el uso correcto
+                  y mantenimiento de los protectores auditivos.</li>
+                <li><strong>Mantenimiento de Registros:</strong> Documentación
+                  de todos los estudios de ruido, exámenes médicos y
+                  capacitaciones. <span
+                    style="font-size: 12px; color: #64748b; font-style: italic;">Medical
+                    Assistant - Salud Ocupacional +4</span></li>
+              </ul>
+            </div>
+            <p style="margin-top: 15px;">Elabore el Plan de Intervención
+              aplicando la jerarquía de controles:</p>
+            <div style="overflow-x: auto; margin-bottom: 25px;">
+              <table
+                style="width: 100%; border-collapse: collapse; font-size: 13px; border: 1px solid #cbd5e1;">
+                <thead>
+                  <tr
+                    style="background-color: #d9e2ef; color: #002d5a; text-align: center; font-weight: bold;">
+                    <th style="padding: 8px; border: 1px solid #cbd5e1;">Tipo de
+                      Control</th>
+                    <th style="padding: 8px; border: 1px solid #cbd5e1;">Medida
+                      Propuesta</th>
+                    <th style="padding: 8px; border: 1px solid #cbd5e1;">
+                      Descripción Técnica</th>
+                    <th style="padding: 8px; border: 1px solid #cbd5e1;">
+                      Objetivo</th>
+                    <th style="padding: 8px; border: 1px solid #cbd5e1;">
+                      Responsable</th>
+                    <th style="padding: 8px; border: 1px solid #cbd5e1;">
+                      Recursos</th>
+                    <th style="padding: 8px; border: 1px solid #cbd5e1;">Tiempo
+                    </th>
+                    <th style="padding: 8px; border: 1px solid #cbd5e1;">
+                      Indicador</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td
+                      style="padding: 8px; border: 1px solid #cbd5e1; background: #f8fafc;">
+                      <strong>Control en la Fuente</strong></td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                  </tr>
+                  <tr>
+                    <td
+                      style="padding: 8px; border: 1px solid #cbd5e1; background: #f8fafc;">
+                      <strong>Control en el Medio</strong></td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                  </tr>
+                  <tr>
+                    <td
+                      style="padding: 8px; border: 1px solid #cbd5e1; background: #f8fafc;">
+                      <strong>Control Administrativo</strong></td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                  </tr>
+                  <tr>
+                    <td
+                      style="padding: 8px; border: 1px solid #cbd5e1; background: #f8fafc;">
+                      <strong>Elemento de Protección Personal</strong></td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                    <td style="border: 1px solid #cbd5e1;"> </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!-- IMAGEN DE JERARQUÍA DE CONTROLES (CORREGIDA LA RUTA SI FUESE NECESARIO) -->
+            <div
+              style="text-align: center; margin-bottom: 25px; background: #ffffff; padding: 15px; border-radius: 8px; border: 1px solid #cbd5e1;">
+              <p
+                style="font-weight: bold; margin-bottom: 10px; color: #002d5a;">
+                Figura 1. Jerarquía de Control de Riesgos (ISO 45001)</p>
+              <img class="img-fluid"
+                style="max-width: 70%; height: auto; border-radius: 6px; border: 1px solid #e2e8f0;"
+                src="https://aulasvirtuales.unicamacho.edu.co/draftfile.php/766258/user/draft/358157502/heirarchycontrols_spanish-1024x768.png"
+                alt="Jerarquía de Control de Riesgos ISO 45001">
+            </div>
+            <!-- ENTREGA -->
+            <div
+              style="background-color: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #cbd5e1; border-left: 5px solid #002d5a; margin-bottom: 15px;">
+              <strong style="color: #002d5a; font-size: 15px;">📤
+                Entrega:</strong>
+              <ul
+                style="margin: 10px 0 0 0; padding-left: 20px; line-height: 1.8;">
+                <li>Portada institucional</li>
+                <li>Matriz diligenciada completamente</li>
+                <li>Cálculos desarrollados</li>
+                <li>Valoración del riesgo</li>
+                <li>Plan de intervención coherente con el nivel de riesgo</li>
+                <li>Conclusiones técnicas</li>
+              </ul>
+            </div>
+            <!-- NOTA IA -->
+            <div
+              style="background-color: #eff6ff; padding: 15px; border-radius: 8px; font-size: 13px; text-align: justify; border: 1px solid #bfdbfe; color: #1e40af;">
+              <strong>Nota:</strong> Para la elaboración del Plan de
+              Intervención, los estudiantes pueden utilizar herramientas de
+              apoyo basadas en inteligencia artificial como Google Gemini,
+              siempre que el análisis, adaptación técnica y responsabilidad
+              académica del contenido sean propios.</div>
+          </div>
+        </details>
+      </div>
+      <!-- BANNER DE EVALUACIÓN FINAL -->
+      <div
+        style="background-color: #002d5a; padding: 18px 25px; color: white; text-align: center; font-weight: 600; font-size: 14px; border-top: 4px solid #ffc107;">
+        ⚖️ La rigurosidad técnica, coherencia normativa y claridad metodológica
+        serán criterios fundamentales de evaluación.</div>
+    </div>
+  </div>
 </section>
 <p></p>
-<div id="acordeonGeneral" class="accordion">
-  <!-- ================= MOMENTO 1 ================= -->
-  <div class="card">
-    <div class="card-header" style="background-color: #e9eef5;">
-      <h5 class="mb-0"><button class="btn btn-link" type="button"
-          data-toggle="collapse" data-target="#momento1"> <i
-            class="fa fa-table"></i> MOMENTO 1 – IDENTIFICACIÓN Y REGISTRO DE
-          DATOS </button></h5>
-    </div>
-    <div id="momento1" class="collapse show" data-parent="#acordeonGeneral">
-      <div class="card-body" style="text-align: justify;">Complete la siguiente
-        matriz técnica con la información del caso: <br><br>
-        <table
-          style="width: 100%; border-collapse: collapse; text-align: center;"
-          border="1">
-          <tbody>
-            <tr style="background-color: #d9e2ef; font-weight: bold;">
-              <td>Máquina</td>
-              <td>LAeq,T (dB)</td>
-              <td>Tiempo de Medición</td>
-              <td>Tiempo de Exposición</td>
-              <td>Descripción del Proceso</td>
-            </tr>
-            <tr>
-              <td>Máquina 1</td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-            </tr>
-            <tr>
-              <td>Máquina 2</td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-            </tr>
-            <tr>
-              <td>Máquina 3</td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-            </tr>
-            <tr>
-              <td>Máquina 4</td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
-  </div>
-  <!-- ================= MOMENTO 2 ================= -->
-  <div class="card">
-    <div class="card-header" style="background-color: #e9eef5;">
-      <h5 class="mb-0"><button class="btn btn-link collapsed" type="button"
-          data-toggle="collapse" data-target="#momento2"> <i
-            class="fa fa-calculator"></i> MOMENTO 2 – CÁLCULO Y VALORACIÓN DEL
-          RIESGO </button></h5>
-    </div>
-    <div id="momento2" class="collapse" data-parent="#acordeonGeneral">
-      <div class="card-body" style="text-align: justify;">
-        <p><i class="fa fa-chart-line"></i> Calcule el Nivel de Presión Sonora
-          Equivalente Diario (LAeq,d) considerando una jornada laboral de 8
-          horas.</p>
-        <p><i class="fa fa-balance-scale"></i> Compare el resultado con los
-          límites permisibles establecidos en la normativa vigente en Seguridad
-          y Salud en el Trabajo.</p>
-        <p><i class="fa fa-exclamation-triangle"></i> Clasifique el nivel de
-          riesgo y sustente técnicamente su análisis:</p>
-        <table
-          style="width: 100%; border-collapse: collapse; font-size: 14px; text-align: center;"
-          border="1">
-          <tbody>
-            <tr style="background-color: #d9e2ef; font-weight: bold;">
-              <td>LAeq,d Calculado (dB)</td>
-              <td>Límite Permisible (8 h)</td>
-              <td>Nivel de Riesgo (Alto – Medio – Bajo)</td>
-              <td>Justificación Técnica</td>
-            </tr>
-            <tr>
-              <td style="height: 45px;"> </td>
-              <td>85 dB(A)</td>
-              <td> </td>
-              <td style="text-align: justify;"> </td>
-            </tr>
-          </tbody>
-        </table>
-        <br>
-        <div
-          style="background-color: #f4f6f9; padding: 12px; border-radius: 5px; font-size: 13px; text-align: justify;">
-          <strong>Nota técnica – Escala de valoración:</strong><br>• Si el
-          LAeq,d es <strong>menor que 80 dB(A)</strong> → Riesgo
-          <strong>BAJO</strong>.<br>• Si el LAeq,d se encuentra <strong>entre 80
-            dB(A) y 85 dB(A)</strong> → Riesgo <strong>MEDIO</strong>.<br>• Si
-          el LAeq,d es <strong>mayor que 85 dB(A)</strong> → Riesgo
-          <strong>ALTO</strong>.</div>
-      </div>
-    </div>
-  </div>
-  <!-- ================= MOMENTO 3 ================= -->
-  <div class="card">
-    <div class="card-header" style="background-color: #e9eef5;">
-      <h5 class="mb-0"><button class="btn btn-link collapsed" type="button"
-          data-toggle="collapse" data-target="#momento3"> <i
-            class="fa fa-shield-alt"></i> MOMENTO 3 – PLAN DE INTERVENCIÓN
-        </button></h5>
-    </div>
-    <div id="momento3" class="collapse" data-parent="#acordeonGeneral">
-      <div class="card-body" style="text-align: justify;">Elabore el Plan de
-        Intervención aplicando la jerarquía de controles. <br><br>
-        <table style="width: 100%; border-collapse: collapse; font-size: 14px;"
-          border="1">
-          <tbody>
-            <tr
-              style="background-color: #d9e2ef; text-align: center; font-weight: bold;">
-              <td>Tipo de Control</td>
-              <td>Medida Propuesta</td>
-              <td>Descripción Técnica</td>
-              <td>Objetivo</td>
-              <td>Responsable</td>
-              <td>Recursos</td>
-              <td>Tiempo</td>
-              <td>Indicador</td>
-            </tr>
-            <tr>
-              <td><strong>Control en la Fuente</strong></td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-            </tr>
-            <tr>
-              <td><strong>Control en el Medio</strong></td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-            </tr>
-            <tr>
-              <td><strong>Control Administrativo</strong></td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-            </tr>
-            <tr>
-              <td><strong>Elemento de Protección Personal</strong></td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-              <td> </td>
-            </tr>
-          </tbody>
-        </table>
-        <br><br><!-- IMAGEN JERARQUÍA DE CONTROLES -->
-        <p style="text-align: center; font-weight: bold; margin-bottom: 8px;">
-          Figura 1. Jerarquía de Control de Riesgos (ISO 45001)</p>
-        <div style="text-align: center;"><img class="img-fluid"
-            style="width: 70%; height: auto; border: 1px solid #ccc;"
-            src="https://aulasvirtuales.unicamacho.edu.co/draftfile.php/766258/user/draft/212056177/1603772199071%20%282%29.jpg"
-            alt="Jerarquía de Control de Riesgos ISO 45001"></div>
-        <p style="text-align: center; font-size: 13px; margin-top: 6px;">Fuente:
-          Twind. Jerarquía de control de riesgos – ISO 45001. Disponible en:
-          https://twind.io/es/jerarquia-de-control-de-riesgos-iso-45001/</p>
-        <br><!-- ENTREGA -->
-        <div
-          style="background-color: #ffffff; padding: 15px; border-radius: 5px; border: 1px solid #dcdcdc;">
-          <strong><i class="fa fa-upload"></i> Entrega:</strong>
-          <ul>
-            <li>Portada institucional</li>
-            <li>Matriz diligenciada completamente</li>
-            <li>Cálculos desarrollados</li>
-            <li>Valoración del riesgo</li>
-            <li>Plan de intervención coherente con el nivel de riesgo</li>
-            <li>Conclusiones técnicas</li>
-          </ul>
-        </div>
-        <br>
-        <div
-          style="background-color: #f4f6f9; padding: 12px; border-radius: 5px; font-size: 13px; text-align: justify;">
-          <strong>Nota:</strong> Para la elaboración del Plan de Intervención,
-          los estudiantes pueden utilizar herramientas de apoyo basadas en
-          inteligencia artificial como Google Gemini, siempre que el análisis,
-          adaptación técnica y responsabilidad académica del contenido sean
-          propios.</div>
-      </div>
-    </div>
-  </div>
-  <p></p>
-  <section
-    style="background-color: #1f3a5f; padding: 15px; border-radius: 6px; color: white; text-align: center;">
-    <strong> La rigurosidad técnica, coherencia normativa y claridad
-      metodológica serán criterios fundamentales de evaluación. </strong>
-  </section>
-</div>
