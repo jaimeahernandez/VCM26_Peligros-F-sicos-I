@@ -1,91 +1,223 @@
-<p></p>
-<section
-  style="background-color: #1f3a5f; padding: 20px; border-radius: 6px; color: white; text-align: center;">
-  <h3 style="margin: 0; font-weight: 600;">RÚBRICA DE EVALUACIÓN – ESTUDIO DE
-    CASO</h3>
-  <p
-    style="margin-top: 8px; max-width: 900px; margin-left: auto; margin-right: auto;">
-    La evaluación del trabajo se realizará considerando criterios técnicos,
-    metodológicos y normativos propios de la Higiene Industrial y la Seguridad y
-    Salud en el Trabajo.</p>
-</section>
-<p></p>
-<div style="overflow-x: auto;">
-  <table
-    style="width: 100%; border-collapse: collapse; font-size: 14px; text-align: center;"
-    border="1">
-    <tbody>
-      <tr style="background-color: #d9e2ef; font-weight: bold;">
-        <td style="width: 18%;">Criterio de Evaluación</td>
-        <td style="width: 22%;">Desempeño Superior (4.5 – 5.0)</td>
-        <td style="width: 20%;">Desempeño Alto (4.0 – 4.4)</td>
-        <td style="width: 20%;">Desempeño Básico (3.0 – 3.9)</td>
-        <td style="width: 15%;">Desempeño Bajo (&lt; 3.0)</td>
-        <td style="width: 5%;">Peso</td>
-      </tr>
-      <tr>
-        <td><strong>1. Matriz de Identificación de Datos</strong></td>
-        <td>Matriz completamente diligenciada con coherencia técnica, unidades
-          correctas y descripción precisa del proceso.</td>
-        <td>Matriz diligenciada con mínimos errores formales o descriptivos.
-        </td>
-        <td>Matriz incompleta o con inconsistencias técnicas.</td>
-        <td>Información insuficiente o incorrecta.</td>
-        <td>20%</td>
-      </tr>
-      <tr>
-        <td><strong>2. Cálculo del LAeq,d</strong></td>
-        <td>Procedimiento correctamente aplicado, resultados exactos y
-          claramente presentados.</td>
-        <td>Cálculo adecuado con leves imprecisiones numéricas.</td>
-        <td>Errores parciales en el procedimiento o resultado final.</td>
-        <td>Procedimiento incorrecto o ausencia de cálculo.</td>
-        <td>20%</td>
-      </tr>
-      <tr>
-        <td><strong>3. Valoración del Nivel de Riesgo</strong></td>
-        <td>Clasificación coherente con la escala establecida y sustentación
-          técnica fundamentada.</td>
-        <td>Clasificación correcta con justificación parcialmente desarrollada.
-        </td>
-        <td>Clasificación poco sustentada o con debilidades argumentativas.</td>
-        <td>Clasificación incorrecta o sin justificación técnica.</td>
-        <td>20%</td>
-      </tr>
-      <tr>
-        <td><strong>4. Plan de Intervención</strong></td>
-        <td>Medidas coherentes con la jerarquía de controles, técnicamente
-          viables y bien estructuradas.</td>
-        <td>Plan adecuado con leves debilidades en profundidad técnica.</td>
-        <td>Medidas generales con limitada articulación técnica.</td>
-        <td>Propuestas incoherentes o insuficientes.</td>
-        <td>25%</td>
-      </tr>
-      <tr>
-        <td><strong>5. Fundamentación Normativa y Técnica</strong></td>
-        <td>Argumentación sólida basada en criterios normativos y conceptos de
-          Higiene Industrial.</td>
-        <td>Referencia normativa adecuada pero poco desarrollada.</td>
-        <td>Mención normativa superficial.</td>
-        <td>Ausencia de fundamentación técnica.</td>
-        <td>10%</td>
-      </tr>
-      <tr>
-        <td><strong>6. Presentación y Redacción Técnica</strong></td>
-        <td>Documento estructurado, redacción técnica clara, formato adecuado y
-          coherencia metodológica.</td>
-        <td>Presentación adecuada con mínimos errores formales.</td>
-        <td>Deficiencias en redacción o estructura.</td>
-        <td>Presentación inadecuada o desorganizada.</td>
-        <td>5%</td>
-      </tr>
-    </tbody>
-  </table>
+<div
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 1100px; margin: 0 auto; color: #1e293b;">
+  <!-- BANNER ENCABEZADO -->
+  <section
+    style="background: linear-gradient(135deg, #002d5a 0%, #0f172a 100%); padding: 25px 30px; border-radius: 12px 12px 0 0; color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border-bottom: 4px solid #e11d48;">
+    <div
+      style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 15px;">
+      <div><span
+          style="background-color: rgba(225, 29, 72, 0.3); color: #fda4af; padding: 4px 12px; border-radius: 20px; font-size: 11px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; border: 1px solid rgba(253, 164, 175, 0.4);"> Criterio
+          de Aprobación</span>
+        <h2
+          style="margin: 8px 0 0 0; font-size: 22px; font-weight: 800; letter-spacing: 0.5px; text-transform: uppercase; color: #ffffff;">
+          RÚBRICA DE EVALUACIÓN – ESTUDIO DE CASO CON SUSTENTACIÓN</h2>
+      </div>
+      <div
+        style="background: rgba(255, 255, 255, 0.08); padding: 8px 16px; border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.15); text-align: right;">
+        <span
+          style="display: block; font-size: 11px; color: #94a3b8; text-transform: uppercase; font-weight: 600;">Ponderación
+          Principal</span> <strong style="color: #f43f5e; font-size: 14px;">50%
+          Escrito | 50% Sustentación</strong></div>
+    </div>
+  </section>
+  <!-- TARJETA DE ALERTA CRÍTICA: CLÁUSULA ELIMINATORIA -->
+  <section
+    style="background-color: #fff1f2; border: 2px solid #fecdd3; border-left: 8px solid #be123c; padding: 20px 24px; margin: 20px 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(190, 18, 60, 0.08);">
+    <div style="display: flex; align-items: flex-start; gap: 15px;">
+      <div
+        style="background-color: #be123c; color: #ffffff; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-weight: bold; font-size: 20px;">
+        ⚠️</div>
+      <div>
+        <h4
+          style="margin: 0 0 6px 0; color: #881337; font-size: 16px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">
+          REGLA DE ORO Y CLÁUSULA DE APROBACIÓN VINCULANTE</h4>
+        <p
+          style="margin: 0 0 8px 0; color: #9f1239; font-size: 13.5px; line-height: 1.5; text-align: justify;">
+          El uso de Herramientas de IA para estructurar el informe escrito está
+          permitido como apoyo, <strong>pero NO reemplaza la apropiación del
+            conocimiento</strong>. Por lo tanto, la sustentación verbal es la
+          prueba definitiva de competencia.</p>
+        <div
+          style="background-color: #ffe4e6; padding: 10px 14px; border-radius: 6px; border: 1px solid #fda4af; font-size: 13px; color: #881337; font-weight: bold;">
+          📌 CONDICIÓN VINCULANTE: Si el estudiante o grupo reprobara la
+          Sustentación Verbal (Nota menor a 3.0), la NOTA FINAL DE LA ACTIVIDAD
+          será la calificación obtenida en la sustentación, anulando el puntaje
+          del trabajo escrito. ¡Debes ser capaz de defender tu trabajo sin leer!
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- TABLA DE RÚBRICA REAJUSTADA -->
+  <div
+    style="overflow-x: auto; background: #ffffff; border-radius: 8px; border: 1px solid #e2e8f0; box-shadow: 0 10px 25px rgba(0,0,0,0.05);">
+    <table
+      style="width: 100%; border-collapse: collapse; font-size: 13px; text-align: left;"
+      border="0">
+      <thead>
+        <tr style="background-color: #002d5a; color: #ffffff;">
+          <th
+            style="padding: 14px 12px; width: 26%; border-right: 1px solid rgba(255,255,255,0.1); font-weight: bold;">
+            Criterio &amp; Alineación RAA</th>
+          <th
+            style="padding: 14px 10px; width: 18%; border-right: 1px solid rgba(255,255,255,0.1); text-align: center; background-color: #065f46;">
+            Superior<br><span
+              style="font-size: 11px; font-weight: 400; opacity: 0.9;">(4.5 –
+              5.0)</span></th>
+          <th
+            style="padding: 14px 10px; width: 18%; border-right: 1px solid rgba(255,255,255,0.1); text-align: center; background-color: #1e40af;">
+            Alto<br><span
+              style="font-size: 11px; font-weight: 400; opacity: 0.9;">(4.0 –
+              4.4)</span></th>
+          <th
+            style="padding: 14px 10px; width: 18%; border-right: 1px solid rgba(255,255,255,0.1); text-align: center; background-color: #d97706;">
+            Básico<br><span
+              style="font-size: 11px; font-weight: 400; opacity: 0.9;">(3.0 –
+              3.9)</span></th>
+          <th
+            style="padding: 14px 10px; width: 14%; border-right: 1px solid rgba(255,255,255,0.1); text-align: center; background-color: #991b1b;">
+            Bajo<br><span
+              style="font-size: 11px; font-weight: 400; opacity: 0.9;">(&lt;
+              3.0)</span></th>
+          <th
+            style="padding: 14px 10px; width: 6%; text-align: center; background-color: #0f172a;">
+            Peso</th>
+        </tr>
+      </thead>
+      <tbody><!-- BLOQUE 1: INFORME ESCRITO (50%) -->
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+          <td
+            style="padding: 14px; background-color: #f8fafc; border-right: 2px solid #cbd5e1;">
+            <strong style="color: #002d5a; font-size: 14px; display: block;">1.
+              Identificación y Análisis del Caso</strong> <span
+              style="display: inline-block; background-color: #e0f2fe; color: #0369a1; font-size: 10px; font-weight: 800; padding: 2px 8px; border-radius: 4px; margin: 4px 0;">RAA
+              1</span>
+            <p style="margin: 4px 0 0 0; font-size: 11px; color: #64748b;">
+              Documento escrito: Matriz de exposición, identificación de fuentes
+              físicas y descripción de procesos.</p>
+          </td>
+          <td
+            style="padding: 12px; border-right: 1px solid #f1f5f9; vertical-align: top;">
+            Matriz impecable, variables físicas exactas y descripción detallada
+            de los procesos de trabajo.</td>
+          <td
+            style="padding: 12px; border-right: 1px solid #f1f5f9; vertical-align: top; background-color: #fafafa;">
+            Matriz completa con mínimos errores formales en unidades o
+            redacción.</td>
+          <td
+            style="padding: 12px; border-right: 1px solid #f1f5f9; vertical-align: top;">
+            Inconsistencias u omisiones parciales en la matriz de
+            identificación.</td>
+          <td
+            style="padding: 12px; border-right: 1px solid #f1f5f9; vertical-align: top; background-color: #fafafa;">
+            Información deficiente, datos equivocados o ausentes.</td>
+          <td
+            style="padding: 12px; text-align: center; font-weight: bold; color: #002d5a; background-color: #f8fafc; vertical-align: middle; border-left: 1px solid #e2e8f0;">
+            15%</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+          <td
+            style="padding: 14px; background-color: #f8fafc; border-right: 2px solid #cbd5e1;">
+            <strong style="color: #002d5a; font-size: 14px; display: block;">2.
+              Evaluación Cuantitativa del Riesgo</strong> <span
+              style="display: inline-block; background-color: #e0f2fe; color: #0369a1; font-size: 10px; font-weight: 800; padding: 2px 8px; border-radius: 4px; margin: 4px 0;">RAA
+              2</span>
+            <p style="margin: 4px 0 0 0; font-size: 11px; color: #64748b;">
+              Documento escrito: Memoria de cálculo ($L_{Aeq,d}$ / Dosis /
+              $A(8)$) y valoración del nivel de riesgo.</p>
+          </td>
+          <td
+            style="padding: 12px; border-right: 1px solid #f1f5f9; vertical-align: top;">
+            Cálculos exactos, aplicación correcta de fórmulas normativas y
+            categorización técnica del riesgo.</td>
+          <td
+            style="padding: 12px; border-right: 1px solid #f1f5f9; vertical-align: top; background-color: #fafafa;">
+            Cálculos adecuados con imprecisiones menores que no alteran la
+            categoría del riesgo.</td>
+          <td
+            style="padding: 12px; border-right: 1px solid #f1f5f9; vertical-align: top;">
+            Errores en el procedimiento matemático o inconsistencias en la
+            valoración del nivel de riesgo.</td>
+          <td
+            style="padding: 12px; border-right: 1px solid #f1f5f9; vertical-align: top; background-color: #fafafa;">
+            Procedimiento matemático erróneo o sin memoria de cálculo.</td>
+          <td
+            style="padding: 12px; text-align: center; font-weight: bold; color: #002d5a; background-color: #f8fafc; vertical-align: middle; border-left: 1px solid #e2e8f0;">
+            15%</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+          <td
+            style="padding: 14px; background-color: #f8fafc; border-right: 2px solid #cbd5e1;">
+            <strong style="color: #002d5a; font-size: 14px; display: block;">3.
+              Plan de Intervención &amp; Control</strong> <span
+              style="display: inline-block; background-color: #e0f2fe; color: #0369a1; font-size: 10px; font-weight: 800; padding: 2px 8px; border-radius: 4px; margin: 4px 0;">RAA
+              3</span>
+            <p style="margin: 4px 0 0 0; font-size: 11px; color: #64748b;">
+              Documento escrito: Medidas en Fuente, Medio y Persona, priorizando
+              ingeniería y base normativa.</p>
+          </td>
+          <td
+            style="padding: 12px; border-right: 1px solid #f1f5f9; vertical-align: top;">
+            Controles viables priorizados en Fuente/Medio. Excelente
+            fundamentación en normas nacionales/internacionales.</td>
+          <td
+            style="padding: 12px; border-right: 1px solid #f1f5f9; vertical-align: top; background-color: #fafafa;">
+            Plan adecuado con leves debilidades en la profundidad técnica o
+            sustento normativo.</td>
+          <td
+            style="padding: 12px; border-right: 1px solid #f1f5f9; vertical-align: top;">
+            Medidas genéricas con alta dependencia en EPP y mención normativa
+            superficial.</td>
+          <td
+            style="padding: 12px; border-right: 1px solid #f1f5f9; vertical-align: top; background-color: #fafafa;">
+            Propuestas incoherentes, irrealizables o sin fundamento normativo.
+          </td>
+          <td
+            style="padding: 12px; text-align: center; font-weight: bold; color: #002d5a; background-color: #f8fafc; vertical-align: middle; border-left: 1px solid #e2e8f0;">
+            20%</td>
+        </tr>
+        <!-- BLOQUE 2: SUSTENTACIÓN VERBAL (50% - FILTRO DEFINITIVO) -->
+        <tr
+          style="border-bottom: 2px solid #be123c; background-color: #fff1f2;">
+          <td
+            style="padding: 14px; background-color: #ffe4e6; border-right: 2px solid #be123c;">
+            <strong style="color: #881337; font-size: 14px; display: block;">4.
+              Sustentación Verbal &amp; Defensa Técnica</strong> <span
+              style="display: inline-block; background-color: #be123c; color: #ffffff; font-size: 10px; font-weight: 800; padding: 2px 8px; border-radius: 4px; margin: 4px 0;">RAA
+              1, 2 y 3 (EVALUACIÓN VITAL)</span>
+            <p
+              style="margin: 4px 0 0 0; font-size: 11px; color: #9f1239; line-height: 1.3;">
+              Apropiación personal, fluidez verbal, explicación del caso sin
+              leer y respuesta acertada a preguntas técnicas.</p>
+          </td>
+          <td
+            style="padding: 12px; border-right: 1px solid #fecdd3; vertical-align: top;">
+            Exposición 100% espontánea, dominio conceptual absoluto y respuestas
+            fluidas/exactas a los cuestionamientos del docente.</td>
+          <td
+            style="padding: 12px; border-right: 1px solid #fecdd3; vertical-align: top; background-color: #fffbfb;">
+            Exposición fluida con apoyos mínimos. Responde con solvencia la
+            mayoría de preguntas del docente.</td>
+          <td
+            style="padding: 12px; border-right: 1px solid #fecdd3; vertical-align: top;">
+            Exposición dependiente de lectura parcial. Dificultad o vacíos para
+            justificar el origen de los datos.</td>
+          <td
+            style="padding: 12px; border-right: 1px solid #fecdd3; vertical-align: top; background-color: #fffbfb;">
+            Lectura literal (90%+), incapacidad para responder preguntas básicas
+            o inasistencia. <strong>[REPRUEBA ACTIVIDAD]</strong></td>
+          <td
+            style="padding: 12px; text-align: center; font-weight: 800; color: #881337; background-color: #ffe4e6; vertical-align: middle; border-left: 1px solid #fecdd3; font-size: 15px;">
+            50%</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <!-- PIE DE PÁGINA -->
+  <footer
+    style="margin-top: 15px; background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px 18px; font-size: 12px; color: #475569; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+    <div><strong>Ponderación Total:</strong> 100% (50% Documento / 50% Defensa
+      Verbal)</div>
+    <div style="font-size: 11px; color: #64748b;">Alineado con los RAA de la
+      Asignatura - UNIAJC</div>
+  </footer>
 </div>
-<p></p>
-<section
-  style="background-color: #f4f6f9; padding: 12px; border-radius: 5px; font-size: 13px; text-align: justify;">
-  <strong>Nota Académica:</strong> La calificación final corresponderá a la
-  sumatoria ponderada de los criterios anteriores. Se valorará especialmente la
-  rigurosidad en el análisis, la coherencia en la clasificación del riesgo y la
-  aplicabilidad real del plan de intervención propuesto.</section>
