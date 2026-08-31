@@ -1,0 +1,83 @@
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO I -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">14.
+          Frecuencia y Percepción del Tono Sonora</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">〰️</span></div>
+    </div>
+    <!-- CUERPO DE LA PAGINA -->
+    <div class="card-body p-4 p-md-5"><!-- MARCO CONCEPTUAL / DEFINICIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-2"
+          style="color: #002d5a; font-size: 16px;">📌 Oscilaciones por Unidad de
+          Tiempo (Hercios)</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+          La <strong>frecuencia</strong> es una medida de cuántos ciclos
+          completos de una onda ocurren en un intervalo de tiempo determinado.
+          En el contexto de las ondas sonoras, representa la cantidad de
+          vibraciones por segundo y se mide en hercios (Hz).<br><br>Una
+          frecuencia baja (pocos ciclos por segundo, como 1 Hz) se percibe como
+          un tono grave. En cambio, una frecuencia alta (múltiples ciclos por
+          segundo, como 10 Hz o más) se percibe como un sonido agudo. La
+          frecuencia determina la tonalidad del ruido y influye de manera
+          directa en el tipo de riesgo auditivo al que están expuestos los
+          trabajadores.</p>
+      </div>
+      <!-- EJEMPLO PRÁCTICO EN ENTORNO LABORAL -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #fffbe6; border: 1px solid #ffe58f !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">⚙️</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #856404; font-size: 16px;">Ejemplo Ilustrativo:
+              Medición de Frecuencia Dominante en Maquinaria Industrial</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #533f03; margin-bottom: 0;">
+            Al evaluar el ruido producido por una máquina en una fábrica
+            mediante un sonómetro o un analizador de frecuencias, se determina
+            que el sonido emitido presenta una frecuencia dominante de 500
+            Hz.<br><br>Esto significa que la onda sonora completa 500 ciclos
+            (compresiones y rarefacciones) en cada segundo. Este dato es vital
+            en higiene industrial, ya que permite seleccionar protectores
+            auditivos con la atenuación adecuada para esa banda de frecuencia
+            específica.</p>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / FIGURA EXPLICATIVA -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 380px; object-fit: contain;"
+          src="https://www.shutterstock.com/shutterstock/photos/1854443230/display_1500/stock-vector-vector-scientific-or-educational-illustration-of-frequency-isolated-on-a-white-background-the-1854443230.jpg"
+          alt="Comparación visual entre bajas y altas frecuencias sonoras">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 11:</strong> Comparativa gráfica entre ondas de baja
+          frecuencia (sonidos graves, menos ciclos por segundo) y alta
+          frecuencia (sonidos agudos, más ciclos por segundo).</p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido I </small></div>
+  </div>
+</div>
