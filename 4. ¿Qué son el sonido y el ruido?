@@ -1,0 +1,86 @@
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO I -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">4.
+          Concepto de Sonido vs. Ruido</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">🎧</span></div>
+    </div>
+    <!-- CUERPO DE LA PAGINA -->
+    <div class="card-body p-4 p-md-5"><!-- MARCO CONCEPTUAL / DEFINICIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-2"
+          style="color: #002d5a; font-size: 16px;">📌 Diferenciación Física y
+          Criterio Subjetivo</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+          El <strong>sonido</strong> es la vibración mecánica que percibimos a
+          través del oído. El <strong>ruido</strong>, por su parte, se define
+          técnicamente como un <em>sonido no deseado o molesto</em>. La
+          distinción entre ambos conceptos depende tanto de la percepción del
+          receptor como de las circunstancias del entorno. <br><br>Desde la
+          perspectiva de la <strong>Higiene Industrial</strong>, cualquier
+          sonido que supere ciertos niveles de intensidad y frecuencia, o que se
+          mantenga por períodos prolongados de exposición, representa un peligro
+          directo para la salud auditiva del trabajador, independientemente de
+          si es percibido como molesto o no. Físicamente, el sonido se origina
+          por la vibración de un cuerpo que genera ligeros cambios y
+          fluctuaciones periódicas en la presión del aire.</p>
+      </div>
+      <!-- EJEMPLO PRÁCTICO / COMPARATIVA -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #e0f2fe; border: 1px solid #bae6fd !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">🌳</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #0369a1; font-size: 16px;">Ejemplo Ilustrativo:
+              Entorno Natural vs. Ruido de Impacto</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #0c4a6e; margin-bottom: 0;">
+            Imagina que estás en un parque tranquilo: el susurro de las hojas
+            con el viento o el canto de las aves son <strong>sonidos
+              agradables</strong> que complementan positivamente el entorno.
+            <br><br>Sin embargo, si de manera abrupta pasa un tren emitiendo
+            pitidos agudos y fricción de rieles, esas mismas ondas mecánicas se
+            transforman en <strong>ruido</strong>, ya que interfieren con el
+            bienestar y la concentración. Ambos fenómenos consisten en la
+            propagación de ondas de presión en el aire, pero difieren
+            drásticamente en su <em>aceptabilidad, confort ambiental e impacto
+              sobre la salud</em>.</p>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / ANIMACIÓN DE ONDAS SONORAS -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 380px; object-fit: contain;"
+          src="https://cdn.dribbble.com/users/6554494/screenshots/15005026/media/b612a68351124f87ff83439b871b5afe.gif"
+          alt="Animación de propagación de ondas sonoras y compresión de aire">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 3:</strong> Representación interactiva de la vibración
+          de un objeto y la propagación de las ondas de presión en el aire.</p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido I </small></div>
+  </div>
+</div>
