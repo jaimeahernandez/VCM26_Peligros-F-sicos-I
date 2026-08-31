@@ -1,0 +1,57 @@
+<!-- CONTENEDOR PRINCIPAL - RECURSO INTERACTIVO GENIALLY -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Actividad Interactiva </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">
+          Recurso Interactivo: Partes de una Onda</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">🧩</span></div>
+    </div>
+    <!-- CUERPO DE LA PÁGINA -->
+    <div class="card-body p-4 p-md-5"><!-- INSTRUCCIÓN DE LA ACTIVIDAD -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-2"
+          style="color: #002d5a; font-size: 16px;">📌 Instrucciones de la
+          Actividad</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+          Explore el siguiente recurso interactivo para identificar los
+          componentes anatómicos de una onda sonora (cresta, valle, longitud de
+          onda, amplitud y período). Interactúe con los elementos en pantalla
+          para afianzar los conceptos fundamentales antes de avanzar al análisis
+          cuantitativo del ruido en higiene industrial.</p>
+      </div>
+      <!-- EMBED DE GENIALLY (RESPONSIVE) -->
+      <div class="my-4 p-2 rounded"
+        style="background-color: #f8fafc; border: 1px solid #cbd5e1; box-shadow: inset 0 2px 4px rgba(0,0,0,0.03);">
+        <div style="width: 100%;">
+          <div
+            style="position: relative; padding-bottom: 57.35%; padding-top: 0; height: 0; overflow: hidden; border-radius: 6px;">
+            <iframe
+              style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+              title="Partes de una Onda"
+              src="https://view.genial.ly/65edf0c26e9b7900156e7d57" width="769"
+              height="441" frameborder="0" scrolling="yes"
+              allowfullscreen="allowfullscreen"></iframe></div>
+        </div>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido I </small></div>
+  </div>
+</div>
