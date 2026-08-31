@@ -1,0 +1,86 @@
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO I -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">7.
+          Nivel Sonoro Máximo (L_máx) en Fuentes Móviles</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">✈️</span></div>
+    </div>
+    <!-- CUERPO DE LA PAGINA -->
+    <div class="card-body p-4 p-md-5"><!-- MARCO CONCEPTUAL / DEFINICIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-2"
+          style="color: #002d5a; font-size: 16px;">📌 Picos de Presión Sonora y
+          Duración del Evento</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+          Para las fuentes de ruido en movimiento, como las aeronaves o el
+          tráfico vehicular, los niveles de presión sonora varían
+          considerablemente con el tiempo. El nivel de ruido aumenta a medida
+          que la fuente se aproxima y disminuye progresivamente al alejarse.
+          <br><br>En estas situaciones, resulta indispensable medir el
+          <strong>Nivel Sonoro Máximo (L_máx)</strong>, el cual registra el
+          valor pico de presión sonora alcanzado durante un evento acústico
+          específico. No obstante, el L_máx únicamente mide la intensidad
+          instantánea más alta, sin considerar la variable de duración: un
+          disparo produce un L_máx elevado de muy corta duración, mientras que
+          un tren de carga puede generar el mismo L_máx sostenido durante un
+          lapso prolongado.</p>
+      </div>
+      <!-- EJEMPLO PRÁCTICO EN ENTORNO LABORAL -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #fffbe6; border: 1px solid #ffe58f !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">🎸</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #856404; font-size: 16px;">Ejemplo Ilustrativo:
+              Monitoreo Acústico en Festivales y Eventos al Aire Libre</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #533f03; margin-bottom: 0;">
+            Un ejemplo práctico del uso del nivel sonoro máximo (L_máx) se
+            encuentra en la medición de ruido durante eventos masivos como
+            conciertos en vivo o festivales al aire libre.<br><br>En estos
+            escenarios, el (L_máx) se utiliza para registrar el pico más alto de
+            emisión acústica durante la presentación. Este parámetro permite
+            evaluar si se sobrepasan los techos normativos de emisión,
+            protegiendo tanto la salud auditiva de los asistentes y trabajadores
+            como el confort de las comunidades residentes adyacentes. Si el
+            (L_máx) excede los umbrales autorizados, el equipo técnico debe
+            aplicar atenuaciones inmediatas en la mezcla de sonido.</p>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / FIGURA EXPLICATIVA -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 380px; object-fit: contain;"
+          src="https://cdn.pixabay.com/animation/2023/10/22/03/31/03-31-40-761_512.gif"
+          alt="Demostración gráfica de la variación del nivel sonoro máximo Lmáx">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 6:</strong> Comportamiento dinámico de la presión
+          sonora y registro del pico máximo ((L_máx)) en eventos acústicos.</p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido I </small></div>
+  </div>
+</div>
