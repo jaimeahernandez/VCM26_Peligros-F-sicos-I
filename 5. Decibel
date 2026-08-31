@@ -1,0 +1,87 @@
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO I -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">5. El
+          Decibelio (dB) y la Escala Ponderada A (dBA)</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">📈</span></div>
+    </div>
+    <!-- CUERPO DE LA PAGINA -->
+    <div class="card-body p-4 p-md-5"><!-- MARCO CONCEPTUAL / DEFINICIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-2"
+          style="color: #002d5a; font-size: 16px;">📌 La Unidad Logarítmica y la
+          Ponderación Frecuencial</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+          El <strong>decibelio (dB)</strong> es la unidad logarítmica utilizada
+          para expresar la intensidad de un sonido respecto a un valor de
+          referencia. Dado que el oído humano responde de forma no lineal a la
+          presión sonora, la escala logarítmica permite condensar un rango de
+          presiones extremadamente amplio en valores manejables. <br><br>Para
+          ajustar las mediciones físicas al comportamiento fisiológico de la
+          audición humana, se aplica el filtro de <strong>escala de ponderación
+            A [dB(A)]</strong>. Esta curva atenuante imita la respuesta
+          subjetiva del oído atenuando las bajas y muy altas frecuencias,
+          enfocándose en la banda donde somos más sensibles. Por esta razón,
+          entidades internacionales como la <em>FAA, OSHA y NIOSH</em> utilizan
+          los dBA como parámetro oficial para evaluar la exposición ocupacional
+          y ambiental al ruido.</p>
+      </div>
+      <!-- EJEMPLO PRÁCTICO EN ENTORNO LABORAL -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #fffbe6; border: 1px solid #ffe58f !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">🏢</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #856404; font-size: 16px;">Ejemplo Ilustrativo:
+              Medición de Ruido en Entorno de Oficina</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #533f03; margin-bottom: 0;">
+            Imagina que estás trabajando en una oficina tranquila y de pronto
+            suena el timbre de un teléfono. El sonido es lo suficientemente
+            claro para llamar tu atención sin llegar a ser ensordecedor.
+            <br><br>Al utilizar un medidor de nivel sonoro (sonómetro) en ese
+            punto exacto, el equipo registra un valor de <strong>70 dB</strong>.
+            Esta cifra cuantifica objetivamente la intensidad del estímulo
+            acústico. En el contexto de Higiene Industrial, una lectura de 70 dB
+            clasifica como un ruido de intensidad moderada, aceptable para
+            tareas administrativas pero suficiente para generar distracción o
+            interrupción del confort acústico.</p>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / FIGURA EXPLICATIVA -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 380px; object-fit: contain;"
+          src="https://static.wixstatic.com/media/aa5dcd_05799a71c948415591f0b7efd56b2c0a~mv2.gif"
+          alt="Demostración dinámica de los niveles de intensidad sonora en decibelios">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 4:</strong> Escala comparativa de niveles de intensidad
+          sonora expresada en decibelios (dB).</p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido I </small></div>
+  </div>
+</div>
