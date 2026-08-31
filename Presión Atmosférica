@@ -1,0 +1,85 @@
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO I -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">1.
+          Presión Atmosférica y Presión Sonora</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">🔊</span></div>
+    </div>
+    <!-- CUERPO DE LA PAGINA -->
+    <div class="card-body p-4 p-md-5"><!-- MARCO CONCEPTUAL / DEFINICIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-2"
+          style="color: #002d5a; font-size: 16px;">📌 Concepto de Presión
+          Atmosférica</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+          Es la <strong>fuerza por unidad de área</strong> ejercida por una
+          columna atmosférica (todo el cuerpo de aire sobre el área
+          especificada). Esta fuerza se produce porque las moléculas de aire
+          están constantemente en movimiento y chocan entre sí y contra las
+          superficies circundantes, generando una presión que se transmite en
+          todas direcciones. La presión atmosférica disminuye con la altitud, ya
+          que existe menos masa de aire sobre una determinada área a medida que
+          se asciende en la atmósfera.</p>
+      </div>
+      <!-- EJEMPLO PRÁCTICO EN SST -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #fffbe6; border: 1px solid #ffe58f !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">📢</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #856404; font-size: 16px;">Ejemplo de Aplicación
+              Técnica: Altavoces de Alta Potencia</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #533f03; margin-bottom: 0;">
+            Un ejemplo claro de la relación entre la presión del aire y la
+            presión sonora se encuentra en los altavoces de alta potencia
+            (utilizados en conciertos o eventos masivos). El altavoz genera
+            <strong>ondas de sonido</strong> que se propagan a través del aire
+            mediante variaciones de presión que corresponden a las vibraciones
+            del equipo. <br><br>A mayor volumen o potencia, mayor será la
+            amplitud de estas ondas sonoras y, por ende, mayor la presión sonora
+            generada. Comprender esta dinámica es fundamental en <strong>Higiene
+              Industrial y SST</strong> para evaluar la percepción del sonido y
+            prevenir los posibles efectos nocivos en la salud auditiva. El
+            exceso de presión sonora puede causar <strong>daño auditivo temporal
+              o permanente</strong> si se superan los límites de exposición
+            seguros durante períodos prolongados.</p>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / FIGURA EXPLICATIVA -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 420px; object-fit: contain;"
+          src="https://aulasvirtuales.unicamacho.edu.co/draftfile.php/766258/user/draft/330818213/ChatGPT%20Image%2022%20ago%202026%2C%2016_29_51.png"
+          alt="Distribución de la presión atmosférica y moléculas de aire">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 1:</strong> Comportamiento de la presión atmosférica
+          según la altitud.</p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido I </small></div>
+  </div>
+</div>
