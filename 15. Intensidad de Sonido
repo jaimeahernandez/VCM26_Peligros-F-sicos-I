@@ -1,0 +1,85 @@
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO I -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">15.
+          Amplitud y Nivel de Presión Sonora (SPL)</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">📊</span></div>
+    </div>
+    <!-- CUERPO DE LA PAGINA -->
+    <div class="card-body p-4 p-md-5"><!-- MARCO CONCEPTUAL / DEFINICIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-2"
+          style="color: #002d5a; font-size: 16px;">📌 Magnitud de la Presión y
+          Percepción del Volumen</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+          La <strong>amplitud</strong> de una onda sonora determina la cantidad
+          de energía que transporta la onda y se manifiesta en la variación de
+          presión del medio. El oído humano percibe esta magnitud principalmente
+          como sonoridad o volumen.<br><br>Para cuantificar la presión del
+          sonido en relación con el umbral de audición humano, se utiliza el
+          <strong>Nivel de Presión Sonora (SPL)</strong>, medido en decibelios
+          (dB). La relación entre la amplitud física de la onda y el SPL
+          expresado en decibelios es de naturaleza logarítmica, lo que permite
+          comprimir la amplia escala de presiones que el oído puede percibir en
+          un rango numérico práctico para la evaluación higiénica.</p>
+      </div>
+      <!-- EJEMPLO PRÁCTICO EN ENTORNO LABORAL -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #fffbe6; border: 1px solid #ffe58f !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">🎧</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #856404; font-size: 16px;">Ejemplo Ilustrativo:
+              Comparación de Amplitudes en Distintos Entornos</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #533f03; margin-bottom: 0;">
+            En un entorno tranquilo como una biblioteca, las variaciones de
+            presión sonora (susurros, hojas al pasar) son mínimas; las ondas
+            sonoras presentan una <em>amplitud baja</em> (small amplitude),
+            registrando aproximadamente 40 dB SPL.<br><br>Por el contrario, en
+            un concierto o cerca de maquinaria pesada, la vibración genera
+            variaciones de presión intensas con una <em>amplitud alta</em>
+            (large amplitude), alcanzando niveles superiores a los 100 dB SPL.
+            Esto demuestra cómo a mayor desplazamiento molecular de la onda,
+            mayor es el nivel de presión sonora ejercido sobre el tímpano.</p>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / FIGURA EXPLICATIVA -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 380px; object-fit: contain;"
+          src="https://www.shutterstock.com/shutterstock/photos/2080264282/display_1500/stock-vector-vector-scientific-illustration-of-the-amplitude-of-a-wave-isolated-on-a-white-background-the-2080264282.jpg"
+          alt="Gráfica comparativa de amplitud pequeña vs amplitud grande en ondas sonoras">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 12:</strong> Representación gráfica del impacto de la
+          amplitud en una onda: la gráfica superior exhibe baja amplitud (menor
+          energía/dB), mientras la inferior muestra alta amplitud (mayor
+          energía/dB).</p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido I </small></div>
+  </div>
+</div>
