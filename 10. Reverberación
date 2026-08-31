@@ -1,0 +1,84 @@
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO I -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">10.
+          Reverberación y Acondicionamiento Acústico</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">🔊</span></div>
+    </div>
+    <!-- CUERPO DE LA PAGINA -->
+    <div class="card-body p-4 p-md-5"><!-- MARCO CONCEPTUAL / DEFINICIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-2"
+          style="color: #002d5a; font-size: 16px;">📌 Persistencia del Sonido
+          por Reflexiones Múltiples</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+          La <strong>reverberación</strong> es el fenómeno acústico en el cual
+          el sonido se refleja repetidamente en las superficies de una
+          habitación o espacio cerrado tras ser emitido por una fuente sonora.
+          Estas múltiples reflexiones generan la persistencia del sonido en el
+          ambiente aun después de que la fuente original ha cesado.<br><br>Este
+          fenómeno está influenciado por el tamaño, la forma del recinto y la
+          composición de los materiales en sus límites. Es especialmente
+          relevante en auditorios, salones de clase y entornos industriales,
+          donde una reverberación excesiva distorsiona la inteligibilidad de la
+          palabra e incrementa los niveles de ruido ambiental. Su control se
+          logra mediante técnicas de absorción y difusión acústica.</p>
+      </div>
+      <!-- EJEMPLO PRÁCTICO EN ENTORNO LABORAL -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #fffbe6; border: 1px solid #ffe58f !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">🏫</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #856404; font-size: 16px;">Ejemplo Ilustrativo:
+              Reverberación Excesiva en Salones de Clase</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #533f03; margin-bottom: 0;">
+            En un salón de clases con paredes, pisos y techos duros, las voces
+            del docente y de los estudiantes rebotan continuamente en las
+            superficies. La superposición de estas reflexiones continuas genera
+            un traslape sonoro que distorsiona el mensaje y aumenta el ruido de
+            fondo.<br><br>Esta acumulación de ecos hace que sea difícil seguir
+            la clase de manera clara, evidenciando la necesidad de aplicar
+            materiales absorbentes para acortar el tiempo de reverberación y
+            garantizar una comunicación efectiva.</p>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / FIGURA EXPLICATIVA -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 380px; object-fit: contain;"
+          src="https://cms.softdb.com/uploads/softdb_blog_reverberation_figure1_en_926cc82d6e.png"
+          alt="Esquema del fenómeno de reverberación y trayectoria de reflexiones">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 9:</strong> Trayectoria de la onda directa y sus
+          múltiples reflexiones generando el campo sonoro reverberante en un
+          recinto.</p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido I </small></div>
+  </div>
+</div>
