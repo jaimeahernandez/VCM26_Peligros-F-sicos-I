@@ -1,1 +1,85 @@
-
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO I -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">8.
+          Reflexión de la Onda Sonora y Acústica de Espacios</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">🧱</span></div>
+    </div>
+    <!-- CUERPO DE LA PAGINA -->
+    <div class="card-body p-4 p-md-5"><!-- MARCO CONCEPTUAL / DEFINICIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-2"
+          style="color: #002d5a; font-size: 16px;">📌 Comportamiento de la Onda
+          en Superficies Sólidas</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+          La <strong>reflexión de onda sonora</strong> es el fenómeno en el cual
+          una onda sonora incide sobre una superficie y parte de la energía es
+          devuelta en la dirección opuesta, mientras que el resto es absorbida o
+          transmitida por el medio. Este fenómeno ocurre al colisionar con
+          paredes, techos, pisos o barreras rígidas presentes en el entorno.
+          <br><br>La acumulación de reflexiones en recintos cerrados produce
+          efectos como amplificación, ecos y patrones de interferencia. En el
+          campo de la higiene industrial y el diseño arquitectónico (salas de
+          conciertos, estudios o naves industriales), el control de la reflexión
+          es indispensable para acondicionar el espacio y reducir el campo
+          sonoro reverberante.</p>
+      </div>
+      <!-- EJEMPLO PRÁCTICO EN ENTORNO LABORAL -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #fffbe6; border: 1px solid #ffe58f !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">🏠</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #856404; font-size: 16px;">Ejemplo Ilustrativo:
+              Reverberación y Eco en Habitaciones Vacías</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #533f03; margin-bottom: 0;">
+            Un ejemplo claro de reflexión ocurre al hablar dentro de un recinto
+            desocupado con paredes de concreto. Al emitir la voz ("¡Hola!"), las
+            ondas viajan en todas direcciones hasta chocar contra las paredes
+            lisas y rígidas.<br><br>Dado que el concreto refleja la mayor parte
+            de la energía acústica sin absorberla, las ondas rebotan de regreso
+            hacia el emisor. Si la distancia es adecuada, este retorno se
+            percibe como un eco distintivo o una reverberación prolongada. Este
+            principio demuestra cómo las superficies sólidas condicionan la
+            calidad y la percepción del sonido dentro de cualquier recinto.</p>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / FIGURA EXPLICATIVA -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 380px; object-fit: contain;"
+          src="https://www.skyradar.com/hs-fs/hubfs/Images/Animated-GIF/radar_principle.gif?width=750&amp;name=radar_principle.gif"
+          alt="Esquema animado del principio de reflexión de ondas sobre una superficie">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 7:</strong> Representación del rebote y retorno de la
+          energía de la onda tras incidir contra un obstáculo o barrera sólida.
+        </p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido I </small></div>
+  </div>
+</div>
