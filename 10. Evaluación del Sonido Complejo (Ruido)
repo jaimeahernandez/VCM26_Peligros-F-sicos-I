@@ -1,0 +1,118 @@
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO II -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">10.
+          Límites de Exposición Ocupacional al Ruido y Valoración del Riesgo
+        </h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">⚖️</span></div>
+    </div>
+    <!-- CUERPO DE LA PÁGINA -->
+    <div class="card-body p-4 p-md-5"><!-- MARCO CONCEPTUAL / DEFINICIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-3"
+          style="color: #002d5a; font-size: 16px;">📌 Criterios Normativos de
+          Exposición (Jornada de 8 Horas)</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 20px;">
+          Los <strong>límites de exposición al ruido</strong> representan los
+          niveles a los que los trabajadores pueden exponerse de manera segura
+          durante su jornada sin experimentar efectos adversos en su salud
+          auditiva. Basados en la evidencia científica y regulaciones de higiene
+          ocupacional, destacan dos umbrales clave para jornadas de 8 horas:</p>
+        <!-- LISTA DE LÍMITES Y MATRIZ -->
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          <li
+            style="margin-bottom: 12px; padding: 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.02);">
+            <strong style="color: #1e3a8a; font-size: 15px;">🟡 Límite de Acción
+              (LA):</strong> <span
+              style="color: #475569; font-size: 14.5px;">Establecido comúnmente
+              en <strong>80 dB(A)</strong>. Es el nivel mínimo a partir del cual
+              se deben implementar medidas preventivas, programas de vigilancia
+              epidemiológica y seguimiento higiénico.</span></li>
+          <li
+            style="margin-bottom: 12px; padding: 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.02);">
+            <strong style="color: #1e3a8a; font-size: 15px;">🔴 Límite
+              Permisible (LP):</strong> <span
+              style="color: #475569; font-size: 14.5px;">Establecido comúnmente
+              en <strong>85 dB(A)</strong>. Es el nivel máximo de ruido
+              tolerable en el ambiente laboral sin que se requieran controles
+              obligatorios e inmediatos de ingeniería/EPP para evitar daños
+              irreversibles.</span></li>
+          <li
+            style="padding: 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.02);">
+            <strong style="color: #1e3a8a; font-size: 15px;">📊 Valoración
+              Cualitativa del Riesgo:</strong>
+            <ul
+              style="margin-top: 8px; margin-bottom: 0; color: #475569; font-size: 14px;">
+              <li><strong>Riesgo BAJO:</strong> Exposición por debajo del Límite
+                de Acción (&lt; 80 dB).</li>
+              <li><strong>Riesgo MEDIO:</strong> Exposición entre el Límite de
+                Acción y el Límite Permisible (80 dB – 85 dB).</li>
+              <li><strong>Riesgo ALTO:</strong> Exposición que excede el Límite
+                Permisible (&gt; 85 dB).</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <!-- EJEMPLO PRÁCTICO / CASO DE EVALUACIÓN -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #fef2f2; border: 1px solid #fecaca !important; border-left: 5px solid #dc2626 !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">🚨</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #991b1b; font-size: 16px;">Caso Práctico de
+              Evaluación de Riesgo Higiénico</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #7f1d1d; margin-bottom: 0;">
+            En una planta industrial se realizó una dosimetría durante una
+            jornada laboral de 8 horas, obteniendo un valor de <strong>LEQ de 87
+              dB</strong> (con referencia de <strong>LA = 80 dB</strong> y
+            <strong>LP = 85 dB</strong>):<br><br><strong>1. Comparación con LA
+              (80 dB):</strong> El valor de 87 dB excede el Límite de Acción,
+            confirmando la necesidad de activar protocolos preventivos y
+            vigilancia médica.<br><strong>2. Comparación con LP (85
+              dB):</strong> Al superar también el Límite Permisible, se confirma
+            que el nivel no es seguro para una exposición continua de 8
+            horas.<br><br><strong>Conclusión:</strong> El puesto evaluado
+            presenta un nivel de riesgo <strong>ALTO</strong>, haciendo
+            prioritaria la intervención técnica inmediata para reducir los
+            niveles de emisión y el suministro obligatorio de protección
+            auditiva certificada.</p>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / FIGURA EXPLICATIVA -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 380px; object-fit: contain;"
+          src="https://www.consumercomplianceoutlook.org/-/media/cco/2023/third-issue/Risk-matrix-dial.jpg?sc_lang=en&amp;hash=22A1A3DABB5CF14BDE6761FF183B972D"
+          alt="Matriz y Dial de Evaluación de Riesgos">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 9:</strong> Indicador visual de categorización y
+          valoración de niveles de riesgo ocupacional.</p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido II </small></div>
+  </div>
+</div>
