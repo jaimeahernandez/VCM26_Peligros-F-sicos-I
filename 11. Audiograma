@@ -1,0 +1,123 @@
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO II -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">11.
+          Interpretación del Audiograma y Grados de Pérdida Auditiva</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">🎧</span></div>
+    </div>
+    <!-- CUERPO DE LA PÁGINA -->
+    <div class="card-body p-4 p-md-5"><!-- MARCO CONCEPTUAL / DEFINICIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-3"
+          style="color: #002d5a; font-size: 16px;">📌 Principios de Diagnóstico
+          Audiométrico</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 20px;">
+          Un <strong>audiograma</strong> es una herramienta gráfica de
+          diagnóstico utilizada en medicina laboral e higiene industrial para
+          evaluar la capacidad auditiva de una persona. Mide los umbrales de
+          audición en diferentes frecuencias e intensidades de volumen:</p>
+        <!-- LISTA DE COMPONENTES DEL AUDIOGRAMA -->
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          <li
+            style="margin-bottom: 12px; padding: 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.02);">
+            <strong style="color: #1e3a8a; font-size: 15px;">📐 Ejes del
+              Audiograma:</strong> <span
+              style="color: #475569; font-size: 14.5px;">El <em>eje
+                horizontal</em> representa las frecuencias medidas en Hertz
+              (Hz), desde tonos graves a la izquierda hasta agudos a la derecha.
+              El <em>eje vertical</em> representa la intensidad o nivel de
+              audición medido en decibelios (dB HL), donde los niveles
+              superiores representan intensidades más bajas (mejor audición) y
+              los inferiores mayores pérdidas.</span></li>
+          <li
+            style="margin-bottom: 12px; padding: 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.02);">
+            <strong style="color: #1e3a8a; font-size: 15px;">🔴🔵 Convenio de
+              Símbolos y Colores:</strong> <span
+              style="color: #475569; font-size: 14.5px;">Por convención clínica,
+              los resultados del <strong>Oído Derecho</strong> se grafican con
+              círculos (O) unidos por líneas de color <strong>rojo</strong>,
+              mientras que los del <strong>Oído Izquierdo</strong> se
+              representan con cruces (X) unidas por líneas de color
+              <strong>azul</strong>.</span></li>
+          <li
+            style="padding: 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.02);">
+            <strong style="color: #1e3a8a; font-size: 15px;">📊 Criterio de
+              Interpretación:</strong> <span
+              style="color: #475569; font-size: 14.5px;">Se evalúan las
+              frecuencias estandarizadas (250, 500, 1000, 2000, 4000 y 8000 Hz)
+              y se comparan los umbrales auditivos con los valores normales (≤
+              25 dB HL) para establecer el tipo y grado de alteración
+              auditiva.</span></li>
+        </ul>
+      </div>
+      <!-- EJEMPLO PRÁCTICO / INTERPRETACIÓN CASO -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #fef2f2; border: 1px solid #fecaca !important; border-left: 5px solid #dc2626 !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">📋</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #991b1b; font-size: 16px;">Ejemplo de Interpretación
+              de Resultados Audiométricos</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #7f1d1d; margin-bottom: 0;">
+            Al analizar el audiograma clínico de un trabajador se identifican
+            los siguientes grados de severidad según el rango de frecuencias:
+          </p>
+          <ul
+            style="margin-top: 10px; margin-bottom: 0; color: #7f1d1d; font-size: 14px; line-height: 1.7;">
+            <li><strong>Audición Normal (≤ 25 dB HL):</strong> La mayoría de los
+              umbrales baseline se mantienen por debajo del límite de 25 dB HL.
+            </li>
+            <li><strong>Pérdida Leve (25 – 40 dB HL):</strong> Registrada en la
+              frecuencia de 2000 Hz para el oído izquierdo. Puede dificultar la
+              captación de voces suaves o susurros en ambientes con ruido de
+              fondo.</li>
+            <li><strong>Pérdida Moderada (41 – 70 dB HL):</strong> Presente a
+              4000 Hz en el oído izquierdo y a 8000 Hz en el oído derecho. Causa
+              problemas para entender la conversación normal en tono medio.</li>
+            <li><strong>Pérdida Severa (71 – 90 dB HL):</strong> Identificada en
+              los 4000 Hz del oído derecho y en los 8000 Hz del oído izquierdo,
+              limitando seriamente la percepción de sonidos fuertes del habla.
+            </li>
+            <li><strong>Pérdida Profunda (&gt; 90 dB HL):</strong> Ausente en
+              este caso clínico específico.</li>
+          </ul>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / FIGURA EXPLICATIVA -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 400px; object-fit: contain;"
+          src="https://image.jimcdn.com/app/cms/image/transf/none/path/sa014c1f81b4024bd/image/i2a561a3f3ee1018e/version/1429029712/audiograma-la-l%C3%ADnea-roja-pertenece-al-o%C3%ADdo-derecho-la-l%C3%ADnea-azul-pertenece-al-o%C3%ADdo-izquierdo.jpg"
+          alt="Audiograma Clínico de Ejemplo">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 10:</strong> Gráfica de audiograma comparativa (Oído
+          Derecho - Línea Roja / Oído Izquierdo - Línea Azul).</p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido II </small></div>
+  </div>
+</div>
