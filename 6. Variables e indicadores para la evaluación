@@ -1,0 +1,119 @@
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO II -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">6.
+          Interacción Frecuencia-Intensidad y Variables de Medición</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">🎛️</span></div>
+    </div>
+    <!-- CUERPO DE LA PÁGINA -->
+    <div class="card-body p-4 p-md-5"><!-- MARCO CONCEPTUAL / DEFINICIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-3"
+          style="color: #002d5a; font-size: 16px;">📌 Relación Acústica y
+          Parámetros de Evaluación</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 20px;">
+          La relación entre la frecuencia y la intensidad del sonido es un
+          aspecto fundamental de la acústica y la percepción auditiva. Aunque no
+          hay una relación directa entre ellas, ambas características
+          interactúan para determinar cómo percibimos un sonido. Cuando se mide
+          un ruido o sonido complejo utilizando un equipo especializado
+          (Sonómetro o Dosímetro de Ruido), se busca conocer diversas variables
+          para comprender y evaluar adecuadamente su impacto.</p>
+        <!-- LISTA DE VARIABLES -->
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          <li
+            style="margin-bottom: 15px; padding: 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.02);">
+            <strong style="color: #1e3a8a; font-size: 15px;">🔊 Nivel de Presión
+              Sonora (SPL):</strong> <span
+              style="color: #475569; font-size: 14.5px;">Es la medida de la
+              intensidad del sonido y se expresa en decibelios (dB). Permite
+              cuantificar cuán fuerte es el ruido en una ubicación específica.
+              Representa la <em>intensidad instantánea</em> del sonido en un
+              momento específico en el tiempo, proporcionando información
+              puntual sin tener en cuenta la duración del ruido.</span></li>
+          <li
+            style="margin-bottom: 15px; padding: 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.02);">
+            <strong style="color: #1e3a8a; font-size: 15px;">⏱️ Nivel de Presión
+              Sonora Equivalente (LEQ):</strong> <span
+              style="color: #475569; font-size: 14.5px;">Representa el nivel de
+              presión sonora promedio durante un período de tiempo determinado.
+              Se calcula integrando y promediando los niveles de sonido en el
+              tiempo, lo que proporciona una medida más representativa de la
+              exposición durante un período prolongado (por ejemplo, un día
+              laboral completo).</span></li>
+          <li
+            style="padding: 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.02);">
+            <strong style="color: #1e3a8a; font-size: 15px;">📊 Distribución de
+              Frecuencias:</strong> <span
+              style="color: #475569; font-size: 14.5px;">El espectro de
+              frecuencia proporciona información sobre las diferentes
+              frecuencias presentes en el ruido. Ayuda a comprender no solo la
+              composición del sonido, sino también cómo puede afectar a las
+              personas teniendo en cuenta su rango conversacional y sensibilidad
+              auditiva.</span></li>
+        </ul>
+      </div>
+      <!-- EJEMPLO PRÁCTICO EN ENTORNO LABORAL -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #f1f5f9; border: 1px solid #cbd5e1 !important; border-left: 5px solid #334155 !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">🏭</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #1e293b; font-size: 16px;">Ejemplo de Aplicación en
+              Entorno Industrial</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+            Supongamos que trabajas en una fábrica con maquinarias ruidosas y tu
+            objetivo es evaluar los riesgos auditivos:<br><br><strong>1.
+              Medición de SPL:</strong> Utilizarás un sonómetro para medir el
+            SPL cerca de máquinas específicas. Esta medida instantánea te
+            ayudará a identificar las áreas con niveles de ruido más altos y
+            evaluar si superan los límites de exposición seguros al
+            instante.<br><strong>2. Evaluación con LEQ:</strong> Recopilarás
+            datos de SPL en intervalos regulares a lo largo del día y calcularás
+            el LEQ. Al promediar estos valores, obtendrás el nivel de exposición
+            diario promedio al ruido para los trabajadores.<br><strong>3.
+              Análisis de Frecuencias:</strong> Utilizarás un analizador de
+            espectro para descomponer el ruido. Esto te permitirá identificar
+            frecuencias dominantes o picos específicos que contribuyen
+            significativamente al nivel total, pudiendo ser molestos o tener
+            efectos nocivos puntuales en la audición.</p>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / FIGURA EXPLICATIVA -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 400px; object-fit: contain;"
+          src="https://siafa.com.ar/media/tinymce/411-5.png"
+          alt="Variables de Medición Acústica">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 6:</strong> Representación gráfica de la medición y
+          análisis de variables acústicas (SPL, LEQ y Frecuencia).</p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido II </small></div>
+  </div>
+</div>
