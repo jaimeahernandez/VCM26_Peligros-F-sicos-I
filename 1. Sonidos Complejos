@@ -1,0 +1,89 @@
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO II -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">1.
+          Clasificación Acústica: Sonidos Simples vs. Sonidos Complejos</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">🔊</span></div>
+    </div>
+    <!-- CUERPO DE LA PÁGINA -->
+    <div class="card-body p-4 p-md-5"><!-- MARCO CONCEPTUAL / DEFINICIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-3"
+          style="color: #002d5a; font-size: 16px;">📌 Naturaleza de la Onda
+          Sonora</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 12px;">
+          <strong>Sonidos Simples (<em>Simple Sound</em>):</strong> Se componen
+          de una sola frecuencia pura, lo que significa que la onda sonora posee
+          una única frecuencia fundamental. Estos sonidos son teóricos o ideales
+          y raramente se encuentran en estado puro en la naturaleza (por
+          ejemplo, el sonido emitido por un diapasón o una sirena electrónica de
+          frecuencia constante).</p>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+          <strong>Sonidos Complejos (<em>Complex Sound</em>):</strong> Están
+          formados por la combinación de múltiples frecuencias que se superponen
+          entre sí. Son los más habituales en la vida cotidiana, la música y,
+          especialmente, en los entornos de trabajo industriales (por ejemplo,
+          el sonido de un instrumento musical como el piano o una guitarra, que
+          produce armónicos y sobretonos).</p>
+      </div>
+      <!-- EJEMPLO PRÁCTICO EN ENTORNO LABORAL -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #fffbe6; border: 1px solid #ffe58f !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">🏭</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #856404; font-size: 16px;">Ejemplo Ilustrativo:
+              Caracterización del Ruido Complejo Industrial</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #533f03; margin-bottom: 0;">
+            Un ejemplo claro de sonido complejo es el generado en una línea de
+            producción industrial. Este ambiente integra el funcionamiento
+            simultáneo de motores, bandas transportadoras, prensas y
+            herramientas neumáticas, donde cada componente aporta su propia
+            frecuencia característica.<br><br>En términos higiénicos, un
+            <strong>ruido complejo</strong> se compone de múltiples frecuencias
+            (250 Hz, 500 Hz, 1 kHz, 2 kHz, etc.) que se superponen de manera
+            aleatoria, dando como resultado una señal sonora no tonal propia de
+            los entornos ocupacionales ocupados.</p>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / FIGURA EXPLICATIVA -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 420px; object-fit: contain;"
+          src="https://www.shutterstock.com/image-vector/complex-waveform-graph-a-made-600nw-774467374.jpg"
+          alt="Descomposición de una onda compleja en múltiples frecuencias">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 1:</strong> Representación gráfica de la superposición
+          de señales sonoras. Se observa cómo la onda compleja resultante
+          (Sonido A) está conformada por la suma de tres ondas de frecuencias
+          diferentes.</p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido II </small></div>
+  </div>
+</div>
