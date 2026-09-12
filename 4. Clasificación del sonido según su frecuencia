@@ -1,0 +1,110 @@
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO II -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">4.
+          Clasificación de Frecuencias</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">📊</span></div>
+    </div>
+    <!-- CUERPO DE LA PÁGINA -->
+    <div class="card-body p-4 p-md-5"><!-- MARCO CONCEPTUAL / DEFINICIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-3"
+          style="color: #002d5a; font-size: 16px;">📌 División del Espectro en
+          Bandas Estándar</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 15px;">
+          Las <strong>bandas de octava</strong> dividen el espectro audible en
+          intervalos donde la frecuencia superior de cada banda es
+          aproximadamente el doble de la anterior (frecuencias centrales
+          estándar: 31 Hz, 63 Hz, 125 Hz, 250 Hz, 500 Hz, 1000 Hz, 2000 Hz, 4000
+          Hz, 8000 Hz y 16000 Hz). Este esquema permite clasificar los sonidos
+          en tres grandes grupos espectrales:</p>
+        <div class="row">
+          <div class="col-12 mb-2">
+            <div
+              style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; padding: 12px 15px;">
+              <strong style="color: #1e3a8a;">• Bajas Frecuencias (31 Hz – 125
+                Hz / 250 Hz):</strong> Percibidas como sonidos graves y
+              profundos (motores pesados, tráfico denso, compresores). Tienen
+              alta capacidad de propagación a larga distancia y penetración
+              estructural.</div>
+          </div>
+          <div class="col-12 mb-2">
+            <div
+              style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; padding: 12px 15px;">
+              <strong style="color: #1e3a8a;">• Frecuencias Intermedias (250 Hz
+                – 2000 Hz):</strong> Alojan la voz humana y la mayoría de
+              sonidos ambientales moderados. Son determinantes para el confort y
+              la inteligibilidad del habla.</div>
+          </div>
+          <div class="col-12">
+            <div
+              style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; padding: 12px 15px;">
+              <strong style="color: #1e3a8a;">• Altas Frecuencias (2000 Hz –
+                16000 Hz):</strong> Sonidos perceptibles como agudos (chirrido
+              de frenos, herramientas de alta velocidad, alarmas). Generan una
+              rápida fatiga auditiva y malestar.</div>
+          </div>
+        </div>
+      </div>
+      <!-- EJEMPLO PRÁCTICO EN ENTORNO LABORAL -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #f0f9ff; border: 1px solid #bae6fd !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">🔬</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #0369a1; font-size: 16px;">Ejemplo Ilustrativo:
+              Evaluación de Riesgo y Control Específico por Frecuencia</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #0c4a6e; margin-bottom: 0;">
+            En la evaluación higiénica de un laboratorio universitario con
+            diversos equipos ruidosos, las medidas de control se diseñan en
+            función de la banda de frecuencia predominante:<br><br>•
+            <strong>Graves (Compresores / Ventilación):</strong> Requieren
+            barreras de masa pesada y protectores auditivos de alta atenuación
+            en bajas frecuencias, ya que estas penetran protecciones
+            estándar.<br>• <strong>Medias (Bombas de vacío /
+              Extractores):</strong> Exigen el encerramiento de maquinaria en
+            cabinas insonorizadas y límites de tiempo de exposición para evitar
+            la interferencia con la comunicación.<br>• <strong>Agudas
+              (Herramientas eléctricas / Vibraciones):</strong> Se mitigan
+            mediante amortiguadores de vibración y protectores auditivos con
+            atenuación efectiva en agudos.</p>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / FIGURA EXPLICATIVA -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 350px; object-fit: contain;"
+          src="https://recordingstudiorockstars.com/wp-content/uploads/2015/07/frequency1.png"
+          alt="Espectro de bandas de octava y distribución de frecuencia">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 4:</strong> División del espectro sonoro en bandas de
+          frecuencia y su relación con la respuesta tonal del oído humano.</p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido II </small></div>
+  </div>
+</div>
