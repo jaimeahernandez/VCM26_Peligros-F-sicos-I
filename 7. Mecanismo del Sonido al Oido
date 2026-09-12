@@ -1,0 +1,123 @@
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO II -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">7.
+          Transmisión del Sonido en el Oído Humano y Patologías Auditivas</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">👂</span></div>
+    </div>
+    <!-- CUERPO DE LA PÁGINA -->
+    <div class="card-body p-4 p-md-5">
+      <!-- MARCO CONCEPTUAL / ETAPAS DE TRANSMISIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-3"
+          style="color: #002d5a; font-size: 16px;">📌 Fases de la Transmisión y
+          Procesamiento Auditivo</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 20px;">
+          El proceso de transmisión del sonido a través del oído humano implica
+          varias estructuras especializadas que trabajan conjuntamente para
+          transformar las ondas de presión sonora en señales eléctricas
+          interpretables por el cerebro:</p>
+        <!-- LISTA DE ETAPAS -->
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          <li
+            style="margin-bottom: 12px; padding: 12px 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px;">
+            <strong style="color: #1e3a8a;">1. Oído Externo:</strong> Captado
+            por el pabellón auricular, el sonido se canaliza por el conducto
+            auditivo externo, el cual amplifica y dirige las ondas hacia el
+            tímpano.</li>
+          <li
+            style="margin-bottom: 12px; padding: 12px 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px;">
+            <strong style="color: #1e3a8a;">2. Tímpano (Membrana
+              Timpánica):</strong> Vibra en respuesta a la presión acústica,
+            amplificando y transmitiendo estas vibraciones hacia la cavidad del
+            oído medio.</li>
+          <li
+            style="margin-bottom: 12px; padding: 12px 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px;">
+            <strong style="color: #1e3a8a;">3. Oído Medio:</strong> Compuesto
+            por la cadena de huesecillos (martillo, yunque y estribo), los
+            cuales amplifican mecánicamente las vibraciones y las transfieren a
+            la ventana oval del oído interno.</li>
+          <li
+            style="margin-bottom: 12px; padding: 12px 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px;">
+            <strong style="color: #1e3a8a;">4. Oído Interno (Cóclea):</strong>
+            La vibración en la ventana oval desplaza el líquido contenido en la
+            cóclea en espiral, generando ondas en la membrana basilar.</li>
+          <li
+            style="margin-bottom: 12px; padding: 12px 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px;">
+            <strong style="color: #1e3a8a;">5. Células Ciliadas y Órgano de
+              Corti:</strong> Las células sensoriales auditivas alojadas en el
+            órgano de Corti se flexionan ante el movimiento del líquido,
+            transformando el estímulo mecánico en impulsos eléctricos.</li>
+          <li
+            style="margin-bottom: 12px; padding: 12px 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px;">
+            <strong style="color: #1e3a8a;">6. Nervio Auditivo:</strong> Conduce
+            los impulsos bioeléctricos generados a lo largo de la vía nerviosa
+            auditiva con dirección al SNC.</li>
+          <li
+            style="padding: 12px 15px; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px;">
+            <strong style="color: #1e3a8a;">7. Procesamiento Cerebral:</strong>
+            El córtex auditivo interpreta las señales eléctricas recibidas,
+            asignándoles significado y percepción consciente del sonido.</li>
+        </ul>
+      </div>
+      <!-- SECCIÓN DE ENFERMEDADES Y RIESGO AUDITIVO -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #f0fdf4; border: 1px solid #bbf7d0 !important; border-left: 5px solid #16a34a !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">⚠️</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #14532d; font-size: 16px;">Efectos de la Exposición
+              Ocupacional al Ruido</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #166534; margin-bottom: 0;">
+            La exposición continua y prolongada a elevados niveles de ruido daña
+            progresivamente las <strong>células ciliadas</strong> del oído
+            interno, produciendo diversas alteraciones
+            neurosensoriales:<br><br>• <strong>Tinnitus (Acúfenos):</strong>
+            Percepción constante o intermitente de zumbidos, pitidos o
+            chasquidos en ausencia de fuente sonora externa, lo que deteriora la
+            calidad de vida y la concentración.<br>• <strong>Hipoacusia
+              Ocupacional:</strong> Pérdida auditiva progresiva (temporal o
+            permanente), de mayor prevalencia en altas frecuencias. Disminuye
+            significativamente la capacidad de captar sonidos suaves, comprender
+            la palabra articulada y comunicarse eficientemente.</p>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / FIGURA ANIMADA -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 400px; object-fit: contain;"
+          src="https://media.baamboozle.com/uploads/images/118033/1668673608_394749.gif"
+          alt="Animación del Sistema Auditivo">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 7:</strong> Animación del mecanismo de propagación
+          sonora desde el pabellón auricular hasta la transducción en la cóclea.
+        </p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido II </small></div>
+  </div>
+</div>
