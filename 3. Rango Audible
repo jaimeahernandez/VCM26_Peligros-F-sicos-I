@@ -1,0 +1,108 @@
+<!-- CONTENEDOR PRINCIPAL - FUNDAMENTOS DE RUIDO II -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- TARJETA PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden"
+    style="background: #ffffff; border-top: 5px solid #002d5a !important;">
+    <!-- ENCABEZADO DE SECCIÓN -->
+    <div
+      class="card-header p-4 text-white d-flex align-items-center justify-content-between"
+      style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+      <div><span class="badge badge-warning text-dark font-weight-bold mb-2"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 5px 10px; border-radius: 4px;">
+          Peligros Físicos I • Unidad: Ruido </span>
+        <h3 class="mb-0 font-weight-bold"
+          style="color: #ffffff; font-size: 22px; letter-spacing: -0.5px;">3.
+          Rango Conversacional e Inteligibilidad del Habla</h3>
+      </div>
+      <div class="d-none d-md-block text-right"><span
+          style="font-size: 28px; opacity: 0.8;">🗣️</span></div>
+    </div>
+    <!-- CUERPO DE LA PÁGINA -->
+    <div class="card-body p-4 p-md-5"><!-- MARCO CONCEPTUAL / DEFINICIÓN -->
+      <div class="p-4 mb-4 rounded-right"
+        style="background-color: #f8fafc; border-left: 5px solid #002d5a; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+        <h5 class="font-weight-bold mb-3"
+          style="color: #002d5a; font-size: 16px;">📌 Desglose del Rango
+          Conversacional (250 Hz – 8000 Hz)</h5>
+        <p
+          style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 15px;">
+          El <strong>rango conversacional</strong> comprende la banda de
+          frecuencias cruciales para la comprensión e inteligibilidad del habla
+          humana durante la comunicación oral. Se subdivide técnicamente de la
+          siguiente manera:</p>
+        <div class="row">
+          <div class="col-12 mb-2">
+            <div
+              style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; padding: 12px 15px;">
+              <strong style="color: #1e3a8a;">• Frecuencias Bajas (250 Hz – 500
+                Hz):</strong> Esenciales para percibir los tonos graves del
+              habla, la sonoridad de las vocales más bajas y consonantes nasales
+              como la <em>"m"</em> y la <em>"n"</em>.</div>
+          </div>
+          <div class="col-12 mb-2">
+            <div
+              style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; padding: 12px 15px;">
+              <strong style="color: #1e3a8a;">• Frecuencias Medias (500 Hz –
+                2000 Hz):</strong> Representan el núcleo del espectro de
+              inteligibilidad, alojando la mayoría de consonantes y vocales
+              principales. Es el segmento más crítico para entender el mensaje
+              hablado.</div>
+          </div>
+          <div class="col-12">
+            <div
+              style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; padding: 12px 15px;">
+              <strong style="color: #1e3a8a;">• Frecuencias Altas (2000 Hz –
+                8000 Hz):</strong> Aportan la nitidez, calidad y diferenciación
+              entre fonemas similares, permitiendo la discriminación clara de
+              consonantes fricativas como la <em>"s"</em>, <em>"f"</em> y
+              <em>"sh"</em>.</div>
+          </div>
+        </div>
+      </div>
+      <!-- EJEMPLO PRÁCTICO EN ENTORNO LABORAL -->
+      <div class="card border-0 mb-4 rounded-lg"
+        style="background-color: #f0f9ff; border: 1px solid #bae6fd !important;">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center mb-3"><span
+              style="font-size: 20px; margin-right: 10px;">🏭</span>
+            <h5 class="mb-0 font-weight-bold"
+              style="color: #0369a1; font-size: 16px;">Ejemplo Ilustrativo:
+              Evaluación de Riesgo y Protección Auditiva Ocupacional</h5>
+          </div>
+          <p
+            style="text-align: justify; font-size: 14.5px; line-height: 1.7; color: #0c4a6e; margin-bottom: 0;">
+            En una planta industrial con maquinaria pesada, la evaluación del
+            rango conversacional es determinante para prevenir hipoacusias y
+            proteger las células ciliadas de la cóclea.<br><br>Mediante la
+            medición con sonómetro y analizador de bandas de octava, se
+            identifican los niveles de presión sonora (dB) en las frecuencias
+            conversacionales. Si las intensidades superan los <strong>80
+              dB</strong> en este rango, se debe establecer la selección
+            preliminar de Elementos de Protección Personal (EPP) auditivos con
+            la atenuación adecuada para estas bandas, garantizando paralelamente
+            medidas de ingeniería como el aislamiento acústico y la instalación
+            de barreras de sonido.</p>
+        </div>
+      </div>
+      <hr style="border-top: 1px solid #e2e8f0; margin: 30px 0;">
+      <!-- RECURSO VISUAL / FIGURA EXPLICATIVA -->
+      <div class="text-center my-4 p-3 rounded"
+        style="background-color: #f8fafc; border: 1px dashed #cbd5e1;"><img
+          class="img-fluid rounded shadow-sm"
+          style="max-width: 100%; height: auto; max-height: 420px; object-fit: contain;"
+          src="https://cdn.svantek.com/wp-content/uploads/2022/08/auditory-field-768x463.jpg"
+          alt="Campo auditivo humano y espectro conversacional">
+        <p class="mt-3 mb-0 text-muted font-italic" style="font-size: 13px;">
+          <strong>Figura 3:</strong> Mapeo del campo auditivo humano y del área
+          conversacional, ilustrando la relación entre la frecuencia (Hz) y el
+          nivel de intensidad (dB).</p>
+      </div>
+    </div>
+    <!-- FOOTER NATIVO DEL MÓDULO -->
+    <div class="card-footer px-4 py-3 text-center text-md-right"
+      style="background-color: #f1f5f9; border-top: 1px solid #e2e8f0;"><small
+        class="text-muted font-weight-bold" style="letter-spacing: 0.5px;">
+        Asignatura: Peligros Físicos I • Fundamentos de Ruido II </small></div>
+  </div>
+</div>
