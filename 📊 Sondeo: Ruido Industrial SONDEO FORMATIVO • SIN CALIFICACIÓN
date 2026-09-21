@@ -1,0 +1,135 @@
+<div
+  style="background-color: #f8fafc; border-left: 5px solid #46178f; border-radius: 8px; padding: 14px 18px; border: 1px solid #e2e8f0; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+  <div
+    style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 8px;">
+    <span style="color: #002d5a; font-weight: bold; font-size: 14px;"> 🎧 Sondeo
+      de Opinión y Diagnóstico </span> <span
+      style="background-color: #46178f; color: #ffffff; font-weight: bold; font-size: 10.5px; padding: 3px 9px; border-radius: 4px; text-transform: uppercase; letter-spacing: 0.5px;">
+      💜 Kahoot • Ruido Industrial </span></div>
+  <p style="font-size: 13.5px; color: #334155; margin: 0; line-height: 1.55;">
+    <strong>¡Explora tu percepción y conocimientos sobre higiene
+      física!</strong> Participa en este sondeo interactivo en Kahoot sobre la
+    gestión, los efectos en la salud y el control del riesgo por ruido en
+    entornos laborales; es un ejercicio 100% formativo y no afecta tu
+    calificación final. <em>(Haz clic directamente en el título de la actividad
+      para ingresar).</em></p>
+</div>
+-------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- CONTENEDOR PRINCIPAL - SONDEO KAHOOT -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- ENCABEZADO PRINCIPAL -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden mb-4"
+    style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+    <div class="card-body p-4 p-md-5 text-white position-relative">
+      <div class="d-flex align-items-center justify-content-between mb-2"><span
+          class="badge badge-warning text-dark font-weight-bold"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 6px 12px; border-radius: 4px;">
+          SONDEO FORMATIVO • RIESGO FÍSICO </span> <span
+          class="d-none d-md-block"
+          style="font-size: 32px; opacity: 0.85;">🎧</span></div>
+      <h2 class="font-weight-bold mb-2"
+        style="color: #ffffff; font-size: 26px; letter-spacing: -0.5px;">Sondeo
+        sobre Ruido Industrial</h2>
+      <p class="mb-0 text-white-50"
+        style="font-size: 15px; max-width: 800px; line-height: 1.5;">Actividad
+        interactiva de reflexión y diagnóstico conceptual sobre la exposición al
+        ruido y la protección auditiva en el trabajo.</p>
+    </div>
+  </div>
+  <!-- BLOQUE INTRODUCTORIO Y PROPÓSITO -->
+  <div class="card border-0 shadow-sm rounded-lg mb-4"
+    style="background-color: #f8fafc; border-left: 5px solid #46178f !important;">
+    <div class="card-body p-4">
+      <h4 class="font-weight-bold mb-2"
+        style="color: #002d5a; font-size: 18px; letter-spacing: -0.3px;">📢
+        Propósito de la Actividad</h4>
+      <p
+        style="text-align: justify; font-size: 14.5px; line-height: 1.6; color: #334155; margin-bottom: 0;">
+        Este sondeo busca identificar ideas previas, normatividad y criterios de
+        control técnico frente a la exposición a ruido continuo e intermitente
+        en las empresas. Al ser una actividad <strong>100% formativa</strong>,
+        su fin es promover la discusión académica y el aprendizaje
+        significativo.</p>
+    </div>
+  </div>
+  <!-- CARACTERÍSTICAS DEL SONDEO -->
+  <div class="row mb-4">
+    <div class="col-md-4 mb-3 mb-md-0">
+      <div class="card border-0 shadow-sm h-100 text-center p-3"
+        style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+        <div class="mb-2" style="font-size: 28px;">⚡</div>
+        <h6 class="font-weight-bold" style="color: #002d5a;">Ágil e Interactivo
+        </h6>
+        <p class="mb-0 text-muted" style="font-size: 13px;">Responde preguntas
+          dinámicas desde cualquier dispositivo.</p>
+      </div>
+    </div>
+    <div class="col-md-4 mb-3 mb-md-0">
+      <div class="card border-0 shadow-sm h-100 text-center p-3"
+        style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+        <div class="mb-2" style="font-size: 28px;">📊</div>
+        <h6 class="font-weight-bold" style="color: #002d5a;">Resultados Grupales
+        </h6>
+        <p class="mb-0 text-muted" style="font-size: 13px;">Permite analizar las
+          percepciones generales del grupo.</p>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card border-0 shadow-sm h-100 text-center p-3"
+        style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+        <div class="mb-2" style="font-size: 28px;">🌱</div>
+        <h6 class="font-weight-bold" style="color: #002d5a;">Sin Ponderación
+        </h6>
+        <p class="mb-0 text-muted" style="font-size: 13px;">No genera
+          calificación numérica dentro de la asignatura.</p>
+      </div>
+    </div>
+  </div>
+  <!-- LLAMADO A LA ACCIÓN (BOTÓN PRINCIPAL KAHOOT) -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4 text-center"
+    style="background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%); border: 1px solid #d8b4fe;">
+    <div class="card-body p-4 p-md-5">
+      <h5 class="font-weight-bold mb-3"
+        style="color: #46178f; font-size: 18px;">🚀 ¿Listo/a para participar en
+        el sondeo en Kahoot?</h5>
+      <p class="text-muted mb-4"
+        style="font-size: 14px; max-width: 650px; margin: 0 auto;">Haz clic en
+        el siguiente botón para acceder al cuestionario. Ingresa con tu nombre y
+        apellido para contabilizar tu participación en clase.</p>
+      <a class="btn btn-primary btn-lg shadow font-weight-bold px-4 py-3"
+        style="background-color: #46178f; border: none; font-size: 16px; border-radius: 6px; letter-spacing: 0.5px; transition: all 0.3s ease;"
+        href="https://kahoot.it/challenge/06356255?challenge-id=8b477097-d16e-472c-b61f-5f55f1bfc96c_1789596351368"
+        target="_blank" rel="noopener noreferrer"> 💜 Iniciar Sondeo en Kahoot
+      </a>
+    </div>
+  </div>
+  <!-- INSTRUCCIONES RÁPIDAS -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+    <div class="card-body p-4">
+      <h6 class="font-weight-bold mb-3"
+        style="color: #002d5a; font-size: 15px;">💡 Recomendaciones para la
+        actividad:</h6>
+      <ul
+        style="font-size: 13.5px; color: #475569; line-height: 1.7; padding-left: 20px; margin-bottom: 0;">
+        <li style="margin-bottom: 4px;">Lee detenidamente cada caso o afirmación
+          antes de responder.</li>
+        <li style="margin-bottom: 4px;">Relaciona las preguntas con los límites
+          permisibles y las medidas de control en la fuente, medio e individuo.
+        </li>
+        <li>Toma nota de las dudas que surjan para discutirlas en el próximo
+          encuentro presencial/sincrónico.</li>
+      </ul>
+    </div>
+  </div>
+  <!-- FOOTER ACADÉMICO -->
+  <div class="card-footer p-3 rounded-lg text-center"
+    style="background-color: #f1f5f9; border: 1px solid #e2e8f0;">
+    <div
+      class="d-flex align-items-center justify-content-between flex-wrap text-muted"
+      style="font-size: 12.5px;">📌 <strong>Higiene y Seguridad
+        Industrial</strong> Sondeo Formativo</div>
+  </div>
+</div>
