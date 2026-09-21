@@ -1,0 +1,130 @@
+<div
+  style="background-color: #f8fafc; border-left: 5px solid #1e3a8a; border-radius: 8px; padding: 14px 18px; border: 1px solid #e2e8f0; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+  <div
+    style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 8px;">
+    <span style="color: #002d5a; font-weight: bold; font-size: 14px;"> 🎯
+      Práctica de Autoevaluación Formativa </span> <span
+      style="background-color: #28a745; color: #ffffff; font-weight: bold; font-size: 10.5px; padding: 3px 9px; border-radius: 4px; text-transform: uppercase; letter-spacing: 0.5px;">
+      🔄 Intentos Ilimitados </span></div>
+  <p style="font-size: 13.5px; color: #334155; margin: 0; line-height: 1.55;">
+    <strong>¡Pon a prueba tus conocimientos sin presión!</strong> Esta actividad
+    en Wayground es 100% formativa y no afecta tu calificación final; cuentas
+    con la libertad de repasar los conceptos clave del módulo, verificar tu
+    aprendizaje y afianzar los temas a tu propio ritmo antes de las entregas
+    oficiales. <em>(Haz clic directamente en el título de la actividad para
+      ingresar).</em></p>
+</div>
+--------------------------------------------------------------------------------------------------------------------------------------
+<!-- CONTENEDOR PRINCIPAL - ACTIVIDAD INTERACTIVA -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- ENCABEZADO PRINCIPAL LLAMATIVO Y ACADÉMICO -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden mb-4"
+    style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+    <div class="card-body p-4 p-md-5 text-white position-relative">
+      <div class="d-flex align-items-center justify-content-between mb-2"><span
+          class="badge badge-warning text-dark font-weight-bold"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 6px 12px; border-radius: 4px;">
+          AUTOEVALUACIÓN FORMATIVA • SIN CALIFICACIÓN </span> <span
+          class="d-none d-md-block"
+          style="font-size: 32px; opacity: 0.85;">🎮</span></div>
+      <h2 class="font-weight-bold mb-2"
+        style="color: #ffffff; font-size: 26px; letter-spacing: -0.5px;">
+        Práctica Interactiva de Afianzamiento</h2>
+      <p class="mb-0 text-white-50"
+        style="font-size: 15px; max-width: 800px; line-height: 1.5;">Espacio
+        gamificado de repaso individual para poner a prueba tus conocimientos de
+        forma dinámica y sin presión académica.</p>
+    </div>
+  </div>
+  <!-- BLOQUE INTRODUCTORIO Y PROPÓSITO -->
+  <div class="card border-0 shadow-sm rounded-lg mb-4"
+    style="background-color: #f8fafc; border-left: 5px solid #002d5a !important;">
+    <div class="card-body p-4">
+      <h4 class="font-weight-bold mb-2"
+        style="color: #002d5a; font-size: 18px; letter-spacing: -0.3px;">🎯
+        Propósito de la Actividad</h4>
+      <p
+        style="text-align: justify; font-size: 14.5px; line-height: 1.6; color: #334155; margin-bottom: 0;">
+        Esta actividad es de <strong>carácter 100% formativo</strong>. Su
+        objetivo es permitirte validar la comprensión de los temas estudiados,
+        identificar fortalezas y reforzar los conceptos clave antes de abordar
+        las evaluaciones calificables del módulo.</p>
+    </div>
+  </div>
+  <!-- CARACTERÍSTICAS DE LA ACTIVIDAD -->
+  <div class="row mb-4">
+    <div class="col-md-4 mb-3 mb-md-0">
+      <div class="card border-0 shadow-sm h-100 text-center p-3"
+        style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+        <div class="mb-2" style="font-size: 28px;">🔄</div>
+        <h6 class="font-weight-bold" style="color: #002d5a;">Intentos Ilimitados
+        </h6>
+        <p class="mb-0 text-muted" style="font-size: 13px;">Puedes realizar el
+          ejercicio las veces que consideres necesarias.</p>
+      </div>
+    </div>
+    <div class="col-md-4 mb-3 mb-md-0">
+      <div class="card border-0 shadow-sm h-100 text-center p-3"
+        style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+        <div class="mb-2" style="font-size: 28px;">⚡</div>
+        <h6 class="font-weight-bold" style="color: #002d5a;">Retroalimentación
+        </h6>
+        <p class="mb-0 text-muted" style="font-size: 13px;">Conoce tus aciertos
+          y respuestas correctas al instante.</p>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card border-0 shadow-sm h-100 text-center p-3"
+        style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+        <div class="mb-2" style="font-size: 28px;">🌱</div>
+        <h6 class="font-weight-bold" style="color: #002d5a;">Sin Ponderación
+        </h6>
+        <p class="mb-0 text-muted" style="font-size: 13px;">No afecta tu nota
+          final; es una herramienta de aprendizaje libre.</p>
+      </div>
+    </div>
+  </div>
+  <!-- LLAMADO A LA ACCIÓN (BOTÓN PRINCIPAL) -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4 text-center"
+    style="background: linear-gradient(135deg, #edf2f7 0%, #e2e8f0 100%); border: 1px solid #cbd5e1;">
+    <div class="card-body p-4 p-md-5">
+      <h5 class="font-weight-bold mb-3"
+        style="color: #002d5a; font-size: 18px;">🚀 ¿Listo/a para interactuar y
+        aprender?</h5>
+      <p class="text-muted mb-4"
+        style="font-size: 14px; max-width: 650px; margin: 0 auto;">Haz clic en
+        el siguiente botón para abrir la sala de juego interactiva en Wayground.
+        Ingresa con tu nombre para registrar tu participación.</p>
+      <a class="btn btn-primary btn-lg shadow font-weight-bold px-4 py-3"
+        style="background-color: #1e3a8a; border: none; font-size: 16px; border-radius: 6px; letter-spacing: 0.5px; transition: all 0.3s ease;"
+        href="https://wayground.com/join?gc=53956821" target="_blank"
+        rel="noopener noreferrer"> 🔗 Iniciar Práctica Interactiva </a>
+    </div>
+  </div>
+  <!-- INSTRUCCIONES RÁPIDAS -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+    <div class="card-body p-4">
+      <h6 class="font-weight-bold mb-3"
+        style="color: #002d5a; font-size: 15px;">💡 Pasos sugeridos:</h6>
+      <ul
+        style="font-size: 13.5px; color: #475569; line-height: 1.7; padding-left: 20px; margin-bottom: 0;">
+        <li style="margin-bottom: 4px;">Asegúrate de haber revisado previamente
+          el material de estudio disponible.</li>
+        <li style="margin-bottom: 4px;">Ingresa tu nombre o código de
+          participante al abrir la plataforma.</li>
+        <li>Completa las preguntas a tu propio ritmo y revisa las explicaciones
+          al finalizar.</li>
+      </ul>
+    </div>
+  </div>
+  <!-- FOOTER ACADÉMICO -->
+  <div class="card-footer p-3 rounded-lg text-center"
+    style="background-color: #f1f5f9; border: 1px solid #e2e8f0;">
+    <div
+      class="d-flex align-items-center justify-content-between flex-wrap text-muted"
+      style="font-size: 12.5px;">📌 <strong>Actividad Formativa</strong> Recurso
+      de Aprendizaje Autónomo</div>
+  </div>
+</div>
