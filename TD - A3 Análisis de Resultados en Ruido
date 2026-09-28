@@ -2,7 +2,8 @@
   style="max-width: 950px; margin: auto; font-family: Arial, Helvetica, sans-serif; line-height: 1.6;">
   <div
     style="background: #243a5e; color: white; padding: 18px; border-radius: 6px;">
-    <h3 style="margin: 0;">Análisis de Caso – Control del Ruido Ocupacional</h3>
+    <h3 style="margin: 0;">🏭 Análisis de Caso – Control del Ruido Ocupacional
+    </h3>
     <p style="margin: 5px 0 0 0;">Aplicación de medidas de atenuación sonora
       (Control en el Medio)</p>
   </div>
@@ -162,121 +163,145 @@
     <br>
     <div
       style="background: white; border: 1px solid #d9d9d9; padding: 20px; border-radius: 6px;">
-      <details>
-        <summary
-          style="font-size: 18px; font-weight: bold; color: #243a5e; cursor: pointer;">
-          📊 Rúbrica de evaluación de la actividad</summary>
-        <br>
-        <div
-          style="background: #eef3f8; border-left: 6px solid #243a5e; padding: 14px; border-radius: 6px; margin-bottom: 15px;">
-          <strong>Importante:</strong> Las respuestas deben ser elaboradas con
-          redacción técnica propia, utilizando conceptos de higiene industrial y
-          control del ruido ocupacional. Las respuestas superficiales, copiadas
-          o sin análisis técnico no obtendrán el puntaje completo.</div>
-        <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
-          <tbody>
-            <tr style="background: #243a5e; color: white; text-align: center;">
-              <th style="padding: 10px; border: 1px solid #ccc;">Criterio</th>
-              <th style="padding: 10px; border: 1px solid #ccc;">Excelente</th>
-              <th style="padding: 10px; border: 1px solid #ccc;">Bueno</th>
-              <th style="padding: 10px; border: 1px solid #ccc;">Básico</th>
-              <th style="padding: 10px; border: 1px solid #ccc;">Insuficiente
-              </th>
-              <th style="padding: 10px; border: 1px solid #ccc;">Puntos</th>
-            </tr>
-            <tr>
-              <td style="padding: 10px; border: 1px solid #ccc;">
-                <strong>Identificación del peligro</strong></td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Identificación
-                precisa de la fuente de ruido y descripción técnica del entorno
-                acústico utilizando terminología de higiene industrial.</td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Identifica la
-                fuente de ruido y describe el entorno con menor profundidad
-                técnica.</td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Reconoce la
-                fuente de ruido pero con análisis superficial.</td>
-              <td style="padding: 10px; border: 1px solid #ccc;">No identifica
-                correctamente la fuente o el análisis es incorrecto.</td>
-              <td
-                style="padding: 10px; border: 1px solid #ccc; text-align: center;">
-                <strong>20</strong></td>
-            </tr>
-            <tr>
-              <td style="padding: 10px; border: 1px solid #ccc;">
-                <strong>Evaluación del riesgo</strong></td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Interpreta
-                correctamente niveles de presión sonora, realiza cálculos de
-                reducción en decibeles y analiza las bandas de frecuencia con
-                fundamentos de acústica ocupacional.</td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Interpreta
-                niveles de ruido y realiza cálculos principales con análisis
-                limitado.</td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Reconoce los
-                valores pero presenta errores de interpretación o cálculo.</td>
-              <td style="padding: 10px; border: 1px solid #ccc;">No interpreta
-                los datos ni realiza los análisis cuantitativos solicitados.
-              </td>
-              <td
-                style="padding: 10px; border: 1px solid #ccc; text-align: center;">
-                <strong>30</strong></td>
-            </tr>
-            <tr>
-              <td style="padding: 10px; border: 1px solid #ccc;"><strong>Control
-                  del riesgo</strong></td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Explica
-                técnicamente el control implementado y propone medidas
-                adicionales de ingeniería sustentadas en principios acústicos.
-              </td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Describe
-                correctamente el control aplicado con análisis general.</td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Reconoce el
-                control pero con explicación limitada.</td>
-              <td style="padding: 10px; border: 1px solid #ccc;">No explica
-                correctamente el control o utiliza conceptos erróneos.</td>
-              <td
-                style="padding: 10px; border: 1px solid #ccc; text-align: center;">
-                <strong>25</strong></td>
-            </tr>
-            <tr>
-              <td style="padding: 10px; border: 1px solid #ccc;">
-                <strong>Verificación del control</strong></td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Analiza
-                críticamente los resultados posteriores al control y evalúa la
-                efectividad de la medida implementada.</td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Reconoce la
-                reducción del ruido y explica de manera general la efectividad.
-              </td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Describe los
-                resultados sin análisis técnico profundo.</td>
-              <td style="padding: 10px; border: 1px solid #ccc;">No interpreta
-                los resultados posteriores al control.</td>
-              <td
-                style="padding: 10px; border: 1px solid #ccc; text-align: center;">
-                <strong>15</strong></td>
-            </tr>
-            <tr>
-              <td style="padding: 10px; border: 1px solid #ccc;"><strong>Calidad
-                  académica del documento</strong></td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Documento muy
-                bien organizado, redacción técnica clara, excelente ortografía y
-                uso adecuado de terminología profesional.</td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Documento
-                organizado con pocos errores de redacción u ortografía.</td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Documento con
-                problemas de organización o redacción poco técnica.</td>
-              <td style="padding: 10px; border: 1px solid #ccc;">Documento
-                desorganizado, con errores frecuentes de ortografía o respuestas
-                incompletas.</td>
-              <td
-                style="padding: 10px; border: 1px solid #ccc; text-align: center;">
-                <strong>10</strong></td>
-            </tr>
-          </tbody>
-        </table>
-        <br>
-        <div
-          style="background: #f4f6f8; padding: 12px; border-radius: 6px; text-align: center; font-weight: bold;">
-          Puntaje total de la actividad: 100 puntos</div>
+      <!-- RÚBRICA DE EVALUACIÓN DESPLEGABLE PARA MOODLE (RA + SUSTENTACIÓN 50%) -->
+      <details class="mb-4 border rounded shadow-sm bg-white" open="">
+        <summary class="p-3 font-weight-bold fw-bold h5 mb-0"
+          style="cursor: pointer; background-color: #f1f5f9; color: #0f172a;"><i
+            class="fa fa-table me-2 text-primary"></i>📊 Rúbrica de Evaluación
+          con Resultados de Aprendizaje (100 Puntos)</summary>
+        <div class="p-4 border-top">
+          <div class="alert alert-warning border-0 p-3 mb-3 small"
+            style="background-color: #fef3c7; color: #92400e; border-left: 4px solid #f59e0b !important;">
+            <strong>Nota Evaluativa Importante:</strong> La calificación final
+            se compone en un <strong>50% por el Informe Técnico Escrito</strong>
+            y un <strong>50% por la Sustentación Oral</strong>. Ambas
+            dimensiones evalúan directamente los Resultados de Aprendizaje (RA)
+            del módulo.</div>
+          <div class="table-responsive">
+            <table class="table table-bordered table-hover align-middle small"
+              style="font-size: 0.85rem;"><!-- CABECERA DE LA TABLA -->
+              <thead class="text-white text-center"
+                style="background-color: #1a365d;">
+                <tr>
+                  <th style="width: 22%;">Criterio &amp; Resultado de
+                    Aprendizaje (RA)</th>
+                  <th style="width: 20%;">Excelente</th>
+                  <th style="width: 20%;">Bueno</th>
+                  <th style="width: 18%;">Básico</th>
+                  <th style="width: 12%;">Insuficiente</th>
+                  <th style="width: 8%;">Puntos</th>
+                </tr>
+              </thead>
+              <tbody><!-- COMPONENTE 1: INFORME ESCRITO (50%) -->
+                <tr class="table-dark text-white font-weight-bold fw-bold">
+                  <td class="bg-secondary text-uppercase py-2" colspan="6"><i
+                      class="fa fa-file-text me-2"></i> COMPONENTE 1: INFORME
+                    TÉCNICO ESCRITO (50% DE LA NOTA FINAL - 50 PUNTOS)</td>
+                </tr>
+                <tr>
+                  <td class="fw-bold font-weight-bold bg-light">
+                    <strong>Diagnóstico y Evaluación del
+                      Riesgo</strong><br><span
+                      class="badge bg-info text-dark mt-1">Alineado a RA1</span>
+                  </td>
+                  <td>Identificación impecable de fuentes, cálculo correcto de
+                    atenuación en dBA y análisis profundo del comportamiento por
+                    frecuencias.</td>
+                  <td>Identifica fuentes y calcula reducciones correctamente,
+                    pero con análisis espectral general.</td>
+                  <td>Calcula valores numéricos pero presenta inconsistencias en
+                    el análisis por frecuencias.</td>
+                  <td>No realiza cálculos espectrales ni interpreta
+                    adecuadamente los datos de presión sonora.</td>
+                  <td class="text-center fw-bold font-weight-bold text-primary">
+                    20 pts</td>
+                </tr>
+                <tr>
+                  <td class="fw-bold font-weight-bold bg-light">
+                    <strong>Propuesta de Control e Ingeniería</strong><br><span
+                      class="badge bg-info text-dark mt-1">Alineado a RA2</span>
+                  </td>
+                  <td>Fundamentación técnica avanzada sobre atenuación en el
+                    medio, absorción de lana mineral vs. concreto y controles
+                    complementarios.</td>
+                  <td>Explica el control en el medio adecuadamente con sustento
+                    de materiales correcto.</td>
+                  <td>Describe la medida de control de forma superficial con
+                    bajo sustento físico-acústico.</td>
+                  <td>Conceptos erróneos sobre el control en el medio o propone
+                    únicamente EPP.</td>
+                  <td class="text-center fw-bold font-weight-bold text-primary">
+                    20 pts</td>
+                </tr>
+                <tr>
+                  <td class="fw-bold font-weight-bold bg-light"><strong>Calidad
+                      Académica del Informe</strong><br><span
+                      class="badge bg-info text-dark mt-1">Alineado a RA1,
+                      RA2</span></td>
+                  <td>Estructura profesional, redacción técnica rigurosa,
+                    citación de normas y presentación clara de tablas y
+                    gráficos.</td>
+                  <td>Documento bien organizado con buena redacción y
+                    terminología adecuada.</td>
+                  <td>Documento con fallas ortográficas, de formato o estructura
+                    incompleta.</td>
+                  <td>Informe desorganizado, sin rigor técnico o copia textual
+                    sin análisis.</td>
+                  <td class="text-center fw-bold font-weight-bold text-primary">
+                    10 pts</td>
+                </tr>
+                <!-- COMPONENTE 2: SUSTENTACIÓN ORAL (50%) -->
+                <tr class="table-dark text-white font-weight-bold fw-bold">
+                  <td class="bg-danger text-uppercase py-2" colspan="6"><i
+                      class="fa fa-microphone me-2"></i> COMPONENTE 2:
+                    SUSTENTACIÓN Y DEFENSA ORAL (50% DE LA NOTA FINAL - 50
+                    PUNTOS)</td>
+                </tr>
+                <tr>
+                  <td class="fw-bold font-weight-bold bg-light"><strong>Dominio
+                      Técnico y Exposición</strong><br><span
+                      class="badge bg-danger text-white mt-1">Alineado a
+                      RA3</span></td>
+                  <td>Demuestra dominio fluido y riguroso de la teoría acústica,
+                    manejo de datos sin lectura de apoyo y excelente uso del
+                    tiempo.</td>
+                  <td>Exposición clara y fluida con buen manejo conceptual,
+                    apoyándose puntualmente en diapositivas.</td>
+                  <td>Exposición mayoritariamente memorística o leída, con
+                    vacíos en conceptos clave de ruido.</td>
+                  <td>Incapacidad para exponer el caso, lectura constante o
+                    falta de preparación del equipo.</td>
+                  <td class="text-center fw-bold font-weight-bold text-danger">
+                    25 pts</td>
+                </tr>
+                <tr>
+                  <td class="fw-bold font-weight-bold bg-light"><strong>Defensa
+                      y Respuesta a Preguntas</strong><br><span
+                      class="badge bg-danger text-white mt-1">Alineado a
+                      RA3</span></td>
+                  <td>Responde con alto criterio técnico las preguntas del
+                    docente, justificando con solidez la elección de materiales
+                    y medidas.</td>
+                  <td>Responde de manera acertada a las preguntas planteadas con
+                    buen argumento general.</td>
+                  <td>Respuestas dudosas o vacilantes que justifican
+                    parcialmente las decisiones del proyecto.</td>
+                  <td>No logra responder las preguntas técnicas o brinda
+                    respuestas conceptualmente incorrectas.</td>
+                  <td class="text-center fw-bold font-weight-bold text-danger">
+                    25 pts</td>
+                </tr>
+              </tbody>
+              <tfoot class="fw-bold font-weight-bold text-center bg-light">
+                <tr>
+                  <td class="text-end text-right" colspan="5">PUNTAJE TOTAL
+                    COMBINADO:</td>
+                  <td class="text-primary fs-5">100 pts</td>
+                </tr>
+              </tfoot>
+            </table>
+          </div>
+        </div>
       </details>
     </div>
   </div>
